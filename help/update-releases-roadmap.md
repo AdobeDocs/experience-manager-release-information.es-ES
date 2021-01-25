@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] libere la hoja de ruta'
 description: '[!DNL Adobe Experience Manager] libere la hoja de ruta'
 translation-type: tm+mt
-source-git-commit: 7394d2d8a9b1f4264004e5623ee1e44e2e8f35cd
+source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 13%
+source-wordcount: '403'
+ht-degree: 14%
 
 ---
 
@@ -29,6 +29,12 @@ ht-degree: 13%
 | [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | Versión mensual | 25 de marzo de 2021 |
 | [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | Versión mensual | 29 de abril de 2021 |
 | [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | Versión mensual | 27 de mayo de 2021 |
+| [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | Versión mensual | 24 de junio de 2021 |
+| [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Versión mensual | 29 de julio de 2021 |
+| [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | Versión mensual | 26 de agosto de 2021 |
+| [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Versión mensual | 30 de septiembre de 2021 |
+| [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Versión mensual | 28 de octubre de 2021 |
+| [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Versión mensual | 2 de diciembre de 2021 |
 
 Además de las versiones mensuales, hay varias actualizaciones críticas disponibles en [!DNL Experience Manager] como [!DNL Cloud Service] con una frecuencia de versión diaria.
 
