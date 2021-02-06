@@ -1,10 +1,10 @@
 ---
 title: Paquete de correcciones acumulativas de AEM 6.2
-description: nulo
+description: Notas de la versión del paquete de correcciones acumulativas de Experience Manager 6.2. Investigue más a fondo los problemas corregidos en varios paquetes de correcciones acumulativas en los componentes del Experience Manager.
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 98d91e0367912d8962bb2f45ae972f50ccb71b5f
 workflow-type: tm+mt
-source-wordcount: '19954'
+source-wordcount: '19975'
 ht-degree: 19%
 
 ---
@@ -654,7 +654,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 
 ### Flujo de trabajo {#workflow}
 
-* El servicio de notificación por correo electrónico de flujo de trabajo de CQ por día desencadena un mensaje de correo electrónico por nodo Mongo para las notificaciones WorkflowCompleted y WorkflowAborted. NPR-22486: revisión para CQ-4238172
+* El servicio de notificación por correo electrónico del flujo de trabajo de CQ por día déclencheur un correo electrónico por nodo de Mongo para las notificaciones WorkflowCompleted y WorkflowAborted. NPR-22486: revisión para CQ-4238172
 
 ## Forms {#forms-6}
 
@@ -1272,7 +1272,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 
 ### Sitios {#sites-12}
 
-* En un clúster de autores activo-activo con MongoDB, ambos autores intentan activar la replicación para el mismo contenido, cuando el tiempo alcanza el valor de tiempo de activación establecido para el contenido. NPR-18708; Revisión para CQ-4210982
+* En un clúster de autores activo-activo con MongoDB, ambos autores intentan realizar un déclencheur de la replicación para el mismo contenido, cuando el tiempo alcanza el valor de tiempo de activación establecido para el contenido. NPR-18708; Revisión para CQ-4210982
 * NPE al mover un recurso con una referencia que no tiene jcr: nodo de contenido. NPR-18664
 * Los marcadores de posición no están visibles en una página que contiene varios componentes parsys. NPR-18645; Revisión para CQ-110253
 * Problemas de concurrencia en AbstractCopyMoveCommand. NPR-18591
