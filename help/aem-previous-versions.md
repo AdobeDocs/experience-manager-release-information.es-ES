@@ -1,24 +1,24 @@
 ---
 title: Versiones anteriores de AEM, CQ y CRX
-description: Paquetes de documentación para versiones anteriores de Adobe Experience Manager, CQ y CRX.
+description: Acceda a paquetes de documentación de versiones anteriores de Adobe Experience Manager, CQ y CRX.
 translation-type: tm+mt
 source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 25%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Versiones anteriores de [!DNL Adobe Experience Manager], CQ y CRX {#older-versions-aem-cq-crx}
 
-## Versiones anteriores de [!DNL Experience Manager] documentación {#older-version-aem-documentation}
+## Versiones anteriores de la documentación de [!DNL Experience Manager] {#older-version-aem-documentation}
 
-Las versiones de [!DNL Experience Manager], CQ y CRX enumeradas en esta página son End of Life y ya no se venden oficialmente por Adobe. Tiene a su disposición las versiones más recientes de la documentación oficial de estas versiones más antiguas para que pueda satisfacer por su cuenta cualquier necesidad que tenga relacionada con ellas. Le recomendamos que actualice a la versión más reciente (que actualmente es [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html)).
+Las versiones de [!DNL Experience Manager], CQ y CRX que figuran en esta página están en desuso y ya no reciben asistencia oficial por parte de Adobe. Tiene a su disposición las versiones más recientes de la documentación oficial de estas versiones más antiguas para que pueda satisfacer por su cuenta cualquier necesidad que tenga relacionada con ellas. Le recomendamos actualizar a la versión más reciente (que actualmente es [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html?lang=es)).
 
 >[!NOTE]
 >
->Para saber cuándo una versión [!DNL Experience Manager] alcanzará el final del soporte principal, consulte [productos y períodos de soporte técnico](https://helpx.adobe.com/support/programs/eol-matrix.html) y busque `AEM`.
+>Para saber cuándo una versión de [!DNL Experience Manager] alcanzará el final del soporte principal, consulte [productos y periodos de soporte técnico](https://helpx.adobe.com/es/support/programs/eol-matrix.html) y busque `AEM`.
 
 ### Antes de realizar la instalación {#before-installation}
 
@@ -29,37 +29,37 @@ Antes de descargar el paquete, defina quién consumirá su contenido. Esta decis
 
 >[!NOTE]
 >
->Los usuarios deben iniciar sesión en la instancia [!DNL Experience Manager] para acceder a este contenido en [!DNL Experience Manager] Author. A este contenido no se puede acceder de forma predeterminada en AEM Publish, ya que existe en /bibliotecas.
+>Los usuarios deben haber iniciado sesión en la instancia de [!DNL Experience Manager] para acceder al contenido de [!DNL Experience Manager] Author. A este contenido no se puede acceder de forma predeterminada en AEM Publish, ya que existe en /bibliotecas.
 
 ## Ubicaciones de distribución de software {#software-distribution-locations}
 
 Necesitará un Adobe ID válido:
 
-* Si no tiene un Adobe ID, puede crearlo en www.adobe.com
-Si necesita ayuda para crear o administrar su Adobe ID, [consulte esta guía](https://helpx.adobe.com/manage-account.html)
+* Si no tiene un Adobe ID, puede crear uno en www.adobe.com
+Si necesita ayuda para crear o administrar su Adobe ID, [consulte esta guía](https://helpx.adobe.com/es/manage-account.html)
 
-| [!DNL Experience Manager] Versión | Vínculo de distribución de software |
+| Versión de [!DNL Experience Manager] | Vínculo de distribución de software |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.2 | [Descargar AEM-DOCS-6.2 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
+| [!DNL Experience Manager] 6,2 | [Descargar AEM-DOCS-6.2 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [Descargar AEM-DOCS-6.1 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-6-1.zip) |
-| [!DNL Experience Manager] 6,0 | [Descargar AEM-DOCS-6.0 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
+| [!DNL Experience Manager] 6.0 | [Descargar AEM-DOCS-6.0 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
 | [!DNL Experience Manager] 5.6.1 | [Descargar AEM-DOCS-5.6.1 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip) |
-| [!DNL Experience Manager] 5,6 | [Descargar AEM-DOCS-5.6 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip) |
+| [!DNL Experience Manager] 5.6 | [Descargar AEM-DOCS-5.6 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip) |
 | CQ 5.5 | [Descargar CQ-DOCS-5.5 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=%2Fcontent%2Fsoftware-distribution%2Fen%2Fdetails.html%2Fcontent%2Fdam%2Faem%2Fpublic%2Fadobe%2Fpackages%2Faem-docs%2Faem-docs-5-5.zip) |
 | CQ 5.4 | [Descargar CQ-DOCS-5.4 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-4.zip) |
 | CQ 5.3 | [Descargar CQ-DOCS-5.3 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-3.zip) |
-| CRX 2.3 | [Descarga de CRX-DOCS-2.3 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-3.zip) |
-| CRX 2.2 | [Descarga de CRX-DOCS-2.2 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-2.zip) |
-| CRX 2.1 | [Descarga de CRX-DOCS-2.1 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip) |
-| CRX 2.0 | [Descarga de CRX-DOCS-2.0 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip) |
+| CRX 2.3 | [Descargar CRX-DOCS-2.3 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-3.zip) |
+| CRX 2.2 | [Descargar CRX-DOCS-2.2 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-2.zip) |
+| CRX 2.1 | [Descargar CRX-DOCS-2.1 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip) |
+| CRX 2.0 | [Descargar CRX-DOCS-2.0 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip) |
 
 ## Cómo instalar un paquete de documentación {#how-to-install-documentation-package}
 
-Para instalar un paquete de documentación heredado debe tener [!DNL Experience Manager] instalado y en ejecución en la unidad local o en la unidad de red.
+Es necesario que [!DNL Experience Manager] esté instalado y en funcionamiento en su disco local o de red para instalar un paquete de documentación antiguo.
 
-### Descargue el paquete de documentación {#download-documentation-package}
+### Descargar el paquete de documentación {#download-documentation-package}
 
-1. En la tabla anterior, seleccione el vínculo para la versión de documentación [!DNL Experience Manager] que desea descargar. Por ejemplo, AEM 5.6.1.
+1. En la tabla que se muestra más arriba, seleccione el enlace para la versión de la documentación de [!DNL Experience Manager] que quiera descargar. Por ejemplo, AEM 5.6.1.
 
 1. Inicie sesión con su Adobe ID. Si no dispone de un ID, cree uno.
 
@@ -69,9 +69,9 @@ Para instalar un paquete de documentación heredado debe tener [!DNL Experience 
 
 ![Ejemplo de distribución de software](assets/screen_shot_2020-07-10at161922.jpg)
 
-### Instale el paquete en su instancia local {#install-package-local-instance}
+### Instalación del paquete en su instancia local {#install-package-local-instance}
 
-1. Abra la interfaz de usuario [!DNL Experience Manager]. En un navegador web, introduzca: `http://localhost:4502/`. Inicie sesión como administrador.
+1. Abra la interfaz de usuario [!DNL Experience Manager]. En un explorador web, introduzca: `http://localhost:4502/`. Inicie sesión como administrador.
 
 1. Seleccione **[!UICONTROL Herramientas]** > **[!UICONTROL Implementación]** > **[!UICONTROL Paquetes]**.
 
@@ -85,10 +85,10 @@ Para instalar un paquete de documentación heredado debe tener [!DNL Experience 
 
 1. En la interfaz de usuario del administrador de paquetes, busque el paquete y seleccione **[!UICONTROL Instalar]**.
 
-1. En el cuadro de diálogo de confirmación, seleccione **[!UICONTROL Instalar]** nuevamente. Nota: La instalación tardará unos minutos.
+1. En el cuadro de diálogo de confirmación, vuelva a seleccionar **[!UICONTROL Instalar]**. Nota: La instalación tardará unos minutos.
 
-1. En un navegador web, inicie la página de documentación. Con el ejemplo de AEM 5.6.1, la dirección URL sería: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. En un explorador web, introduzca la página de la documentación para abrirla. En el ejemplo de AEM 5.6.1, la URL sería la siguiente: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
-## Obtener ayuda de la comunidad [!DNL Experience Manager] {#get-help-from-aem-community}
+## Obtener ayuda de la comunidad de [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Si tiene alguna pregunta sobre el uso de Experience Manager, le recomendamos que [se ponga en contacto con nuestros expertos de la comunidad en los  [!DNL Experience Manager] foros](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Si tiene alguna pregunta sobre el uso de Experience Manager, le recomendamos que [se ponga en contacto con nuestros expertos de la comunidad en los foros de  [!DNL Experience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
