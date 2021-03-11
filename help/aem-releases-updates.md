@@ -3,10 +3,10 @@ title: Actualizaciones de versiones de [!DNL Adobe Experience Manager]
 description: Actualizaciones de versiones de [!DNL Adobe Experience Manager]
 contentOwner: AK
 translation-type: tm+mt
-source-git-commit: 73b15ea55fcd259dd514be990cb2c78e86737591
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '314'
+ht-degree: 91%
 
 ---
 
@@ -33,7 +33,7 @@ Para las ofertas de Managed Services y On-Premise, el artículo incluye la últi
 
 Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores.
 
-* Paquete de servicio 7 de [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es)
+* [[!DNL Experience Manager] Paquete de servicio 8 de 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es)
 
 * [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=es)
 
@@ -43,7 +43,7 @@ Para ver la lista de las características introducidas, consulte las [novedades 
 
 Las actualizaciones de producto de [!DNL Experience Manager] 6.4 se entregan a través de los CFP trimestrales. Estos incluyen correcciones de errores.
 
-* Paquete de correcciones acumulativas 3 del paquete de servicio 8 de [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es)
+* Paquete de correcciones acumulativas 4 del paquete de servicio 8 de [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es)
 
 * Paquete de servicio 8 de [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=es)
 
