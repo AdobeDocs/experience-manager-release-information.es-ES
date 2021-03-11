@@ -3,9 +3,9 @@ title: Actualizaciones recientes de la documentación de [!DNL Experience Manage
 description: 'Novedades, actualizaciones o cambios en la documentación de  [!DNL Experience Manager] '
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: aafdb3e36e9f856de37d5462af923aad32a73f6d
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
-source-wordcount: '3220'
+source-wordcount: '3254'
 ht-degree: 99%
 
 ---
@@ -21,7 +21,7 @@ También puede ver las [actualizaciones anteriores de la documentación](previou
 
 >[!NOTE]
 >
->AEM as a Cloud Service se lanza mensualmente.
+>AEM como Cloud Service se publica mensualmente.
 >
 >Consulte las [Notas de la versión](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=es#release-date) para obtener documentación relacionada con las versiones individuales (versiones actuales y anteriores).
 
@@ -58,8 +58,9 @@ También puede ver las [actualizaciones anteriores de la documentación](previou
 
 | Fecha | Tema | Cambios |
 | --- | --- | --- |
+| 11 de marzo de 2021 | [!DNL Experience Manager] Paquete de servicio 8 de 6.5 | El paquete de servicio 8 de [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es#service-pack) está disponible. |
 | 25 de noviembre de 2020 | Accesibilidad en Dynamic Media | Los Visores de Dynamic Media y Dynamic Media admiten tecnologías de control de teclado y asistencia, como lectores de pantalla JAWS y NVDA, en la interfaz de usuario de creación. Consulte [Accesibilidad en Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=es#dynamic). |
-| 26 de noviembre de 2020 | Paquete de servicio 7 de [!DNL Experience Manager] 6.5 | El paquete de servicio 7 de [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es#service-pack) está disponible. |
+| 26 de noviembre de 2020 | Paquete de servicio 7 de [!DNL Experience Manager] 6.5 | El paquete de servicio 7 de [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) está disponible. |
 | 3 de septiembre de 2020 | Invalidación de CDN en Dynamic Media | Ahora puede enviar una solicitud desde Dynamic Media para que la caché de CDN caduque en cuestión de minutos. Esta función resulta útil cuando se realizan actualizaciones de recursos y se desea que los cambios surtan efecto inmediatamente en el sitio web.<br>Consulte [Invalidación de la caché de CDN mediante Dynamic Media.](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
 | 3 de septiembre de 2020 | Uso de Publicación selectiva en Dynamic Media | Puede optar por publicar o cancelar la publicación de recursos en o desde [!DNL Experience Manager] o Dynamic Media a nivel de carpeta, ya sea mediante **Administrar publicación** o **Publicación rápida** en lugar de depender únicamente de la **Configuración de Dynamic Media**, cuya configuración es global para todas las carpetas de la instancia de Dynamic Media.<br>Consulte [Uso de la publicación selectiva en Dynamic Media.](https://docs.adobe.com/content/help/es-ES/experience-manager-65/assets/dynamic/selective-publishing.html) |
 | 3 de septiembre de 2020 | Paquete de servicio 6 de [!DNL Experience Manager] 6.5 | El paquete de servicio 6 de [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es) está disponible. |
@@ -79,7 +80,8 @@ También puede ver las [actualizaciones anteriores de la documentación](previou
 
 | Fecha | Tema | Cambios |
 | --- | --- | --- |
-| 26 de noviembre de 2020 | Paquete de correcciones acumulativas 3 del paquete de servicio 8 de [!DNL Experience Manager] 6.4 | El paquete de correcciones acumulativas 3 del paquete de servicio 8 de [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es) está disponible. |
+| 25 de febrero de 2021 |  Paquete de correcciones acumulativas 4 del paquete de servicio 8 de [!DNL Experience Manager]6.4 | El paquete de correcciones acumulativas 4 del paquete de servicio 8 de [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es) está disponible. |
+| 26 de noviembre de 2020 | Paquete de correcciones acumulativas 3 del paquete de servicio 8 de [!DNL Experience Manager] 6.4 | El paquete de correcciones acumulativas 3 del paquete de servicio 8 de [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) está disponible. |
 | 3 de septiembre de 2020 | Paquete de correcciones acumulativas 2 del paquete de servicio 8 de [!DNL Experience Manager] 6.4 | El paquete de correcciones acumulativas 2 del paquete de servicio 8 de [[!DNL Experience Manager]  6.4](https://docs.adobe.com/content/help/es-ES/experience-manager-64/release-notes/cfp-release-notes.html) está disponible. |
 | 29 de julio de 2020 | [Administrador de varios sitios] | Se han realizado actualizaciones en los procedimientos [Creación de una nueva acción de sincronización](https://docs.adobe.com/content/help/es-ES/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action) y [Creación de una nueva configuración de despliegue.](https://docs.adobe.com/content/help/es-ES/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration) |
 | 19 de junio de 2020 | Adobe Experience Manager | En Adobe, queremos utilizar una terminología equitativa a través de nuestro código, nuestra documentación y nuestras experiencias.<br>Por esta razón, hemos estado realizando una serie de actualizaciones en este conjunto de documentación, y seguiremos haciéndolo en el futuro. |
