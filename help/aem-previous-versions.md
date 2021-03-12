@@ -1,11 +1,11 @@
 ---
 title: Versiones anteriores de AEM, CQ y CRX
 description: Acceda a paquetes de documentación de versiones anteriores de Adobe Experience Manager, CQ y CRX.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '773'
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ Si necesita ayuda para crear o administrar su Adobe ID, [consulte esta guía](ht
 
 | Versión de [!DNL Experience Manager] | Vínculo de distribución de software |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6,2 | [Descargar AEM-DOCS-6.2 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
+| [!DNL Experience Manager] 6.2 | [Descargar AEM-DOCS-6.2 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [Descargar AEM-DOCS-6.1 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-6-1.zip) |
 | [!DNL Experience Manager] 6.0 | [Descargar AEM-DOCS-6.0 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
 | [!DNL Experience Manager] 5.6.1 | [Descargar AEM-DOCS-5.6.1 desde Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip) |
