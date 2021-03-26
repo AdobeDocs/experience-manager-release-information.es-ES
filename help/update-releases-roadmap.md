@@ -1,11 +1,11 @@
 ---
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de pa
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 es el último CFP para la versión  [!DNL Experience Manager] 6.4. Para obtener más información sobre el último CFP publicado, consulte las notas de la versión de  [[!DNL Experience Manager] 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es).
+El paquete de correcciones acumulativas 4 del paquete de servicio 8 de [!DNL Experience Manager] 6.4 es el último paquete de correcciones acumulativas para [!DNL Experience Manager] 6.4. Para obtener más información sobre el paquete de correcciones acumulativas más reciente publicado, consulte las notas de la versión del paquete de correcciones acumulativas de [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es).
 
 >[!MORELIKETHIS]
 >
