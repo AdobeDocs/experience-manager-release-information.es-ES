@@ -7,7 +7,7 @@ user-guide-title: Actualizaciones y hoja de ruta de la versión de Adobe Experie
 breadcrumb-title: Información de versión de AEM
 user-guide-description: Consulte las últimas actualizaciones de la versión de AEM.
 feature-set: Experience Manager
-feature: Información de la versión
+feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
