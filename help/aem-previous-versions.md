@@ -1,14 +1,14 @@
 ---
 title: Versiones anteriores de AEM, CQ y CRX
 description: Acceda a paquetes de documentación de versiones anteriores de Adobe Experience Manager, CQ y CRX.
-translation-type: ht
-source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
-workflow-type: ht
-source-wordcount: '773'
-ht-degree: 100%
+exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
+translation-type: tm+mt
+source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
+workflow-type: tm+mt
+source-wordcount: '793'
+ht-degree: 93%
 
 ---
-
 
 # Versiones anteriores de [!DNL Adobe Experience Manager], CQ y CRX {#older-versions-aem-cq-crx}
 
@@ -71,13 +71,17 @@ Es necesario que [!DNL Experience Manager] esté instalado y en funcionamiento e
 
 ### Instalación del paquete en su instancia local {#install-package-local-instance}
 
+>[!NOTE]
+>
+>Para AEM 6.2, es posible que tenga que iniciar la instancia local con un tamaño máximo de pila mayor, utilizando este comando, por ejemplo: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+
 1. Abra la interfaz de usuario [!DNL Experience Manager]. En un explorador web, introduzca: `http://localhost:4502/`. Inicie sesión como administrador.
 
 1. Seleccione **[!UICONTROL Herramientas]** > **[!UICONTROL Implementación]** > **[!UICONTROL Paquetes]**.
 
 1. En la interfaz de usuario del administrador de paquetes, seleccione **[!UICONTROL Cargar paquete]**.
 
-1. Seleccione la ubicación en la que ha descargado el paquete AEM 5.6.1 (aem-docs-5-6-1.zip).
+1. Vaya a la ubicación en la que descargó el paquete de AEM.
 
 1. Seleccione el paquete y haga clic en **[!UICONTROL Aceptar]**.
 
@@ -87,7 +91,7 @@ Es necesario que [!DNL Experience Manager] esté instalado y en funcionamiento e
 
 1. En el cuadro de diálogo de confirmación, vuelva a seleccionar **[!UICONTROL Instalar]**. Nota: La instalación tardará unos minutos.
 
-1. En un explorador web, introduzca la página de la documentación para abrirla. En el ejemplo de AEM 5.6.1, la URL sería la siguiente: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. En un explorador web, introduzca la página de la documentación para abrirla. Con el ejemplo AEM 5.6.1, la URL sería: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Obtener ayuda de la comunidad de [!DNL Experience Manager] {#get-help-from-aem-community}
 
