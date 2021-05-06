@@ -12,7 +12,7 @@ ht-degree: 99%
 
 # Programa de actualizaciones de [!DNL Experience Manager] {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] ofrece continuamente nuevas funciones, mejoras en las funciones existentes y correcciones de errores para los usuarios que utilizan [!DNL Cloud Service], Servicios administrados y ofertas locales del producto. Este artículo incluye las próximas versiones para [!DNL Experience Manager].
+[!DNL Adobe Experience Manager] ofrece continuamente nuevas funciones, mejoras en las funciones existentes y correcciones de errores para los usuarios que utilizan [!DNL Cloud Service], Managed Services y ofertas locales del producto. Este artículo incluye las próximas versiones para [!DNL Experience Manager].
 
 >[!NOTE]
 >
