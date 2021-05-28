@@ -37,9 +37,9 @@ Además de las versiones mensuales, hay varias actualizaciones esenciales dispon
 
 Las actualizaciones de productos en términos de nuevas funciones, mejoras y correcciones de errores para los servicios administrados y locales de [!DNL Experience Manager] se proporcionan a través de paquetes de servicio trimestrales y paquetes de correcciones acumulativas (CFP). Permite una adopción más rápida de las actualizaciones de productos a través de lanzamientos frecuentes. La programación de próximas versiones de actualizaciones de productos es la siguiente.
 
-### [!DNL Experience Manager] 6,5 {#aem65}
+### [!DNL Experience Manager] 6.5 {#aem65}
 
-Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores. Para obtener más información sobre el paquete de servicio más reciente, consulte [[!DNL Experience Manager] Notas de la versión del paquete de servicio 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es).
+Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores. Para obtener más información sobre el paquete de servicio más reciente, consulte Notas de la versión del paquete de servicio [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es).
 
 | Versión | Versión | Tipo | Programa |
 |---|---|---|---|
@@ -50,7 +50,7 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de pa
 >
 >[!DNL Experience Manager] Forms lanza los paquetes de complementos una semana después de la fecha de lanzamiento programada del paquete de servicio de [!DNL Experience Manager].
 
-### [!DNL Experience Manager] 6,4 {#aem64}
+### [!DNL Experience Manager] 6.4 {#aem64}
 
 El paquete de correcciones acumulativas 4 del paquete de servicio 8 de [!DNL Experience Manager] 6.4 es el último paquete de correcciones acumulativas para [!DNL Experience Manager] 6.4. Para obtener más información sobre el paquete de correcciones acumulativas más reciente publicado, consulte las notas de la versión del paquete de correcciones acumulativas de [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es).
 
