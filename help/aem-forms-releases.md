@@ -10,7 +10,7 @@ ht-degree: 99%
 
 ---
 
-# Versiones de AEM [!DNL Forms] {#aem-forms-releases}
+# Versiones de AEM [!DNL Forms]  {#aem-forms-releases}
 
 Adobe Experience Manager [!DNL Forms] es una aplicación implementada en AEM. Amplía las atractivas experiencias web y móviles a formularios y documentos empresariales, lo que permite a las organizaciones completar interacciones digitales complejas a la vez que mejora las experiencias de los usuarios y aumenta el alcance comercial. AEM [!DNL Forms], incluido en la guía de inicio rápido de AEM, tiene un conjunto limitado de funcionalidades. El paquete de complementos AEM [!DNL Forms] proporciona funciones avanzadas como la integración con [!DNL Adobe Analytics], [!DNL Adobe Sign], servicios de documentos, motor de flujos de trabajo y mucho más.
 
