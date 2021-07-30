@@ -11,7 +11,7 @@ feature: Información de la versión
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: d4f69cdd174d0591104106bc3bbdb62e76835fec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -22,8 +22,8 @@ ht-degree: 100%
 
 + [Página de inicio de información de la versión](home.md)
 + [Actualizaciones de versiones de AEM](aem-releases-updates.md)
-+ [Programa de versiones de AEM](update-releases-roadmap.md)
-+ [Definiciones vehiculares de versiones de AEM](update-release-vehicle-definitions.md)
++ [Hoja de ruta de las versiones de AEM](update-releases-roadmap.md)
++ [Definiciones vehiculares de las versiones de AEM](update-release-vehicle-definitions.md)
 + Actualizaciones de versiones anteriores {#previous-updates}
    + [Paquete de correcciones acumulativas de AEM 6.3](release-notes-aem-6-3-cumulative-fix-pack.md)
    + [Paquete de correcciones acumulativas de AEM 6.2](release-notes-aem-6-2-cumulative-fix-pack.md)
