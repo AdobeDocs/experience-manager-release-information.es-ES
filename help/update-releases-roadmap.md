@@ -2,9 +2,9 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 964950fcd6ae02c5a1cb67f2673b3134a55ee12a
-workflow-type: ht
-source-wordcount: '317'
+source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
+workflow-type: tm+mt
+source-wordcount: '299'
 ht-degree: 100%
 
 ---
@@ -23,8 +23,6 @@ ht-degree: 100%
 
 | Versión | Versión | Tipo | Programa |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Versión mensual | 29 de julio de 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | Versión mensual | 26 de agosto de 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Versión mensual | 30 de septiembre de 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Versión mensual | 28 de octubre de 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Versión mensual | 2 de diciembre de 2021 |
@@ -41,7 +39,6 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de pa
 
 | Versión | Versión | Tipo | Programa |
 |---|---|---|---|
-| [!DNL Experience Manager] Paquete de servicio 10 de 6.5 | 6.5.10.0 | Paquete de servicio | 26 de agosto de 2021 |
 | [!DNL Experience Manager] Paquete de servicio 11 de 6.5 | 6.5.11.0 | Paquete de servicio | 25 de noviembre de 2021 |
 
 >[!NOTE]
@@ -57,5 +54,5 @@ El paquete de correcciones acumulativas 4 del paquete de servicio 8 de [!DNL Exp
 >* [Matriz de fin de vida útil](https://helpx.adobe.com/es/support/programs/eol-matrix.html)
 >* Versiones y actualizaciones de [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=es)
 >* [[!DNL Experience Manager] Formación y asistencia](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es)
->* [Actualizar definiciones vehiculares de versiones de [!DNL Experience Manager]](/help/update-release-vehicle-definitions.md)
+>* Actualizar definiciones vehiculares de versiones de [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 

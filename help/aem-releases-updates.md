@@ -3,8 +3,8 @@ title: Actualizaciones de versiones de [!DNL Adobe Experience Manager]
 description: Actualizaciones de versiones de [!DNL Adobe Experience Manager]
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
-workflow-type: ht
+source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Para las ofertas de Managed Services y On-Premise, el artículo incluye la últi
 
 Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores.
 
-* Paquete de servicio 9 de [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es)
+* Paquete de servicio 10 de [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es)
 
 * [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=es)
 
