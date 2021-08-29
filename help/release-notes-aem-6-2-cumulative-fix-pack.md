@@ -1,10 +1,9 @@
 ---
 title: Paquete de correcciones acumulativas de AEM 6.2
-description: Notas de la versión de Experience Manager 6.2 Cumulative Fix Pack Profundice en los problemas corregidos en varios paquetes fijos acumulativos en los componentes de Experience Manager.
-exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-source-git-commit: c56b6919de7740901a7f71635ac6efd22bdf9a15
+description: Notas de la versión del paquete de correcciones acumulativas de AEM 6.2.
+source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
 workflow-type: tm+mt
-source-wordcount: '19969'
+source-wordcount: '19953'
 ht-degree: 99%
 
 ---
