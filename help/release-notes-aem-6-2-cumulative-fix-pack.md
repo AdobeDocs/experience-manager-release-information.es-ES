@@ -1,9 +1,9 @@
 ---
 title: Paquete de correcciones acumulativas de AEM 6.2
 description: Notas de la versión del paquete de correcciones acumulativas de AEM 6.2.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **Producto** | Adobe Experience Manager |
 |---|---|
 | **Versión** | 6.2 |
-| **Versión** | [Paquete de correcciones acumulativas 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **Versión** | Paquete de correcciones acumulativas 6.2 SP1-CFP20 |
 | **Requisitos previos** | [Paquete de servicio 1 de AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **Disponibilidad general** | 6 de junio de 2019 |
 
@@ -2206,7 +2206,7 @@ Esta sección es una guía de los requisitos y pasos para instalar el CFP.
 
 * El Paquete de servicio 1 de AEM 6.2 es un requisito previo para el CFP. Para obtener instrucciones de instalación, consulte [las notas de la versión del paquete de servicio 1 de AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 
-* La descarga del paquete de correcciones acumulativas está disponible en [Distribución de software](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20), a la que puede acceder directamente desde la instancia de AEM.
+* La descarga del paquete de correcciones acumulativas está disponible en [Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html), a la que puede acceder directamente desde la instancia de AEM.
 * Para una implementación de clúster mediante (RDBMK o MongoDB) el paquete CFP se puede instalar en cualquiera de las instancias de creación que usan el Administrador de paquetes.
 
 * Antes de instalar el paquete de correcciones acumulativas, asegúrese de realizar una instantánea o una copia de seguridad de su instancia de AEM.
