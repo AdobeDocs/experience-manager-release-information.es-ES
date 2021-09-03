@@ -3,10 +3,10 @@ title: Versiones de AEM Forms
 description: Contiene la lista de todas las versiones de AEM Forms y los paquetes correspondientes
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: ca29e401c462861c07befd91914f21660a0fd44a
+source-git-commit: d944b1690e0a57512b270961f77bb6aaaa7db12c
 workflow-type: tm+mt
-source-wordcount: '10253'
-ht-degree: 98%
+source-wordcount: '9918'
+ht-degree: 99%
 
 ---
 
@@ -40,23 +40,11 @@ La siguiente lista contiene todos los paquetes de complementos de AEM [!DNL Form
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.490.zip">Paquete de complementos de AEM Forms para Linux</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.490.zip">Paquete de complementos de AEM Forms para Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">Paquete de complementos de AEM Forms para Mac OS X [2]</a></li>            
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">Paquete de compatibilidad de AEM Forms</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.18.zip">AEM Forms en paquete JEE Embed</a></li>    
-      <br><b>AEM Forms en instaladores de parches JEE</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/JBoss/win/AEMForms-6.5.0-0030_jboss_win.zip">JBoss (Windows)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/JBoss/linux/AEMForms-6.5.0-0030_jboss_linux.tar.gz">JBoss (Linux)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/JBoss/Solaris/AEMForms-6.5.0-0030_jboss_solaris.tar.gz">JBoss (Solaris)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebLogic/Win/AEMForms-6.5.0-0030_weblogic_win.zip">WebLogic (Windows)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebLogic/Linux/AEMForms-6.5.0-0030_weblogic_linux.tar.gz">WebLogic (Linux)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebLogic/Solaris/AEMForms-6.5.0-0030_weblogic_solaris.tar.gz">WebLogic (Solaris)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/Win/AEMForms-6.5.0-0030_websphere_win.zip">WebSphere (Windows)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/Linux/AEMForms-6.5.0-0030_websphere_linux.tar.gz">WebSphere (Linux)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/Solaris/AEMForms-6.5.0-0030_websphere_solaris.tar.gz">WebSphere (Solaris)</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/AIX/AEMForms-6.5.0-0030_websphere_aix.tar.gz">WebSphere (AIX)</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">Paquete de compatibilidad de AEM Forms</a></li>        
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>      
      </ul> </td> 
-    <td><p>Programa de instalación de AEM Forms JEE: AEMForms-6.5.0-0030<br /> </p> Paquetes de complementos de AEM Forms: 6.0.490</p> <p>SDK de cliente: 6.0.490<br /> </p><p>Paquete de compatibilidad de AEM Forms: 2.0.40</p><p>Parche de AEM Forms Designer: 650.017</p><p>Paquete incrustado de AEM Forms en JEE: 5.0.18</p></td> 
+    <td>Paquetes de complementos de AEM Forms: 6.0.490</p> <p>SDK de cliente: 6.0.490<br /> </p><p>Paquete de compatibilidad de AEM Forms: 2.0.40</p><p>Parche de AEM Forms Designer: 650.017</p></td> 
    </tr>
    <tr> 
     <td>3 de junio de 2021</td> 
