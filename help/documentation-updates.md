@@ -10,7 +10,7 @@ ht-degree: 72%
 
 ---
 
-# Documentación de [!DNL Experience Manager]: actualizaciones recientes de la documentación  {#aem-documentation-recent-documentation-updates}
+# Documentación de [!DNL Experience Manager]: actualizaciones recientes de la documentación {#aem-documentation-recent-documentation-updates}
 
 En esta página se enumeran importantes cambios y actualizaciones de la documentación de Adobe Experience Manager desde el inicio del nuevo año.
 
@@ -63,7 +63,7 @@ También puede ver las [actualizaciones anteriores de la documentación](previou
 
 | Fecha | Tema | Cambios |
 | --- | --- | --- |
-| 26 de agosto de 2021 |  Paquete de servicio 10 de [!DNL Experience Manager] 6.5 | El paquete de servicio 10 de [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es#service-pack) está disponible. |
+| 26 de agosto de 2021 | Paquete de servicio 10 de [!DNL Experience Manager] 6.5 | El paquete de servicio 10 de [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es#service-pack) está disponible. |
 | 27 de mayo de 2021 | Paquete de servicio 9 de [!DNL Experience Manager] 6.5 | El paquete de servicio 9 de [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) está disponible. |
 | 11 de marzo de 2021 | Paquete de servicio 8 de [!DNL Experience Manager] 6.5 | El paquete de servicio 8 de [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) está disponible. |
 | 25 de noviembre de 2020 | Accesibilidad en Dynamic Media | Los Visores de Dynamic Media y Dynamic Media admiten tecnologías de control de teclado y asistencia, como lectores de pantalla JAWS y NVDA, en la interfaz de usuario de creación. Consulte [Accesibilidad en Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=es#dynamic). |
@@ -143,7 +143,7 @@ También puede ver las [actualizaciones anteriores de la documentación](previou
 |---|---|---|
 | 19 de junio de 2020 | Adobe Experience Manager | El Adobe pretende utilizar una terminología equitativa a través de su código, documentación y experiencias.<br>Por este motivo, se han realizado una serie de actualizaciones en este conjunto de documentación que reflejan esta equidad. |
 
-## Aplicación de escritorio de [!DNL Experience Manager]  {#aem-desktop-app}
+## Aplicación de escritorio de [!DNL Experience Manager] {#aem-desktop-app}
 
 | Fecha | Temas | Cambios |
 |---|---|---|
