@@ -3,7 +3,7 @@ title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '299'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [[!DNL Experience Manager]  as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) sigue una cadencia de publicación mensual. Como resultado, las nuevas funciones están disponibles como actualizaciones continuas de [!DNL Experience Manager] cada mes. Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service] son las siguientes.
 
-| Versión | Versión | Tipo | Programa |
+| Edición | Versión | Tipo | Programa |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Versión mensual | 30 de septiembre de 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Versión mensual | 28 de octubre de 2021 |
@@ -37,7 +37,7 @@ Las actualizaciones de productos en términos de nuevas funciones, mejoras y cor
 
 Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores. Para obtener más información sobre el paquete de servicio más reciente, consulte Notas de la versión del paquete de servicio [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es).
 
-| Versión | Versión | Tipo | Programa |
+| Edición | Versión | Tipo | Programa |
 |---|---|---|---|
 | [!DNL Experience Manager] Paquete de servicio 11 de 6.5 | 6.5.11.0 | Paquete de servicio | 25 de noviembre de 2021 |
 
