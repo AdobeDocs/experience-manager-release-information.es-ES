@@ -4,7 +4,7 @@ description: Actualizaciones de versiones de [!DNL Adobe Experience Manager]
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
 ht-degree: 100%
 
@@ -54,7 +54,7 @@ Las actualizaciones de producto de [!DNL Experience Manager] 6.4 se entregan a t
 
 * Paquete de servicio 3 de [[!DNL Experience Manager]  6.3](https://helpx.adobe.com/es/experience-manager/6-3/release-notes/sp3-release-notes.html)
 
-* [[!DNL Experience Manager] 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes.html)
+* [[!DNL Experience Manager] 6.3](https://helpx.adobe.com/es/experience-manager/6-3/release-notes.html)
 
 ### [!DNL Experience Manager] 6.2 {#aem-62}
 
