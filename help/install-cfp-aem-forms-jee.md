@@ -4,7 +4,7 @@ description: Resumen de los pasos para instalar y configurar el paquete de corre
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1044'
 ht-degree: 100%
 
@@ -21,9 +21,9 @@ Siga estos pasos, en la secuencia especificada para instalar el paquete de corre
 1. Instale el último CFP de AEM [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md)
 1. Instale el paquete de complemento de [!DNL Forms] para el CFP de AEM [6.3.3.x](aem-forms-releases.md)
 
-### Instale los paquetes [!DNL Forms JEE] de AEM {#install-aem-forms-jee-bundles-package}
+### Instale los paquetes de AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
 
-El paquete AEM [!DNL  Forms JEE] (aemfd-jee-buncles-package-6.3CFP1; versión 1.0.2) proporciona al usuario de AEM [!DNL Forms] en AEM [!DNL Forms JEE] los mismos derechos y capacidades que en AEM [!DNL Forms OSGi]. Compruebe los paquetes instalados en el Administrador de paquetes e instale el paquete si aún no está instalado.
+El paquete de AEM [!DNL  Forms JEE] (aemfd-jee-buncles-package-6.3CFP1; versión 1.0.2) proporciona al usuario de AEM [!DNL Forms] en AEM [!DNL Forms JEE] los mismos derechos y capacidades que en AEM [!DNL Forms OSGi]. Compruebe los paquetes instalados en el Administrador de paquetes e instale el paquete si aún no está instalado.
 
 ### Instrucciones adicionales para CQ-4208044 {#additional-instructions-for-cq}
 
@@ -48,16 +48,16 @@ Siga estos pasos, en la secuencia especificada para instalar el paquete de corre
 
 1. Póngase en contacto con el equipo de [Asistencia de Adobe](https://www.adobe.com/account/sign-in.supportportal.html) para obtener el programa de instalación de AEM 6.2 [!DNL Forms JEE] para el CFP.
 1. Ejecute el instalador del CFP y configure AEM [!DNL Forms JEE] como se describe en [Instalar y configurar AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
-1. Instale Revisión 12785 de AEM versión 7.0.
+1. Instale la revisión 12785 de AEM versión 7.0.
 1. Instale el [paquete de servicio 1 de AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 1. Instale el último [paquete de servicio 1 del CFP de AEM 6.2](release-notes-aem-6-2-cumulative-fix-pack.md).
 1. Instale el paquete de complemento de [!DNL Forms] para el [CFP del paquete de servicio 1 de AEM 6.2](aem-forms-releases.md).
 
-### Instale los paquetes [!DNL Forms JEE] de AEM {#install-aem-forms-jee-bundles-package-1}
+### Instale los paquetes de AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
 
-Paquete AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5; versión 1.0.2) proporciona al usuario de AEM[!DNL Forms] en [!DNL Forms JEE] los mismos derechos y capacidades que en AEM [!DNL Forms OSGi]. Compruebe los paquetes instalados en el Administrador de paquetes e instale el paquete si aún no está instalado.
+El paquete de AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5; versión 1.0.2) proporciona al usuario de AEM [!DNL Forms] en [!DNL Forms JEE] los mismos derechos y capacidades que en AEM [!DNL Forms OSGi]. Compruebe los paquetes instalados en el Administrador de paquetes e instale el paquete si aún no está instalado.
 
-### Configuración del tiempo de espera para operaciones a nivel de componente (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
+### Configuración del tiempo de espera para operaciones en el nivel de componente (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
 
 1. Para establecer el tiempo de espera de los valores de operación `DesigntimeService` en 500 segundos, utilice:
 
-   establezca &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Para establecer el tiempo de espera de los valores de operación `DesigntimeService's previewLCA` en 700 segundos, utilice:
 
@@ -91,9 +91,9 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
 
 1. Para establecer el `DSC operations` como carga, instalación, etc. en 600 segundos, utilice:
 
-   establezca &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
-## Instalar y configurar AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
+## Instalación y configuración de AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
 1. Realice una copia de seguridad de la carpeta /deploy. Es necesaria si decide desinstalar la corrección rápida.
 1. Detenga el servidor de aplicaciones.
