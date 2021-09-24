@@ -47,7 +47,6 @@ El paquete de correcciones acumulativas 6.2 SP1-CFP20 de AEM es el último paque
 >* Se ha agregado un paquete de correo electrónico de apache commons **org.apache.commons/commons-email/1.5** para reemplazar a **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
 >
 >* Adobe recomienda implementar el CFP a través de la carpeta de instalación para clientes con un gran número de usuarios en instancias de AEM.
-
 >
 
 
@@ -1322,7 +1321,6 @@ Las correcciones de AEM Forms se entregan mediante paquetes de complementos y ot
 >
 >* Copiar y pegar desde Word o desde la web en el editor de texto de CM muestra el contenido de salto de línea. NPR-19530
 >* El contenido sin salto de línea del Editor de texto de CM no se ajusta. NPR-19449
-
 >
 >Estas cuestiones se abordarán en los futuros CFP.
 
