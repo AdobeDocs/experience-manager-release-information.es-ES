@@ -4,9 +4,9 @@ type: Documentation
 git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-release-information.es-ES
 index: true
 source-git-commit: 56ad6aa6c57b997f001c33abc43e9644ebd43447
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
