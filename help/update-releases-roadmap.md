@@ -43,7 +43,7 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de pa
 | Paquete de servicio 12 de [!DNL Experience Manager] 6.5 | 6.5.12.0 | Paquete de servicio | 24 de febrero de 2022 |
 | Paquete de servicio 13 de [!DNL Experience Manager] 6.5 | 6.5.13.0 | Paquete de servicio | 26 de mayo de 2022 |
 | Paquete de servicio 14 de [!DNL Experience Manager] 6.5 | 6.5.14.0 | Paquete de servicio | 25 de agosto de 2022 |
-| Paquete de servicio 15 de [!DNL Experience Manager] 6.5 | 6.5.15.0 | Paquete de servicio | 24 de noviembre de 2022 |
+| Paquete de servicio 15 de [!DNL Experience Manager] 6.5 | 6.5.15.0 | Paquete de servicio | Nov 24, 2022 |
 
 
 >[!NOTE]
