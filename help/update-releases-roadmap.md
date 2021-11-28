@@ -2,7 +2,7 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: 3a32f1a6f2807219c235d59c841e53e88a017fad
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 | Edición | Versión | Tipo | Programa |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Versión mensual | 2 de diciembre de 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Versión mensual | 16 de diciembre de 2021 |
 
 Además de las versiones mensuales, hay varias actualizaciones esenciales disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] con una frecuencia de versión diaria.
 
