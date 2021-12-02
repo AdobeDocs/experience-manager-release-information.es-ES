@@ -59,7 +59,7 @@ El paquete de correcciones acumulativas 4 del paquete de servicio 8 de [!DNL Exp
 >[!MORELIKETHIS]
 >
 >* [Matriz de fin de vida útil](https://helpx.adobe.com/es/support/programs/eol-matrix.html)
->* Versiones y actualizaciones de [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=es)
+>* Versiones y actualizaciones de [[!DNL Experience Manager] ](https://helpx.adobe.com/es/experience-manager/aem-releases-updates.html)
 >* [[!DNL Experience Manager] Formación y asistencia](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es)
 >* Actualizar definiciones vehiculares de versiones de [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
