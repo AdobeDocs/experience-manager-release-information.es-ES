@@ -2,10 +2,10 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 1106bf1d4503a6f66eee104ba6fa27e29cd88798
-workflow-type: ht
-source-wordcount: '335'
-ht-degree: 100%
+source-git-commit: 18bd78b5e03a015b802c85f3f2f51cca412640ae
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Versión mensual | 16 de diciembre de 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | Versión mensual | 3 de febrero de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | Versión mensual | 24 de febrero de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | Versión mensual | 3 de marzo de 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Versión mensual | 31 de marzo de 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Versión mensual | 28 de abril de 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Versión mensual | 26 de mayo de 2022 |
