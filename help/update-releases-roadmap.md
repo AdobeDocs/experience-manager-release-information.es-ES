@@ -1,11 +1,11 @@
 ---
-title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
-description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
+title: '"[!DNL Adobe Experience Manager] publica la hoja de ruta"'
+description: '"[!DNL Adobe Experience Manager] publica la hoja de ruta"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 18bd78b5e03a015b802c85f3f2f51cca412640ae
+source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '335'
+ht-degree: 98%
 
 ---
 
