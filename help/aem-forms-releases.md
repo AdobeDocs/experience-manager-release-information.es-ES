@@ -3,7 +3,7 @@ title: Versiones de AEM Forms
 description: Contiene la lista de todas las versiones de AEM Forms y los paquetes correspondientes
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 66fa1fe6c5d104dd263098754c5785b8794ccf30
+source-git-commit: e231653f1fe5027d7ce8bbe5b4cdaf949479872d
 workflow-type: tm+mt
 source-wordcount: '12175'
 ht-degree: 98%
@@ -32,7 +32,7 @@ La siguiente lista contiene todos los paquetes de complementos de AEM [!DNL Form
     <td><strong>Versiones de compilación</strong></td>
    </tr>
    <tr>
-    <td>03 de febrero de 2022</td>
+    <td>3 de marzo de 2022</td>
     <td><a href="https://docs.adobe.com/content/help/es-ES/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Paquete de complementos del paquete de servicio 12 de AEM Forms para AEM 6.5.12.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.12.0</a></td>
     <td>
