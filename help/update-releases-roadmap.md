@@ -3,9 +3,9 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 80%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] como [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) generalmente sigue una cadencia de lanzamiento mensual para nuevas funciones. Las próximas versiones de funcionalidades para [!DNL Experience Manager] como [!DNL Cloud Service]Los planes son los siguientes:
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) suele seguir una cadencia de lanzamiento mensual en el caso de nuevas funciones. Las próximas versiones de funciones para [!DNL Experience Manager] as a [!DNL Cloud Service] están planificadas como se muestra a continuación.
 
 | Edición | Versión | Tipo | Programa |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Versión de funciones | 31 de marzo de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Versión de funciones | 28 de abril de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Versión de funciones | 26 de mayo de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Edición de funciones | 31 de marzo de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Edición de funciones | 28 de abril de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Edición de funciones | 26 de mayo de 2022 |
 
-Además de las versiones de funcionalidades, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] como [!DNL Cloud Service] en forma de versiones de mantenimiento, con una actualización de mantenimiento correspondiente que generalmente se produce semanalmente.
+Además de las ediciones de funciones, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] en forma de ediciones de mantenimiento, con una actualización de mantenimiento correspondiente que generalmente se produce semanalmente.
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
