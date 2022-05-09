@@ -3,7 +3,7 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b4b4a8a54940a05f886af5b0f93e04faa5c1d0d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
 ht-degree: 100%
 
@@ -57,6 +57,6 @@ El paquete de correcciones acumulativas 4 del paquete de servicio 8 de [!DNL Exp
 >
 >* [Matriz de fin de vida útil](https://helpx.adobe.com/es/support/programs/eol-matrix.html)
 >* Versiones y actualizaciones de [[!DNL Experience Manager] ](https://helpx.adobe.com/es/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] Formación y asistencia](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es)
+>* Formación y asistencia de [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es)
 >* Actualizar definiciones vehiculares de versiones de [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
