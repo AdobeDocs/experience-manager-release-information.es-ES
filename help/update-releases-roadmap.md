@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 53cccff092a433c3fba00a43def69606ee6e2a11
-workflow-type: ht
-source-wordcount: '325'
-ht-degree: 100%
+source-git-commit: 75f742e3caa864803ddbbc47cc43fae4cbe52a4a
+workflow-type: tm+mt
+source-wordcount: '343'
+ht-degree: 98%
 
 ---
 
@@ -23,9 +23,12 @@ ht-degree: 100%
 
 | Edición | Versión | Tipo | Programa |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Edición de funciones | 31 de marzo de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Edición de funciones | 5 de mayo de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Edición de funciones | 9 de junio de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.6.0 | 2022.6.0 | Edición de funciones | 30 de junio de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.7.0 | 2022.7.0 | Edición de funciones | 28 de julio de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | Edición de funciones | 25 de agosto de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 | 2022.9.0 | Edición de funciones | 29 de septiembre de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Edición de funciones | 27 de octubre de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 | 2022.11.0 | Edición de funciones | 17 de noviembre de 2022 |
 
 Además de las ediciones de funciones, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] en forma de ediciones de mantenimiento, con una actualización de mantenimiento correspondiente que generalmente se produce semanalmente.
 
