@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 539ad3dd1549a4e4a1e40df54d9c431ed7a82505
 workflow-type: tm+mt
 source-wordcount: '12693'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -143,7 +143,7 @@ La siguiente lista contiene todos los paquetes de complementos de AEM [!DNL Form
    </tr>
    <tr>
    <tr>
-    <td>02 de septiembre de 2021</td>
+    <td>2 de septiembre de 2021</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Paquete de complemento del paquete de servicio 10 de AEM Forms para AEM 6.5.10.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.10.0</a></td>
     <td>
@@ -223,7 +223,7 @@ La siguiente lista contiene todos los paquetes de complementos de AEM [!DNL Form
    </tr>
    <tr>
    <tr>
-    <td>03 de diciembre de 2020</td>
+    <td>3 de diciembre de 2020</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Paquete de complemento del paquete de servicio 7 de AEM Forms para AEM 6.5.7.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.7.0</a></td>
     <td>
@@ -426,7 +426,7 @@ La siguiente lista contiene todos los paquetes de complementos de AEM [!DNL Form
    <td><p>Programa de instalación de AEM Forms JEE: AEMForms-6.4.0-0025<br /> </p> <p>Paquetes de complementos de AEM Forms: 5.1.212</p> <p>Paquete de compatibilidad de AEM Forms: 1.1.18<br /> </p><p>SDK de cliente: 5.1.208<br /> </p> </td>
   </tr>
   <tr>
-   <td>03 de diciembre de 2020</td>
+   <td>3 de diciembre de 2020</td>
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">Paquetes de complemento de AEM Forms para el CFP 3 del paquete de servicio 8 de AEM 6.4 (6.4.8.3)</a></td>
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td>
    <td>
