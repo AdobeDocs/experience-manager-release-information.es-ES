@@ -4,9 +4,9 @@ description: Resumen de los pasos para instalar y configurar el paquete de corre
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Siga estos pasos, en la secuencia especificada para instalar el paquete de corre
 1. Ejecute el instalador del CFP y configure AEM [!DNL Forms JEE] como se describe en [Instalar y configurar AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Instale la revisión 12785 de AEM versión 7.0.
 1. Instale el paquete de servicio 1 de AEM 6.2.
-1. Instale la última versión-notes-aem-6-2-cumulative-fix-pack.md.
+1. Instale la última versión -notes-aem-6-2-cumulative-fix-pack.md.
 1. Instale el paquete de complemento de [!DNL Forms] para el CFP del paquete de servicio 1 de AEM 6.2.
 
 ### Instale los paquetes de AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
