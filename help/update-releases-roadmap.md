@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: bc57d5d74c91ff4af4f14886a1ba2aefb5daed9f
+source-git-commit: 873914d0df38c13823ad74f660a0191726107e91
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 93%
+source-wordcount: '341'
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Las fechas siguientes y las actualizaciones de la hoja de ruta disponibles en este artículo son solo para información y están sujetas a cambios en cualquier momento.
+>Las fechas siguientes y las actualizaciones de la hoja de ruta disponibles en este artículo son solo para informar y están sujetas a cambios en cualquier momento.
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
@@ -23,12 +23,11 @@ ht-degree: 93%
 
 | Edición | Versión | Tipo | Programación |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.6.0 | 2022.6.0 | Edición de funciones | 30 de junio de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.7.0 | 2022.7.0 | Edición de funciones | 8 de agosto de 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | Edición de funciones | 1 de septiembre de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 | 2022.9.0 | Edición de funciones | 6 de octubre de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 | 2022.9.0 | Edición de funciones | 13 de octubre de 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Edición de funciones | 27 de octubre de 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 | 2022.11.0 | Edición de funciones | 17 de noviembre de 2022 |
+| [!DNL Experience Manager] como [!DNL Cloud Service] 2022.11.0 | 2022.12.0 | Edición de funciones | 8 de diciembre de 2022 |
 
 Además de las ediciones de funciones, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] en forma de ediciones de mantenimiento, con una actualización de mantenimiento correspondiente que generalmente se produce semanalmente.
 
