@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 910c642b207c0dca1ed51286fd7f99981508e159
+source-git-commit: ba84fc0741908dd935f66887d2ef7219a5c5a64a
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,11 +35,10 @@ Las actualizaciones de productos en términos de nuevas funciones, mejoras y cor
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores. Para obtener más información sobre el paquete de servicio más reciente, consulte Notas de la versión del paquete de servicio [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es).
+Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores. Para obtener más información sobre el paquete de servicio más reciente, consulte Notas de la versión del paquete de servicio [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=es).
 
 | Edición | Versión | Tipo | Programación |
 |---|---|---|---|
-| Paquete de servicio 12 de [!DNL Experience Manager] 6.5 | 6.5.12.0 | Paquete de servicio | 24 de febrero de 2022 |
 | Paquete de servicio 13 de [!DNL Experience Manager] 6.5 | 6.5.13.0 | Paquete de servicio | 26 de mayo de 2022 |
 | Paquete de servicio 14 de [!DNL Experience Manager] 6.5 | 6.5.14.0 | Paquete de servicio | 25 de agosto de 2022 |
 | Paquete de servicio 15 de [!DNL Experience Manager] 6.5 | 6.5.15.0 | Paquete de servicio | 24 de noviembre de 2022 |
