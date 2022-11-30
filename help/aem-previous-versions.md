@@ -1,21 +1,21 @@
 ---
 title: Descargar versiones anteriores de la documentación de AEM, CQ y CRX
-description: Descargue paquetes de documentación para versiones anteriores de Adobe Experience Manager, CQ y CRX.
+description: Descargar paquetes de documentación de versiones anteriores de Adobe Experience Manager, CQ y CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: bb959aa724d80a0c66ec0922214206809ea68904
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '836'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# Versiones anteriores de [!DNL Adobe Experience Manager]documentación de , CQ y CRX {#older-versions-aem-cq-crx}
+# Versiones anteriores de la documentación de [!DNL Adobe Experience Manager], CQ y CRX {#older-versions-aem-cq-crx}
 
-Encuentre las guías de ayuda anteriores para versiones anteriores de AEM, CQ y CRX.
+Encuentre guías de ayuda anteriores para las versiones anteriores de AEM, CQ y CRX.
 
 ## Versiones anteriores de la documentación de [!DNL Experience Manager] {#older-version-aem-documentation}
 
-Las versiones de [!DNL Adobe Experience Manager], CQ y CRX enumerados en esta página están en desuso y ya no se venden oficialmente por Adobe. Tiene a su disposición las versiones más recientes de la documentación oficial de estas versiones más antiguas para que pueda satisfacer por su cuenta cualquier necesidad que tenga relacionada con ellas. Recomendamos actualizar a la última versión: [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).
+Las versiones de [!DNL Adobe Experience Manager], CQ y CRX que figuran en esta página han llegado al final de su vida útil y ya no son vendidas de manera oficial por parte de Adobe. Tiene a su disposición las versiones más recientes de la documentación oficial de estas versiones más antiguas para que pueda satisfacer por su cuenta cualquier necesidad que tenga relacionada con ellas. Recomendamos actualizar a la última versión: [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).
 
 >[!NOTE]
 >
