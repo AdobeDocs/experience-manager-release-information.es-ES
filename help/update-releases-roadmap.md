@@ -3,9 +3,9 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9925f351b2a2c379ee0ba31c360d553e6902adcf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -34,12 +34,12 @@ Además de las ediciones de funciones, hay correcciones críticas de errores y s
 
 >[!CAUTION]
 >
->**Período de exclusión de mantenimiento planeado**
+>**Período de exclusión de mantenimiento planificado**
 >
-> No se ejecutará ningún mantenimiento automático de AEMaaCS durante los siguientes lapsos de tiempo, a partir y hasta la medianoche (00:00) CET:
+> No se ejecutará ningún mantenimiento automático de AEMaaCS durante los siguientes períodos de tiempo, a partir de y hasta la medianoche (00:00) CET:
 >
->* Lunes, 21 de noviembre hasta lunes 12 de diciembre
->* Lunes, 19 de diciembre hasta martes, 3 de enero
+>* El lunes 21 de noviembre hasta el lunes 12 de diciembre
+>* El lunes 19 de diciembre hasta el martes 3 de enero
 
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
