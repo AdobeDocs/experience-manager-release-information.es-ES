@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c5de5f12b4358d647c468a4a910f38dbe6c3d9b4
+source-git-commit: ea146055aa89a8b69511fe0175c7a2bdac13be64
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -19,18 +19,18 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) suele seguir una cadencia de lanzamiento mensual en el caso de nuevas funciones. Las próximas versiones de funciones para [!DNL Experience Manager] as a [!DNL Cloud Service] están planificadas como se muestra a continuación.
+[[!DNL Experience Manager] como [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) normalmente, se dirige a una cadencia de versiones mensual para ver las nuevas funciones. Las próximas activaciones de funciones para [!DNL Experience Manager] como [!DNL Cloud Service]Los planes son los siguientes:
 
 | Edición | Versión | Tipo | Programación |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Edición de funciones | 10 de noviembre de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Edición de funciones | 26 de enero de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Edición de funciones | 23 de febrero de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | Edición de funciones | 30 de marzo de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Edición de funciones | 27 de abril de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Edición de funciones | 25 de mayo de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Activación de funciones | 10 de noviembre de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Activación de funciones | 25 de enero de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Activación de funciones | 23 de febrero de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | Activación de funciones | 30 de marzo de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Activación de funciones | 27 de abril de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Activación de funciones | 25 de mayo de 2023 |
 
-Además de las ediciones de funciones, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] en forma de ediciones de mantenimiento, con una actualización de mantenimiento correspondiente que generalmente se produce semanalmente.
+Además de las versiones de funcionalidades, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] como [!DNL Cloud Service] en forma de versiones de mantenimiento, con una actualización de mantenimiento correspondiente que se produce generalmente con mayor frecuencia.
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
