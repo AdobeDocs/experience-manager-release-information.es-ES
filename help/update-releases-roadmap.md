@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 297629d471c0c3ac6a13015d3eac1594732837d6
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] como [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) normalmente, se dirige a una cadencia de versiones mensual para ver las nuevas funciones. Las próximas activaciones de funciones para [!DNL Experience Manager] como [!DNL Cloud Service]Los planes son los siguientes:
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) suele seguir una cadencia de versión mensual en el caso de nuevas funciones. Las próximas activaciones de funciones para [!DNL Experience Manager] as a [!DNL Cloud Service] están planificadas como se muestra a continuación.
 
 | Edición | Versión | Tipo | Programación |
 |---|---|---|---|
@@ -30,7 +30,7 @@ ht-degree: 80%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Activación de funciones | 27 de abril de 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Activación de funciones | 25 de mayo de 2023 |
 
-Además de las versiones de funcionalidades, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] como [!DNL Cloud Service] en forma de versiones de mantenimiento, con una actualización de mantenimiento correspondiente que se produce generalmente con mayor frecuencia.
+Además de las ediciones de funciones, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] en forma de ediciones de mantenimiento, con una actualización de mantenimiento correspondiente que generalmente se produce a una frecuencia más alta.
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
