@@ -2,14 +2,14 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5d40d0382bf4c504de7a2d934276e2222faa0561
+source-git-commit: f0b0900828f9728871ab4acc28d778b845e0d559
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 100%
+source-wordcount: '345'
+ht-degree: 95%
 
 ---
 
-# Hoja de ruta de actualizaciones de [!DNL Experience Manager] {#aem-releases-roadmap}
+# [!DNL Experience Manager] Hoja de ruta de versiones {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] ofrece continuamente nuevas funciones, mejoras en las funciones existentes y correcciones de errores para los usuarios que utilizan [!DNL Cloud Service], Managed Services y ofertas locales del producto. Este artículo incluye las próximas versiones para [!DNL Experience Manager].
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) suele seguir una cadencia de versión mensual en el caso de nuevas funciones. Las próximas activaciones de funciones para [!DNL Experience Manager] as a [!DNL Cloud Service] están planificadas como se muestra a continuación.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) suele seguir una cadencia de versión mensual en el caso de nuevas funciones. Las próximas activaciones de funciones para [!DNL Experience Manager] como [!DNL Cloud Service] se planifican de la siguiente manera.
 
 | Edición | Versión | Tipo | Programación |
 |---|---|---|---|
