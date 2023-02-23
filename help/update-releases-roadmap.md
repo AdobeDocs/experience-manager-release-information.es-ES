@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: af8f36b78f96e49f6ab9565432b0401e567c6f4c
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 95%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) suele seguir una cadencia de versión mensual en el caso de nuevas funciones. Las próximas activaciones de funciones para [!DNL Experience Manager] como [!DNL Cloud Service] se planifican de la siguiente manera.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=es) suele seguir una cadencia de versión mensual en el caso de nuevas funciones. Las próximas activaciones de funcionalidades para [!DNL Experience Manager] como [!DNL Cloud Service] están planificadas como se muestra a continuación.
 
 | Edición | Versión | Tipo | Programación |
 |---|---|---|---|
