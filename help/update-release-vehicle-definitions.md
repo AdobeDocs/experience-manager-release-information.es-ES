@@ -2,16 +2,15 @@
 title: Actualizar definiciones vehiculares de versiones
 description: Este artículo detalla los distintos tipos de versiones de [!DNL Experience Manager] , incluidas las versiones completas, los paquetes de funciones y los paquetes de servicio.
 contentOwner: AK
-translation-type: ht
-source-git-commit: 11ff4f7d66038a80697afe5f104c560137e130f4
-workflow-type: ht
+exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
-
-# Actualizar definiciones vehiculares de versiones de [!DNL Experience Manager] {#update-release-vehicle-definitions}
+# Actualizar definiciones vehiculares de versiones de [!DNL Experience Manager]  {#update-release-vehicle-definitions}
 
 Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL Adobe Experience Manager], incluidas versiones completas, paquetes de funciones y paquetes de servicio que [!DNL Adobe] ofrece a sus clientes.
 
@@ -23,7 +22,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 
 | Elementos | Descripción |
 |-------|------|
-| Definición | <ul> <li> Versión programada </li> <li> Admite rutas de actualización para versiones específicas, que se define en las notas de la versión </li> </ul> |
+| Definición | <ul> <li> Versión programada </li> <li> Admite rutas de actualización para versiones específicas que se definen en las notas de la versión </li> </ul> |
 | Nombre | <ul> <li> Los números de versión de las versiones principales aumentan según la fórmula X+1.Y.Z. </li> <li> Los números de versión de versiones menores aumentan según la fórmula X.Y+1.Z </li> </ul> Si X es el número de versión principal, Y es el número de versión secundario y Z el número de parche. |
 | Inclusiones | <ul> <li> Nuevas funciones </li> <li>  Mejoras </li> <li>  Corrección de errores </li> </ul> |
 | Documentación | <ul> <li> Las notas de la versión están disponibles en el portal de documentación </li> <li> La documentación sobre funciones, mejoras y correcciones de errores está disponible en el portal de documentación </li> </ul> |
@@ -52,7 +51,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 | Inclusiones | CFP es un paquete de correcciones acumulativo que contiene correcciones de todos los componentes en fechas especificadas. Por ejemplo, si un cliente aplica CFP3, entonces CFP3 = CFP1 + CFP2. |
 | Documentación | Notas de la versión disponibles en el portal de documentación |
 | Cadencia | Trimestral |
-| Disponibilidad e instalación | <ul> <li> Entregado como paquete </li> <li>  Disponible en distribución de software </li> <li>  Depende del Service Pack más reciente lanzado </li> <li>  CFP es autodependiente. Los clientes no tienen por qué preocuparse por encontrar o resolver dependencias. CFP debe instalarse en el paquete de servicio más reciente. </li> <li>  CFP se puede instalar como un paquete único, lo que mejora la experiencia del cliente.  </li> </ul> |
+| Disponibilidad e instalación | <ul> <li> Entregado como paquete </li> <li>  Disponible en distribución de software </li> <li>  Depende del Service Pack más reciente lanzado </li> <li>  CFP es autodependiente. Los clientes no necesitan preocuparse por encontrar o resolver dependencias. CFP debe instalarse en el paquete de servicio más reciente. </li> <li>  CFP se puede instalar como un paquete único, lo que mejora la experiencia del cliente.  </li> </ul> |
 | Nivel de prueba | Control de calidad validado a nivel de integración y pruebas de regresión |
 
 ## Superposición {#overlay}
@@ -78,4 +77,4 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 | Disponibilidad e instalación | <ul> <li>Entregado mediante paquetes de servicio </li> <li> Disponible en la distribución de software. Los clientes aceptan los términos y condiciones de [!DNL Adobe's] a través de la distribución de software. </li> </ul> |
 | Nivel de prueba | Los paquetes de funciones de disponibilidad general están validados por el control de calidad. |
 
-* 1: Las correcciones de OAK no se entregan como correcciones rápidas individuales. Sin embargo, se incluyen en la revisión Acumulative Oak posterior. Si es necesario, se puede poner a disposición una compilación de diagnóstico sobre el último COFP. La condición previa es que el cliente tenga la última COFP en ejecución. Las compilaciones de diagnóstico solo proporcionan el mismo nivel de garantía de calidad que una revisión. Por lo tanto, no proporcionan el mismo nivel de garantía de calidad que un paquete de correcciones acumulativo, un paquete de servicio o una versión del producto. La corrección final se entrega con la siguiente CFP.
+* 1: Las correcciones de Oak no se entregan como correcciones urgentes individuales. Sin embargo, se incluyen en la revisión Acumulative Oak posterior. Si es necesario, se puede poner a disposición una compilación de diagnóstico sobre el último COFP. La condición previa es que el cliente tenga la última COFP en ejecución. Las compilaciones de diagnóstico solo proporcionan el mismo nivel de garantía de calidad que una revisión. Por lo tanto, no proporcionan el mismo control de calidad que un paquete de correcciones acumulativo, un service pack o una versión de producto. La corrección final se entrega con la siguiente CFP.
