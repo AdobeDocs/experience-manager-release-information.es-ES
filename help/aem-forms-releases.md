@@ -3,10 +3,10 @@ title: Versiones de AEM Forms
 description: Contiene la lista de todas las versiones de AEM Forms y los paquetes correspondientes
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+source-git-commit: 9430cbf7e1f9142093ff705300b3d903e1f1c5d8
 workflow-type: tm+mt
-source-wordcount: '14263'
-ht-degree: 90%
+source-wordcount: '14268'
+ht-degree: 91%
 
 ---
 
@@ -38,9 +38,9 @@ La siguiente lista contiene todos los AEM [!DNL Forms] paquetes de complementos 
     <td>
      <ul>
      <br><b>Programas de instalación de parches de AEM Forms en OSGi</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.912.zip">Paquete de complementos de AEM Forms para Linux®</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.912.zip">Paquete de complementos de AEM Forms para Windows</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.912.zip">Paquete de complementos de AEM Forms para macOS X [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.914.zip">Paquete de complementos de AEM Forms para Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.914.zip">Paquete de complementos de AEM Forms para Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.914.zip">Paquete de complementos de AEM Forms para Mac OS X [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.48.zip">Paquete de compatibilidad de AEM Forms</a></li>
       <br><b>Programas de instalación de parches de AEM Forms en JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/JBoss/win/AEMForms-6.5.0-0062_jboss_win.zip">Windows JBoss®</a></li>
@@ -61,7 +61,7 @@ La siguiente lista contiene todos los AEM [!DNL Forms] paquetes de complementos 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Spanish_Cumulative_QF.msp">Programa de instalación de idioma español</a> </li>
       </ul> 
       </td>
-    <td><p>Programa de instalación de AEM Forms JEE: AEMForms-6.5.0-0062<br/> <p>Paquetes de complementos de AEM Forms: 6.0.912</p></td>
+    <td><p>Programa de instalación de AEM Forms JEE: AEMForms-6.5.0-0062<br/><p>Instalador de AEM Forms OSGi: 6,0,914<br/> <p>Paquetes de complementos de AEM Forms: 6.0.912</p></td>
    </tr>
    <tr>
     <td>1 de diciembre de 2022</td>
@@ -453,7 +453,7 @@ La siguiente lista contiene todos los AEM [!DNL Forms] paquetes de complementos 
   </tbody>
  </table>
 
-`[1]` Contacto [Compatibilidad con Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support) para obtener instaladores para Workbench, SDK de Rights Management, biblioteca de protección portátil (PPL) y PPL mejorado.
+`[1]` Contacto [Compatibilidad con Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home&amp;lang=es#support) para obtener instaladores para Workbench, SDK de Rights Management, biblioteca de protección portátil (PPL) y PPL mejorado.
 
 `[2]` AEM [!DNL Forms] el paquete de complementos para macOS X no es compatible con el entorno de producción y solo debe utilizarse con fines de demostración. La capacidad de Generador de PDF no está disponible para el paquete macOS X.
 
@@ -729,7 +729,7 @@ La siguiente lista contiene todos los AEM [!DNL Forms] paquetes de complementos 
  </tbody>
 </table>
 
-`[1]` Contacto [Compatibilidad con Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support) para obtener instaladores para AEM [!DNL Forms JEE], AEM [!DNL Forms] Client SDK, [!DNL AEM Forms on JEE] paquete incrustado, AEM [!DNL Forms Designer], RMCSDK, PPL y EnhancedPPL.
+`[1]` Contacto [Compatibilidad con Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home&amp;lang=es#support) para obtener instaladores para AEM [!DNL Forms JEE], AEM [!DNL Forms] Client SDK, [!DNL AEM Forms on JEE] paquete incrustado, AEM [!DNL Forms Designer], RMCSDK, PPL y EnhancedPPL.
 
 `[2]` AEM [!DNL Forms] el paquete de complementos para macOS X no es compatible con el entorno de producción y solo debe utilizarse con fines de demostración. La capacidad de Generador de PDF no está disponible para el paquete macOS X.
 
@@ -1060,7 +1060,7 @@ La siguiente lista contiene todos los AEM [!DNL Forms] paquetes de complementos 
 </table>
 
 `[1]`
-Contacto [Compatibilidad con Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support) para obtener instaladores para AEM [!DNL Forms] JEE, AEM [!DNL Forms] Client SDK, [!DNL AEM Forms on JEE] paquete incrustado, AEM [!DNL Forms Designer], RMCSDK, PPL y EnhancedPPL.
+Contacto [Compatibilidad con Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home&amp;lang=es#support) para obtener instaladores para AEM [!DNL Forms] JEE, AEM [!DNL Forms] Client SDK, [!DNL AEM Forms on JEE] paquete incrustado, AEM [!DNL Forms Designer], RMCSDK, PPL y EnhancedPPL.
 
 `[2]` AEM [!DNL Forms] el paquete de complementos para macOS X no es compatible con el entorno de producción y solo debe utilizarse con fines de demostración. La capacidad de Generador de PDF no está disponible para el paquete macOS X.
 
