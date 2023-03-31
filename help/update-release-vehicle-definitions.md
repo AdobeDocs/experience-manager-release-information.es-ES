@@ -4,9 +4,9 @@ description: Este artículo detalla los distintos tipos de versiones de [!DNL Ex
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '730'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 
 | Elementos | Descripción |
 |-------|------|
-| Definición | <ul> <li> Versión programada </li> <li> Admite rutas de actualización para versiones específicas que se definen en las notas de la versión </li> </ul> |
+| Definición | <ul> <li> Versión programada </li> <li> Admite rutas de actualización para versiones específicas, que se definen en las notas de la versión </li> </ul> |
 | Nombre | <ul> <li> Los números de versión de las versiones principales aumentan según la fórmula X+1.Y.Z. </li> <li> Los números de versión de versiones menores aumentan según la fórmula X.Y+1.Z </li> </ul> Si X es el número de versión principal, Y es el número de versión secundario y Z el número de parche. |
 | Inclusiones | <ul> <li> Nuevas funciones </li> <li>  Mejoras </li> <li>  Corrección de errores </li> </ul> |
 | Documentación | <ul> <li> Las notas de la versión están disponibles en el portal de documentación </li> <li> La documentación sobre funciones, mejoras y correcciones de errores está disponible en el portal de documentación </li> </ul> |
@@ -30,7 +30,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 | Disponibilidad e instalación | <ul> <li> Se entrega como un instalador de producto independiente </li> <li>  Disponible en el sitio web de licencias y Servicios administrados </li> <li> El sitio web de licencias puede requerir la migración del repositorio de contenido </li> </ul> |
 | Nivel de prueba | Totalmente validado por el control de calidad |
 
-## Paquete de servicio {#service-pack}
+## Service Pack {#service-pack}
 
 | Elemento | Descripción |
 |-----|-----|
@@ -42,7 +42,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 | Disponibilidad e instalación | <ul> <li> Entregado como paquete </li> <li> Disponible en distribución de software</li> <li>  Requiere una instalación funcional existente </li> </ul> |
 | Nivel de prueba | <ul> <li> Se validó el control de calidad de todas las correcciones </li> <li>  Sentido general del paquete con ejecuciones de automatización </li> </ul> |
 
-## Paquete de correcciones acumulativas  {#cumulative-fix-pack-aem}
+## Fix Pack acumulativo  {#cumulative-fix-pack-aem}
 
 | Elemento | Descripción |
 |-----|-----|
@@ -65,7 +65,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 | Disponibilidad e instalación | <ul> <li> Entregado como paquete por el servicio de atención al cliente de [!DNL Experience Manager]  </li> <li> No necesariamente se incluye en los paquetes de servicio o en las versiones completas </li> </ul> |
 | Nivel de prueba | Validado por el Servicio de atención al cliente |
 
-## Paquete de funciones {#feature-pack}
+## Feature Pack {#feature-pack}
 
 | Elementos | Detalles |
 |--------|-----|
@@ -77,4 +77,4 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 | Disponibilidad e instalación | <ul> <li>Entregado mediante paquetes de servicio </li> <li> Disponible en la distribución de software. Los clientes aceptan los términos y condiciones de [!DNL Adobe's] a través de la distribución de software. </li> </ul> |
 | Nivel de prueba | Los paquetes de funciones de disponibilidad general están validados por el control de calidad. |
 
-* 1: Las correcciones de Oak no se entregan como correcciones urgentes individuales. Sin embargo, se incluyen en la revisión Acumulative Oak posterior. Si es necesario, se puede poner a disposición una compilación de diagnóstico sobre el último COFP. La condición previa es que el cliente tenga la última COFP en ejecución. Las compilaciones de diagnóstico solo proporcionan el mismo nivel de garantía de calidad que una revisión. Por lo tanto, no proporcionan el mismo control de calidad que un paquete de correcciones acumulativo, un service pack o una versión de producto. La corrección final se entrega con la siguiente CFP.
+* 1: Las correcciones de Oak no se entregan como correcciones rápidas individuales. Sin embargo, se incluyen en la revisión Acumulative Oak posterior. Si es necesario, se puede poner a disposición una compilación de diagnóstico sobre el último COFP. La condición previa es que el cliente tenga la última COFP en ejecución. Las compilaciones de diagnóstico solo proporcionan el mismo nivel de garantía de calidad que una revisión. Por lo tanto, no proporcionan el mismo nivel de garantía de calidad que un Fix Pack acumulativo, un Service Pack o una versión del producto. La corrección final se entrega con la siguiente CFP.
