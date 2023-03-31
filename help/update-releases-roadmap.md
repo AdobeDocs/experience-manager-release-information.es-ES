@@ -4,8 +4,8 @@ description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 537a8fdea84c0bf14a53b37aeb1c7324b53752a4
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ Además de las ediciones de funciones, hay correcciones críticas de errores y s
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
-Actualizaciones de productos en términos de nuevas funciones, mejoras y correcciones de errores para [!DNL Experience Manager] in situ y Managed Services se entregan mediante paquetes de servicios trimestrales y paquetes de correcciones acumulativas (CFP). Permite una adopción más rápida de las actualizaciones de productos a través de lanzamientos frecuentes. La programación de próximas versiones de actualizaciones de productos es la siguiente.
+Las actualizaciones de productos en lo relativo a nuevas funciones, mejoras y correcciones de errores para Managed Services y On-Premise de [!DNL Experience Manager] se proporcionan a través de Service Packs trimestrales y Fix Packs acumulativos (CFP). Permite una adopción más rápida de las actualizaciones de productos a través de lanzamientos frecuentes. La programación de próximas versiones de actualizaciones de productos es la siguiente.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -57,7 +57,7 @@ El paquete de correcciones acumulativas 4 del paquete de servicio 8 de [!DNL Exp
 >[!MORELIKETHIS]
 >
 >* [Matriz de fin de vida útil](https://helpx.adobe.com/es/support/programs/eol-matrix.html)
->* Versiones y actualizaciones de [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
+>* Versiones y actualizaciones de [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=es)
 >* Formación y asistencia de [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es)
 >* Actualizar definiciones vehiculares de versiones de [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
