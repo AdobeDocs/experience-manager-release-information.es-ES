@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: bbb0560ff5a2cebc0b06ba7d0c7b4041e9290113
+source-git-commit: a6fe2531f159b29279c7fcbf9f782e1985700eee
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '328'
+ht-degree: 97%
 
 ---
 
@@ -51,10 +51,6 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de pa
 >[!NOTE]
 >
 >[!DNL Experience Manager] Forms lanza los paquetes de complementos una semana después de la fecha de lanzamiento programada del paquete de servicio de [!DNL Experience Manager].
-
-### [!DNL Experience Manager] 6.4 {#aem64}
-
-El paquete de correcciones acumulativas 4 del paquete de servicio 8 de [!DNL Experience Manager] 6.4 es el último paquete de correcciones acumulativas para [!DNL Experience Manager] 6.4. Para obtener más información sobre el paquete de correcciones acumulativas más reciente publicado, consulte las notas de la versión del paquete de correcciones acumulativas de [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=es).
 
 >[!MORELIKETHIS]
 >
