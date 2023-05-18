@@ -4,9 +4,9 @@ description: Esta página incluye cambios y actualizaciones importantes de la do
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 892e95b3e6aadd854900dfca8b5974e86120a765
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1467'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -26,12 +26,12 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
    <tr>
    <td>12 de diciembre de 2019</td> 
    <td>Vista previa de recursos 3D<br /> </td> 
-   <td><p>AEM admite la carga, el envío y la previsualización interactiva de recursos 3D como parte del proceso de creación. El visor interactivo 3D está disponible en la página de información de recursos de AEM. El visor incluye, entre otras cosas, una colección de controles de cámara interactivos que le permiten orbitar, ampliar o reducir y recorrer el recurso 3D.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=es" target="_blank">Vista previa de recursos 3D</a>.</p> </td> 
+   <td><p>AEM admite la carga, el envío y la previsualización interactiva de recursos 3D como parte del proceso de creación. El visor interactivo 3D está disponible en la página de información de recursos de AEM. El visualizador incluye, entre otras cosas, una colección de controles de cámara interactivos que le permiten orbitar, ampliar o reducir y recorrer el recurso 3D.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=es" target="_blank">Vista previa de recursos 3D</a>.</p> </td> 
   </tr>
   <tr>
    <td>12 de diciembre de 2019</td> 
    <td>Paquete de servicio 3 de AEM 6.5<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=es">AEM 6.5 Service Pack 3</a> está disponible.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=es">El Service Pack 3 de AEM 6.5</a> está disponible.</td> 
   </tr>
   <tr>
    <td>5 de diciembre de 2019</td> 
@@ -46,12 +46,12 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>18 de octubre de 2019<br /> </td> 
    <td>Tipo de archivo del proyecto AEM<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=es">El Tipo De Archivo Del Proyecto AEM</a> crea un proyecto de Adobe Experience Manager basado en las prácticas recomendadas como punto de partida para sus propios proyectos de AEM.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=es">El tipo de archivo del proyecto de AEM</a> crea un proyecto de Adobe Experience Manager basado en las prácticas recomendadas como punto de partida para sus propios proyectos de AEM.<br /> </td> 
   </tr>
   <tr>
    <td>18 de octubre de 2019<br /> </td> 
    <td>Administración de experiencias sin objetivos<br /> </td> 
-   <td>Características de <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=es#remote-content-renderer">Procesador de contenido remoto</a>, que se utilizan en el servidor para procesar aplicaciones de una sola página, se han documentado.<br /> </td> 
+   <td>Las características del <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=es#remote-content-renderer">Procesador de contenido remoto</a>, que se utilizan en el servidor para procesar aplicaciones de una sola página, se han documentado.<br /> </td> 
   </tr>
   <tr>
    <td>11 de octubre de 2019</td> 
@@ -85,12 +85,12 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   </tr>
   <tr>
    <td>25 de septiembre de 2019</td> 
-   <td>Búsqueda en AEM Assets<br /> </td> 
+   <td>Búsqueda de recursos de AEM<br /> </td> 
    <td>El nuevo contenido sobre la búsqueda y el descubrimiento de recursos es una solución integral para obtener información sobre el uso, la configuración, la resolución de problemas, las limitaciones y las sugerencias. Consulte los <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=es" target="_blank">recursos de búsqueda</a>.</td> 
   </tr>
   <tr>
    <td>25 de septiembre de 2019</td> 
-   <td>Scene7: Flujo de trabajo de reprocesamiento de recursos<br /> </td> 
+   <td>Scene7 - Reprocesar flujo de trabajo de activos<br /> </td> 
    <td><p>Ahora puede volver a procesar los recursos en una carpeta que ya tenga un perfil de procesamiento existente que haya cambiado posteriormente.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=es#reprocessing-assets" target="_blank">Volver a procesar recursos en una carpeta</a>.<br /> </p> </td> 
   </tr>
   <tr>
@@ -105,7 +105,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   </tr>
   <tr>
    <td>9 de septiembre de 2019</td> 
-   <td>aplicación de escritorio AEM</td> 
+   <td>Aplicación de escritorio de AEM </td> 
    <td>La versión 2.0 de la aplicación de escritorio de AEM está disponible de manera pública para que los creativos, los especialistas en marketing y los usuarios de la línea de negocios trabajen con AEM Assets. Consulte las <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=es" target="_blank">notas de la versión</a>.<br /> </td> 
   </tr>
   <tr>
@@ -166,7 +166,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>17 de junio de 2019<br /> </td> 
    <td>Integración de AEM Assets y Creative Cloud</td> 
-   <td>Las prácticas recomendadas se actualizan con una asignación nítida de los requisitos comerciales, la oferta de soluciones de Adobe y los casos de uso de los clientes. Se agrega una infografía para que sea visualmente atractiva. Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=es" target="_blank">AEM prácticas recomendadas para la integración de Creative Cloud</a>.<br /> </td> 
+   <td>Las prácticas recomendadas se actualizan con una asignación nítida de los requisitos comerciales, la oferta de soluciones de Adobe y los casos de uso de los clientes. Se agrega una infografía para que sea visualmente atractiva. Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=es" target="_blank">prácticas recomendadas para la integración de AEM Creative Cloud</a>.<br /> </td> 
   </tr>
   <tr>
    <td>3 de junio de 2019</td> 
@@ -214,10 +214,10 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
    <td><p>Los <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html?lang=es">materiales de referencia</a> incluyen:</p> 
     <ul> 
      <li>API de Adobe AEM 6.5.0</li> 
-     <li>Documentación de la API de Granite UI (IU táctil)</li> 
-     <li>Guía de Coral UI</li> 
-     <li>Documentación sobre las utilidades de la API (interfaz de usuario clásica)</li> 
-     <li>Marco de pruebas de la interfaz de usuario</li> 
+     <li>Documentación de la API de la IU de Granite (IU táctil optimizada)</li> 
+     <li>Guía de la IU de Coral</li> 
+     <li>Documentación sobre widgets de la API (IU clásica)</li> 
+     <li>Marco de trabajo de la IU</li> 
      <li>Referencia de la API de JavaScript</li> 
      <li>Referencias a la API de JavaScript de aplicaciones de una sola página</li> 
     </ul> </td> 
@@ -237,7 +237,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
 
 ## Contenido heredado {#legacy-content}
 
-A partir del 1 de mayo de 2023, las versiones anteriores de AEM documentación se han trasladado a una nueva ubicación en [Versiones anteriores de Adobe Experience Manager, CQ y CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+Desde el 1 de mayo de 2023, las versiones heredadas de la documentación de AEM se han trasladado a una nueva ubicación en [Versiones anteriores de Adobe Experience Manager, CQ y CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
 
 Se han movido las siguientes versiones:
 
