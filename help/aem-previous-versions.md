@@ -3,9 +3,9 @@ title: Descargar versiones anteriores de la documentación de AEM, CQ y CRX
 description: Descargar paquetes de documentación de versiones anteriores de Adobe Experience Manager, CQ y CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '828'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -80,7 +80,7 @@ Para instalar un paquete de documentación heredado, debe tener [!DNL Experience
 
 1. Abra la interfaz de usuario de [!DNL Experience Manager]. En un explorador web, introduzca: `http://localhost:4502/`. Inicie sesión como administrador.
 
-1. Select **[!UICONTROL Herramientas]** > **[!UICONTROL Implementación]** > **[!UICONTROL Paquetes]**.
+1. Seleccione **[!UICONTROL Herramientas]** > **[!UICONTROL Implementación]** > **[!UICONTROL Paquetes]**.
 
 1. En la interfaz de usuario del administrador de paquetes, seleccione **[!UICONTROL Cargar paquete]**.
 
