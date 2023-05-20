@@ -3,9 +3,9 @@ title: Paquete de correcciones acumulativas de AEM 6.2
 description: Notas de la versión del paquete de correcciones acumulativas de AEM 6.2.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: 44bb03aeb23c2c44fa037b020c3b9c8eadfa0fb7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '19928'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 
 ### Paquete de correcciones acumulativas {#cumulative-fix-pack}
 
-Adobe presentó un modelo de entrega única para la publicación de correcciones. En lugar de lanzar correcciones urgentes para problemas individuales, Adobe ahora publica un paquete de correcciones acumulativas (CFP) todos los meses (sujeto a la aprobación de comprobaciones de calidad). Un CFP es un paquete de contenido agregado para varias correcciones. Los archivos CFP incluyen principalmente correcciones de errores, pero también pueden incluir paquetes de funciones. Tienen las siguientes ventajas con respecto a las versiones de revisiones individuales:
+Adobe presentó un modelo de entrega única para la publicación de correcciones. En lugar de lanzar correcciones urgentes para problemas individuales, Adobe ahora publica un paquete de correcciones acumulativas (CFP) todos los meses (sujeto a la aprobación de comprobaciones de calidad). Un CFP es un paquete de contenido agregado para varias correcciones. Los CFP incluyen principalmente correcciones de errores, pero también pueden incluir paquetes de funciones. Tienen las siguientes ventajas con respecto a las versiones de revisiones individuales:
 
-* Carácter acumulativo (por ejemplo, un CFP contiene correcciones enviadas a través de los CFP anteriores)
+* De naturaleza acumulativa (por ejemplo, un CFP contiene correcciones entregadas a través de CFP anteriores)
 * Mayor control de calidad
-* Instalación simplificada (el usuario instala un CFP como paquete único que no tiene dependencias, excepto el último paquete de servicio)
+* Instalación simplificada (el usuario instala un CFP como paquete único que no tiene dependencias, excepto el último service pack)
 
 Para obtener más información sobre el CFP y otros tipos de liberaciones, consulte [Vehículo de versiones de mantenimiento](https://docs.adobe.com/content/docs/en/aem/6-2/deploy/maintenance-release-vehicle-definitions.html).
 
@@ -60,7 +60,7 @@ Además, este CFP incluye revisiones entregadas en [paquetes anteriores de corre
 ### Integración {#integration}
 
 * Backporting múltiple de Segmentación de campañas, mejoras en la personalización. NPR-29163: revisión para CQ-4264126
-* com.day.cq.personalization.impl.TeaserResourceEventHandler entra en un bucle infinito y provoca actualizaciones en los nodos en instancias de publicación. NPR-28561: revisión para CQ-4263096
+* com.day.cq.personalization.impl.TeaserResourceEventHandler entra en un bucle infinito y causa actualizaciones de nodos en instancias de publicación. NPR-28561: revisión para CQ-4263096
 
 ### DAM: General {#dam-general}
 
@@ -150,7 +150,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 
 ### Soporte {#sustenance}
 
-* Los registros de actividades del administrador de paquetes deben extraerse en un archivo de registro independiente. NPR-27323: revisión para Granite-14866
+* Los registros de actividad del administrador de paquetes deben extraerse en un archivo de registro independiente. NPR-27323: revisión para Granite-14866
 * Se mostrará una frase, redacción o línea de registro estandarizada en el error.log cuando se complete la instalación. NPR-27835
 * El complemento de paquete Granite elige la dependencia de una versión inferior de org.apache.sling.i18n. Revisión para CQ-4263245
 * El paquete com.adobe.cq.com.adobe.cq.ui.commons se elimina al instalar el último CFP después de 6.2SP1-CFP15. Revisión para CQ-4258808
@@ -221,7 +221,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 
 ### Granite {#granite-1}
 
-* El validador del paquete no valida los paquetes incluidos en CFP/SP. NPR-26775: revisión para Granite-22825
+* El validador de paquetes no valida los paquetes incluidos en CFP/SP. NPR-26775: revisión para Granite-22825
 
 ### Replicación {#replication}
 
@@ -510,7 +510,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 ### Interfaz de usuario {#user-interface-1}
 
 * El uso de Omnisearch con una consulta de guion devuelve un error de servidor. NPR-22999: revisión para Granite-19674
-* DatePicker no admite la configuración manual de sugerencias de tipo externas establecidas por campo oculto. Si se cambia la sugerencia de tipo se obtiene un error de conversión. NPR-23333: revisión para Granite-21194
+* DatePicker no admite establecer manualmente una sugerencia de tipo externo establecida por un campo oculto. Si se cambia la sugerencia de tipo, se producirá un error de conversión. NPR-23333: revisión para Granite-21194
 
 ### WCM: componentes base {#wcm-foundation-components-2}
 
@@ -519,7 +519,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 
 ### Vulnerabilidad {#vulnerability-2}
 
-* Ejecución de scripts en sitios múltiples (XSS) en vínculos de proyectos de la interfaz de usuario de administración. NPR-23272: revisión para CQ-4241795
+* Ejecuciones de scripts en sitios múltiples (XSS) en los vínculos del proyecto de la IU de administración. NPR-23272: revisión para CQ-4241795
 
 ## Forms {#forms-5}
 
@@ -622,8 +622,8 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 ### Integración {#integration-6}
 
 * Al intentar ordenar ofertas en la biblioteca del selector de ofertas, se produce un comportamiento errático. NPR-22208: revisión para CQ-4235439
-* TargetContentImpl hace que AEM seo lenta durante consultas de larga duración. NPR-22361: revisión para CQ-4236907
-* El motor de destino (mbox.js, at.js) no utiliza direcciones URL manipuladas y utiliza direcciones URL que contienen dos puntos, lo que puede provocar errores en determinadas implementaciones. NPR-22366: revisión para CQ-4237854
+* AEM TargetContentImpl hace que las consultas de larga ejecución sean lentas durante la ejecución de la. NPR-22361: revisión para CQ-4236907
+* El motor de Target (mbox.js, at.js) no utiliza direcciones URL estropeadas y utiliza direcciones URL que contienen dos puntos que pueden dar error en determinadas implementaciones. NPR-22366: revisión para CQ-4237854
 * La personalización de la página requiere la publicación en el nodo de la marca. NPR-22370: revisión para CQ-4236895
 
 ### Foundation {#foundation}
@@ -1092,7 +1092,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 
 ### Integración {#integration-11}
 
-* El archivo at.js personalizado no se publica cuando se accede al mismo con el usuario anónimo. NPR-19542: revisión para CQ-4219592
+* El archivo at.js personalizado no se publica cuando se accede con un usuario anónimo. NPR-19542: revisión para CQ-4219592
 * Migración de las credenciales existentes de Analytics a la autenticación WSSE. NPR-19962
 
 ### Brand Portal {#brand-portal}
@@ -1152,7 +1152,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 ### Assets {#assets-11}
 
 * Problemas con la aplicación del filtro Omnisearch en colecciones inteligentes en el navegador Safari. NPR-19511
-* Los metadatos de palabra clave PDF no se extraen ni modifican correctamente cuando hay varias palabras clave asociadas a un recurso PDF. Para resolver el problema, se ha eliminado la propiedad de metadatos del campo Asunto de los recursos PDF. Sin embargo, puede editar el esquema de metadatos para agregar un campo de texto de varios valores para el campo Asunto. NPR-19126
+* Los metadatos de palabra clave de PDF no se extraen correctamente y se modifican incorrectamente cuando hay varias palabras clave asociadas a un recurso de PDF. Para resolver el problema, se ha eliminado la propiedad de metadatos del campo Asunto para los recursos del PDF. Sin embargo, puede editar el esquema de metadatos para agregar un campo de texto de varios valores para el campo Asunto. NPR-19126
 * El servicio de notificación del flujo de trabajo no codifica los vínculos del correo electrónico, lo que impide que se carguen después de que los usuarios hagan clic en ellos. NPR-19490: revisión para CQ-4218055
 * No se puede cargar la lista completa de páginas/recursos en la vista de columna al usar Chrome. NPR-19458: revisión para CQ-4214248
 * El icono Tiempo de inactividad incorrecto se muestra en la Bandeja de entrada de AEM al activar el flujo de trabajo “Solicitud de activación”. NPR-19365: CQ-4216174
@@ -1257,7 +1257,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 * dc: title y dc: description no cambian a un valor de varios campos en crx/de. NPR-18474, revisión para CQ-4209086
 * La operación de mover recursos causa una degradación del rendimiento. NPR-18346
 * No se muestran elementos en la línea de tiempo cuando se abre con el conjunto de opciones predeterminado Mostrar todo. NPR-18302, revisión para CQ-4211957
-* Se produce un error cuando se carga un archivo de texto codificado ASCII/UTF-8 en AEM Assets y falla la generación de miniaturas. NPR-18006: CFP para CQ-4209345
+* Se produce un error cuando se carga un archivo de texto con codificación ASCII/UTF-8 en AEM Assets y falla la generación de miniaturas. NPR-18006: CFP para CQ-4209345
 * Los botones de acción Publicar están visibles incluso cuando el usuario no tiene acceso replicado. NPR-17353, revisión para CQ-4209269
 * Tanto Siteadmin como Miscadmin no funcionan cuando la minimización está habilitada usando min:gcc;obfuscate=true. NPR-18593, revisión para CQ-4209220
 * Los elementos de menú personalizados no aparecen hasta que la pantalla se actualiza cada vez. NPR-18500, revisión para CQ-4213581
@@ -1429,12 +1429,12 @@ Las correcciones de AEM Forms se entregan mediante paquetes de complementos y ot
 * El diccionario de datos se lee repetidamente durante la representación de cartas. NPR-18482, revisión para CQ-4210805
 * Se ha añadido JavaDocs para la clase com.adobe.livecycle.content. NPR-18467
 * Al crear una carta, no se guarda la descripción de la carta. NPR-18039
-* Cuando se guarda un módulo de texto y una expresión del módulo de texto no contiene etiquetas de expresión de apertura o de cierre, no se muestra ningún mensaje de error. El módulo de texto muestra un mensaje de error y no se procesa en la carta. NPR-17798
+* Cuando se guarda un módulo de texto y una expresión del módulo de texto no contiene etiquetas de expresión de apertura o cierre, no se muestra ningún mensaje de error. El módulo de texto muestra un mensaje de error y no se puede procesar en la carta. NPR-17798
 * Errores inesperados en los registros de la instalación del paquete de complemento. NPR-18295
 
 **Administrador de Forms**
 
-* La interfaz de usuario de AEM Forms muestra todos los recursos por orden de antigüedad. Los usuarios no pueden alterar el orden para colocar los recursos más recientes primero. NPR-18451
+* La interfaz de usuario de AEM Forms enumera todos los recursos en el primer orden más antiguo. Los usuarios no pueden reordenar los recursos en el primer orden más reciente. NPR-18451
 
 ### Instalador JEE de Forms  {#forms-jee-installer-14}
 
@@ -1591,7 +1591,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 * Correcciones de Campaign, Mobile On-Demand y Traducción
 * Mejoras de uso en el editor de reglas de formularios adaptables
 * Editor de condiciones en línea mejorado para la administración de correspondencia en formularios
-* Correcciones de administración de procesos y servicios de salida para formularios AEM en JEE
+* Correcciones de administración de procesos y servicios de salida para AEM Forms en JEE
 * Corrección relacionada con Forms Designer para el Editor de Script
 
 ### Plataforma {#platform-12}
@@ -2208,8 +2208,8 @@ Esta sección es una guía de los requisitos y pasos para instalar el CFP.
 * La descarga del paquete de correcciones acumulativas está disponible en [Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/es/aem.html), a la que puede acceder directamente desde la instancia de AEM.
 * Para una implementación de clúster mediante (RDBMK o MongoDB) el paquete CFP se puede instalar en cualquiera de las instancias de creación que usan el Administrador de paquetes.
 
-* Antes de instalar el paquete de correcciones acumulativas, asegúrese de realizar una instantánea o una copia de seguridad de su instancia de AEM.
-* No se admite la desinstalación de CFP.
+* AEM Antes de instalar el paquete de correcciones acumulativas, asegúrese de tomar una instantánea o realizar una copia de seguridad de la instancia de la aplicación de la aplicación de correcciones acumulativas de la que dispone de la instancia de.
+* No se admite la desinstalación del CFP.
 
 ### Instalar el CFP mediante Distribución de software {#install-the-cfp-via-package-share}
 
@@ -2259,13 +2259,13 @@ CFP se puede instalar automáticamente en una instancia en ejecución de las sig
 
 #### Instalación de paquetes JEE de AEM Forms {#install-aem-forms-jee-bundles-package}
 
-Las correcciones en el instalador JEE de AEM Forms se entregan mediante un instalador independiente. Para obtener información sobre la instalación de un CFP en AEM Forms en JEE, consulte [Instalación de CFP en el JEE de AEM Forms](install-cfp-aem-forms-jee.md).
+Las correcciones en AEM Forms JEE se entregan mediante un instalador independiente. Para obtener información sobre la instalación de un CFP en AEM Forms en JEE, consulte [Instalación del CFP en AEM Forms JEE](install-cfp-aem-forms-jee.md).
 
 #### Programa de instalación del diseñador Forms Designer {#designer-installer}
 
 1. Para instalar la actualización, ejecute el archivo Designer 6.2.0_&lt;Language>_Cumulative_QF.msp.
 1. En la pantalla de bienvenida, haga clic en **Actualizar**. Se inicia la instalación.
-1. Una vez finalizada la instalación, haga clic en **Finalizar**.
+1. Una vez finalizada la instalación, haga clic en **terminar**.
 
 ## Parámetros de tiempo de espera Configurables por el usuario para DTM, Analytics, Destinatario, Conexiones de Search&amp;Promote {#user-configurable-timeout-parameters-for-dtm-analytics-target-search-promote-connections}
 
