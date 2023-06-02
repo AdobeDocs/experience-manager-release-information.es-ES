@@ -12,8 +12,8 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 100%
 
 ---
 

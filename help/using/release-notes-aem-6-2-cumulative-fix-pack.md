@@ -4,8 +4,8 @@ description: Notas de la versión del paquete de correcciones acumulativas de AE
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '19928'
+ht-degree: 97%
 
 ---
 

@@ -4,8 +4,8 @@ description: “Actualizaciones de las versiones y hoja de ruta de [!DNL Adobe E
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 100%
 
 ---
 
