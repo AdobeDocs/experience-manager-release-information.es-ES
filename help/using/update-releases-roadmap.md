@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
+source-git-commit: b20b313250cb7643c97de1e0a2ed614073665c12
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 100%
+source-wordcount: '336'
+ht-degree: 87%
 
 ---
 
@@ -21,17 +21,17 @@ ht-degree: 100%
 
 [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=es) suele seguir una cadencia de versión mensual en el caso de nuevas funciones. Las próximas activaciones de funcionalidades para [!DNL Experience Manager] como [!DNL Cloud Service] están planificadas como se muestra a continuación.
 
-| Edición | Versión | Tipo | Programación |
+| Edición | Tipo | Programación | Estado |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Activación de funciones | 12 de abril de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Activación de funciones | 7 de junio de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | Activación de funciones | 29 de junio de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | Activación de funciones | 27 de julio de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | Activación de funciones | 31 de agosto de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 2023.9.0 | Activación de funciones | 28 de septiembre de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | Activación de funciones | 26 de octubre de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | Activación de funciones | 12 de abril de 2023 | Activado |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | Activación de funciones | 7 de junio de 2023 | Activado |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | Activación de funciones | 29 de junio de 2023 | Destino |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | Activación de funciones | 27 de julio de 2023 | Destino |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | Activación de funciones | 31 de agosto de 2023 | Destino |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | Activación de funciones | 28 de septiembre de 2023 | Destino |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | Activación de funciones | 26 de octubre de 2023 | Destino |
 
-Además de las ediciones de funciones, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] en forma de ediciones de mantenimiento, con una actualización de mantenimiento correspondiente que generalmente se produce a una frecuencia más alta.
+Además de las versiones de funcionalidades, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] en forma de [versiones de mantenimiento](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html), con una actualización de mantenimiento correspondiente que generalmente se produce en una frecuencia más alta.
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
@@ -58,4 +58,3 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de pa
 >* Versiones y actualizaciones de [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=es)
 >* [[!DNL Experience Manager] Formación y asistencia de](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es)
 >* Actualizar definiciones vehiculares de versiones de [[!DNL Experience Manager] ](/help/using/update-release-vehicle-definitions.md)
-
