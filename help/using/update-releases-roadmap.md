@@ -3,9 +3,9 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 8431dac82cec9454c6a4683dc566f34c3978fae6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 87%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=es) suele seguir una cadencia de versión mensual en el caso de nuevas funciones. Las próximas activaciones de funcionalidades para [!DNL Experience Manager] como [!DNL Cloud Service] están planificadas como se muestra a continuación.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=es) suele seguir una cadencia de versión mensual en el caso de nuevas funciones. Las próximas activaciones de funcionalidades para [!DNL Experience Manager] as a [!DNL Cloud Service] están planificadas como se muestra a continuación.
 
 | Edición | Tipo | Programación | Estado |
 |---|---|---|---|
@@ -31,7 +31,7 @@ ht-degree: 87%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | Activación de funciones | 28 de septiembre de 2023 | Destino |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | Activación de funciones | 26 de octubre de 2023 | Destino |
 
-Además de las versiones de funcionalidades, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] as a [!DNL Cloud Service] en forma de [versiones de mantenimiento](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html), con una actualización de mantenimiento correspondiente que generalmente se produce en una frecuencia más alta.
+Además de las ediciones de funciones, hay correcciones críticas de errores y seguridad disponibles en [!DNL Experience Manager] como [!DNL Cloud Service] en forma de [ediciones de mantenimiento](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es), con una actualización de mantenimiento correspondiente que generalmente se produce a una frecuencia más alta.
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
