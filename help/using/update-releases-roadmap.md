@@ -2,9 +2,9 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0d6d189e10b38d5a87baf381bfab15c8afc7a128
-workflow-type: ht
-source-wordcount: '336'
+source-git-commit: 0e08661d65926e57a853ed8bc37170abba695308
+workflow-type: tm+mt
+source-wordcount: '341'
 ht-degree: 100%
 
 ---
@@ -41,12 +41,12 @@ Las actualizaciones de productos en lo relativo a nuevas funciones, mejoras y co
 
 Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores. Para obtener más información sobre el paquete de servicio más reciente, consulte Notas de la versión del paquete de servicio [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=es).
 
-| Edición | Versión | Tipo | Programación |
-|---|---|---|---|
-| Paquete de servicio 16 de [!DNL Experience Manager] 6.5 | 6.5.16.0 | Paquete de servicio | 23 de febrero de 2023 |
-| Paquete de servicio 17 de [!DNL Experience Manager] 6.5 | 6.5.17.0 | Paquete de servicio | 25 de mayo de 2023 |
-| Paquete de servicio 18 de [!DNL Experience Manager] 6.5 | 6.5.18.0 | Service Pack | 31 de agosto de 2023 |
-| Paquete de servicio 19 de [!DNL Experience Manager] 6.5 | 6.5.19.0 | Service Pack | 30 de noviembre de 2023 |
+| Edición | Versión | Tipo | Programación | Estado |
+|---|---|---|---|---|
+| Paquete de servicio 16 de [!DNL Experience Manager] 6.5 | 6.5.16.0 | Paquete de servicio | 23 de febrero de 2023 | Activado |
+| Paquete de servicio 17 de [!DNL Experience Manager] 6.5 | 6.5.17.0 | Paquete de servicio | 25 de mayo de 2023 | Activado |
+| Paquete de servicio 18 de [!DNL Experience Manager] 6.5 | 6.5.18.0 | Service Pack | 24 de agosto de 2023 | Destino |
+| Paquete de servicio 19 de [!DNL Experience Manager] 6.5 | 6.5.19.0 | Service Pack | 23 de noviembre de 2023 | Destino |
 
 >[!NOTE]
 >
