@@ -3,7 +3,7 @@ title: Versiones de AEM Forms
 description: Contiene la lista de todas las versiones de AEM Forms y los paquetes correspondientes
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: bae9bceec8a79759b5deb01ef38f9ee7702a5395
+source-git-commit: e8497431ba050d485d3b359efbb708cbd6fdfa83
 workflow-type: tm+mt
 source-wordcount: '8127'
 ht-degree: 94%
@@ -73,7 +73,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/hotfix/Hotfix-on-SP18.zip">Revisión-FORMS-10578</a> </li>
       </ul> 
       </td>
-    <td><p>Programa de instalación completo de AEM Forms JEE: 6-5-0-20230913-1-12345 <br/><p>Programa de instalación de parches de AEM Forms JEE: aemforms-6-5-0-0069<br/><p>Paquetes de complementos de AEM Forms: 6.5.18.0</p></td>
+    <td><p>Programa de instalación completo de AEM Forms JEE: 6-5-0-20230913-1-12345 <br/><p>Programa de instalación de parches de AEM Forms JEE: aemforms-6-5-0-0069<br/><p>Paquetes de complementos de AEM Forms: 6.5.18.0 </p></td>
    </tr>
    <tr>
     <td>01 de junio de 2023</td>
