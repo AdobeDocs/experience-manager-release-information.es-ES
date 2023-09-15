@@ -2,9 +2,9 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: d49db9de4e6fd520d7c6e502c1c4573e4c49a45e
+source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '493'
 ht-degree: 75%
 
 ---
@@ -31,6 +31,7 @@ Próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service] se 
 | Lanzamiento de funciones [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es) | Activación de funciones | 31 de agosto de 2023 | Activado |
 | Versión de mantenimiento [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Actualización automática | 1 de septiembre de 2023 | Actualizado   |
 | Versión de mantenimiento [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es) | Actualización automática | 12 de septiembre de 2023 | Actualizado   |
+| Versión de mantenimiento | Actualización automática | Del 18 al 20 de septiembre de 2023 | Público destinatario |
 | Versión de funciones 2023.9.0 | Activación de funciones | 28 de septiembre de 2023 | Destino |
 | Versión de mantenimiento | Actualización automática | 2-5 de octubre de 2023 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 16 al 19 de octubre de 2023 | Público destinatario |
