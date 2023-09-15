@@ -4,8 +4,8 @@ description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 75%
+source-wordcount: '497'
+ht-degree: 93%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 75%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service] las nuevas funciones se entregan a través de un [activación de función mensual](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es), mientras que las mejoras y correcciones de errores se entregan dos veces al mes mediante [versiones de mantenimiento](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es).
-Próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service] se planifican de la siguiente manera:
+Las nuevas funciones de [!DNL Experience Manager] as a [!DNL Cloud Service] se incluyen en la [activación de funcionalidades mensual](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es), mientras que las mejoras y correcciones de errores se incluyen en las [versiones de mantenimiento](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es) dos veces al mes.
+Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service] están planificadas del siguiente modo:
 
-| Edición | Evento | Programación | Estado |
+| Versión | Evento | Programación | Estado |
 |---|---|---|---|
 | Lanzamiento de funciones [2023.6.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-6-0.html?lang=es) | Activación de funciones | 29 de junio de 2023 | Activado |
 | Lanzamiento de funciones [2023.7.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-7-0.html?lang=es) | Activación de funciones | 27 de julio de 2023 | Activado |
@@ -31,16 +31,16 @@ Próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service] se 
 | Lanzamiento de funciones [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es) | Activación de funciones | 31 de agosto de 2023 | Activado |
 | Versión de mantenimiento [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Actualización automática | 1 de septiembre de 2023 | Actualizado   |
 | Versión de mantenimiento [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es) | Actualización automática | 12 de septiembre de 2023 | Actualizado   |
-| Versión de mantenimiento | Actualización automática | Del 18 al 20 de septiembre de 2023 | Público destinatario |
-| Versión de funciones 2023.9.0 | Activación de funciones | 28 de septiembre de 2023 | Destino |
-| Versión de mantenimiento | Actualización automática | 2-5 de octubre de 2023 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | Del 16 al 19 de octubre de 2023 | Público destinatario |
-| Versión de funciones 2023.10.0 | Activación de funciones | 26 de octubre de 2023 | Destino |
+| Versión de mantenimiento | Actualización automática | 18 y 20 de septiembre de 2023 | Público destinatario |
+| Versión 2023.9.0 de las funcionalidades | Activación de funciones | 28 de septiembre de 2023 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 2 y 5 de octubre de 2023 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 16 y 19 de octubre de 2023 | Público destinatario |
+| Versión 2023.10.0 de las funcionalidades | Activación de funciones | 26 de octubre de 2023 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 30 de octubre al 2 de noviembre de 2023 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 13-16 de noviembre de 2023 | Público destinatario |
-| Versión de funciones 2023.11.0 | Activación de funciones | 30 de noviembre de 2023 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 11-14 de diciembre de 2023 | Público destinatario |
-| Versión de funciones 2023.12.0 | Activación de funciones | 14 de diciembre de 2023 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 13 y 16 de noviembre de 2023 | Público destinatario |
+| Versión 2023.11.0 de las funcionalidades | Activación de funciones | 30 de noviembre de 2023 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 11 y 14 de diciembre de 2023 | Público destinatario |
+| Versión 2023.12.0 de las funcionalidades | Activación de funciones | 14 de diciembre de 2023 | Público destinatario |
 
 >[!CAUTION]
 >
