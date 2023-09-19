@@ -2,9 +2,9 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
+source-git-commit: cbc5229bba25a24958dc09b31a89d178556eeae1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '491'
 ht-degree: 93%
 
 ---
@@ -30,8 +30,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | Actualización automática | 21 de agosto de 2023 | Actualizado   |
 | Lanzamiento de funciones [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es) | Activación de funciones | 31 de agosto de 2023 | Activado |
 | Versión de mantenimiento [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Actualización automática | 1 de septiembre de 2023 | Actualizado   |
-| Versión de mantenimiento [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es) | Actualización automática | 12 de septiembre de 2023 | Actualizado   |
-| Versión de mantenimiento | Actualización automática | 18 y 20 de septiembre de 2023 | Público destinatario |
+| Versión de mantenimiento [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es) | Actualización automática | 18 y 20 de septiembre de 2023 | Actualizado   |
 | Versión 2023.9.0 de las funcionalidades | Activación de funciones | 28 de septiembre de 2023 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 2 y 5 de octubre de 2023 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 16 y 19 de octubre de 2023 | Público destinatario |
