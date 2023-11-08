@@ -2,9 +2,9 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 578f404ad359536461fd93a364a4ac4e59381e0e
+source-git-commit: 568528ecf59035b6fd5fb7bab119bfe8712ea3a1
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '549'
 ht-degree: 100%
 
 ---
@@ -35,8 +35,8 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=es#release-13665) | Actualización automática | 2 y 5 de octubre de 2023 | Actualizado |
 | Versión de mantenimiento [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=es#release-13804) | Actualización automática | 16 y 19 de octubre de 2023 | Actualizado |
 | Versión [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es) de las funcionalidades | Activación de funciones | 26 de octubre de 2023 | Activado |
-| Versión de mantenimiento [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es) | Actualización automática | Del 30 de octubre al 2 de noviembre de 2023 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 13 y 16 de noviembre de 2023 | Público destinatario |
+| Versión de mantenimiento [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html?lang=es#release-14029) | Actualización automática | Del 30 de octubre al 2 de noviembre de 2023 | Actualizado |
+| Versión de mantenimiento [14157](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=es) | Actualización automática | 13 y 16 de noviembre de 2023 | Público destinatario |
 | Versión 2023.11.0 de las funcionalidades | Activación de funciones | 30 de noviembre de 2023 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 11 y 14 de diciembre de 2023 | Público destinatario |
 | Versión 2023.12.0 de las funcionalidades | Activación de funciones | 14 de diciembre de 2023 | Público destinatario |
