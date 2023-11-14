@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ffa37b42c9f90404900d9e4c5e4ce25fe4a1d12f
+source-git-commit: 244be6d98b3efc8b7df85029f1e37670501b93ed
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 99%
+ht-degree: 96%
 
 ---
 
@@ -36,13 +36,13 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión 2023.11.0 de las funcionalidades | Activación de funciones | 30 de noviembre de 2023 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 11 y 14 de diciembre de 2023 | Público destinatario |
 | Versión 2023.12.0 de las funcionalidades | Activación de funciones | 14 de diciembre de 2023 | Público destinatario |
-| Versión 2024.1.0 de las funcionalidades | Activación de funciones | 25 de enero de 2023 | Público destinatario |
-| Versión 2024.2.0 de las funcionalidades | Activación de funciones | 29 de febrero de 2023 | Público destinatario |
-| Versión 2024.3.0 de las funcionalidades | Activación de funciones | 28 de marzo de 2023 | Público destinatario |
-| Versión 2024.4.0 de las funcionalidades | Activación de funciones | 25 de abril de 2023 | Público destinatario |
-| Versión 2024.5.0 de las funcionalidades | Activación de funciones | 30 de mayo de 2023 | Público destinatario |
-| Versión 2024.6.0 de las funcionalidades | Activación de funciones | 27 de junio de 2023 | Público destinatario |
-| Versión 2024.7.0 de las funcionalidades | Activación de funciones | 25 de julio de 2023 | Público destinatario |
+| Versión 2024.1.0 de las funcionalidades | Activación de funciones | 25 de enero de 2024 | Público destinatario |
+| Versión 2024.2.0 de las funcionalidades | Activación de funciones | 29 de febrero de 2024 | Público destinatario |
+| Versión 2024.3.0 de las funcionalidades | Activación de funciones | 28 de marzo de 2024 | Público destinatario |
+| Versión 2024.4.0 de las funcionalidades | Activación de funciones | 25 de abril de 2024 | Público destinatario |
+| Versión 2024.5.0 de las funcionalidades | Activación de funciones | 30 de mayo de 2024 | Público destinatario |
+| Versión 2024.6.0 de las funcionalidades | Activación de funciones | 27 de junio de 2024 | Público destinatario |
+| Versión 2024.7.0 de las funcionalidades | Activación de funciones | 25 de julio de 2024 | Público destinatario |
 
 >[!CAUTION]
 >
@@ -50,8 +50,8 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 >
 > No se ejecutará ningún mantenimiento automático de AEMaaCS durante los siguientes lapsos de tiempo, a partir y hasta la medianoche (00:00) CET:
 >
->* Del jueves 16 de noviembre hasta el martes 28 de noviembre
->* Del lunes, 15 de diciembre hasta el martes, 2 de enero
+>* Jueves, 16 de noviembre de 2023 hasta el martes, 28 de noviembre de 2023
+>* Viernes 15 de diciembre de 2023 hasta el martes 2 de enero de 2024
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
