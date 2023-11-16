@@ -3,9 +3,9 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 97cb94f05cd40bb1321712a6713b93db626948ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '557'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión 2023.11.0 de las funcionalidades | Activación de funciones | 30 de noviembre de 2023 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 11 y 14 de diciembre de 2023 | Público destinatario |
 | Versión 2023.12.0 de las funcionalidades | Activación de funciones | 14 de diciembre de 2023 | Público destinatario |
-| Versión 2024.1.0 de las funcionalidades | Activación de funciones | 25 de enero de 2024 | Público destinatario |
+| Versión 2024.1.0 de las funcionalidades | Activación de funcionalidades | 25 de enero de 2024 | Público destinatario |
 | Versión 2024.2.0 de las funcionalidades | Activación de funciones | 29 de febrero de 2024 | Público destinatario |
 | Versión 2024.3.0 de las funcionalidades | Activación de funciones | 28 de marzo de 2024 | Público destinatario |
 | Versión 2024.4.0 de las funcionalidades | Activación de funciones | 25 de abril de 2024 | Público destinatario |
@@ -50,8 +50,8 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 >
 > No se ejecutará ningún mantenimiento automático de AEMaaCS durante los siguientes lapsos de tiempo, a partir y hasta la medianoche (00:00) CET:
 >
->* Jueves, 16 de noviembre de 2023 hasta el martes, 28 de noviembre de 2023
->* Viernes 15 de diciembre de 2023 hasta el martes 2 de enero de 2024
+>* Del jueves 16 de noviembre al martes 28 de noviembre de 2023
+>* Del viernes 15 de diciembre de 2023 al martes 2 de enero de 2024
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
