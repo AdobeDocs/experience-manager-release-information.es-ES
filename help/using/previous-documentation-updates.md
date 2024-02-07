@@ -3,7 +3,7 @@ title: Actualizaciones de documentación anteriores
 description: Esta página incluye cambios y actualizaciones importantes de la documentación anteriores de [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 042bc34d6a43f3dcbac5d34588fa417cb4e6b5c0
+source-git-commit: afc24b365d5ab6cbc6c0b9817e35521cf15ec94b
 workflow-type: tm+mt
 source-wordcount: '1236'
 ht-degree: 98%
@@ -31,7 +31,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>12 de diciembre de 2019</td> 
    <td>Paquete de servicio 3 de AEM 6.5<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-3.html">El Service Pack 3 de AEM 6.5</a> está disponible.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">El Service Pack 3 de AEM 6.5</a> está disponible.</td> 
   </tr>
   <tr>
    <td>5 de diciembre de 2019</td> 
@@ -101,7 +101,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>19 de septiembre de 2019</td> 
    <td>Paquete de servicio 2 de AEM 6.5</td> 
-   <td>El <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-2.html">paquete de servicio 2 de AEM 6.5 (6.5.2.0)</a> está disponible.</td>
+   <td>El <a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">paquete de servicio 2 de AEM 6.5 (6.5.2.0)</a> está disponible.</td>
   </tr>
   <tr>
    <td>9 de septiembre de 2019</td> 
@@ -156,7 +156,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>3 de julio de 2019</td> 
    <td>Paquete de servicio 1 de AEM 6.5</td> 
-   <td>El <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-1.html">paquete de servicio 1 de AEM 6.5 (6.5.1.0)</a> está disponible.</td> 
+   <td>El <a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">paquete de servicio 1 de AEM 6.5 (6.5.1.0)</a> está disponible.</td> 
   </tr>
   <tr>
    <td>25 de junio de 2019</td> 
