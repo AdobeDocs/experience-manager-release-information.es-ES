@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4c3f6652b13c99bdd2140c7e4a03be9eb9417a06
+source-git-commit: 6d63bec303a4bf9858e536f06d854069982af4db
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 95%
+source-wordcount: '524'
+ht-degree: 91%
 
 ---
 
@@ -46,8 +46,14 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 |---|---|---|---|
 | Versión de mantenimiento | Actualización automática | 1-3 de abril de 2024 | Público destinatario |
 | Versión 2024.3.0 de las funcionalidades | Activación de funciones | viernes, 04 de abril de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 15-17 de abril de 2024 | Público destinatario |
 | Versión 2024.4.0 de las funcionalidades | Activación de funciones | 25 de abril de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | Del 29 de abril al 1 de mayo de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 13-15 de mayo de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 27-29 de mayo de 2024 | Público destinatario |
 | Versión 2024.5.0 de las funcionalidades | Activación de funciones | 30 de mayo de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 10-12 de junio de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 24-26 de junio de 2024 | Público destinatario |
 | Versión 2024.6.0 de las funcionalidades | Activación de funciones | 27 de junio de 2024 | Público destinatario |
 | Versión 2024.7.0 de las funcionalidades | Activación de funciones | 25 de julio de 2024 | Público destinatario |
 
