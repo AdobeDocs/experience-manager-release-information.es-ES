@@ -2,7 +2,7 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 12ef034cc7e185e3dc5c7edd54ee8157ed13905c
+source-git-commit: 9ef364f5e561b07ae9d81dba9b772e884e74d322
 workflow-type: tm+mt
 source-wordcount: '535'
 ht-degree: 90%
@@ -39,12 +39,13 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html) de las funcionalidades | Activación de funciones | 14 de diciembre de 2023 | Activado |
 | Versión [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es) de las funcionalidades | Activación de funcionalidades | 25 de enero de 2024 | Activado |
 | Versión de mantenimiento [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html#release-15262) | Actualización automática | Del 11 al 13 de marzo de 2024 | Activado |
-| Versión de mantenimiento [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | Del 19 al 21 de marzo de 2024 | Público destinatario |
+
 
 ### Próximas versiones {#upcoming}
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
+| Versión de mantenimiento [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | Del 19 al 21 de marzo de 2024 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 1-3 de abril de 2024 | Público destinatario |
 | Versión 2024.3.0 de las funcionalidades | Activación de funciones | viernes, 04 de abril de 2024 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 15-17 de abril de 2024 | Público destinatario |
