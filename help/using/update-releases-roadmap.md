@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 36981c8f4942f9c8b0581204cdfff769d942351d
+source-git-commit: d0ad1c9e02ff25bffe5cf4eb1eb385ee0202e941
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 76%
+ht-degree: 90%
 
 ---
 
@@ -46,8 +46,18 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-
-| Versión de mantenimiento|Actualización automática|8 y 10 de abril de 2024|Target| | Versión de funciones 2024.3.0 |Activación de funciones|4 de abril de 2024 |Destino| | Versión de mantenimiento|Actualización automática|22 y 24 de abril de 2024|Target| | Versión de funciones 2024.4.0 |Activación de funciones|25 de abril de 2024 |Destino| | Versión de mantenimiento|Actualización automática|6 y 8 de mayo de 2024|Target| | Versión de mantenimiento|Actualización automática|20-22 de mayo de 2024|Target| | Versión de funciones 2024.5.0 |Activación de funciones|30 de mayo de 2024 |Destino| | Versión de mantenimiento|Actualización automática|3-5 de junio de 2024|Target| | Versión de mantenimiento|Actualización automática|17 y 19 de junio de 2024|Target| | Versión de funciones 2024.6.0 |Activación de funciones|27 de junio de 2024 |Destino| | Versión de mantenimiento|Actualización automática|1-3 de julio de 2024|Target| | Versión de funciones 2024.7.0 |Activación de funciones|25 de julio de 2024 |Destino|
+| Versión de mantenimiento | Actualización automática | 8-10 de abril de 2024 | Público destinatario |
+| Versión 2024.3.0 de las funcionalidades | Activación de funciones | viernes, 04 de abril de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 22-24 de abril de 2024 | Público destinatario |
+| Versión 2024.4.0 de las funcionalidades | Activación de funciones | 25 de abril de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 6-8 de mayo de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 20-22 de mayo de 2024 | Público destinatario |
+| Versión 2024.5.0 de las funcionalidades | Activación de funciones | 30 de mayo de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 3-5 de junio de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 17-19 de junio de 2024 | Público destinatario |
+| Versión 2024.6.0 de las funcionalidades | Activación de funciones | 27 de junio de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 1-3 de julio de 2024 | Público destinatario |
+| Versión 2024.7.0 de las funcionalidades | Activación de funciones | 25 de julio de 2024 | Público destinatario |
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
