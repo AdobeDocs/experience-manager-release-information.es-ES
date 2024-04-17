@@ -1,12 +1,12 @@
 ---
 title: Instalación de paquetes de correcciones acumulativas en AEM Forms JEE
-description: Resumen de los pasos para instalar y configurar el paquete de correcciones acumulativas (CFP) en AEM Forms JEE
+description: Resumen de los pasos para instalar y configurar el paquete de correcciones acumulativas (CFP) en AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '921'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '909'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ Para instalar el Fix Pack acumulativo en AEM 6.3 [!DNL Forms JEE], realice la si
 
 El paquete de AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versión 1.0.2) proporciona al usuario de [!DNL Forms] en AEM [!DNL Forms JEE] los mismos derechos y funcionalidades que en AEM [!DNL Forms OSGi]. Compruebe los paquetes instalados en el Administrador de paquetes e instale el paquete si aún no está instalado.
 
-### Instrucciones adicionales para CQ-4208044 {#additional-instructions-for-cq}
+### Más instrucciones para CQ-4208044 {#additional-instructions-for-cq}
 
 Si utiliza el servidor AEM 6.3 [!DNL Forms JEE] con base de datos de Oracle, configure las siguientes opciones después de la implementación del CFP1, es decir, después de ejecutar el Administrador de configuración. Esta configuración es necesaria para sincronizar usuarios, grupos y abonados del grupo cuando se ejecuta la sincronización de dominios de empresa.
 
@@ -100,8 +100,8 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
 
    Vaya al directorio correspondiente del medio de instalación o a la carpeta del disco duro donde copió el programa de instalación:
 
-   * (Windows de 32 bits): Disk1\InstData\Windows\VM
-   * (Windows de 64 bits): Disk1\InstData\Windows_64bit\VM
+   * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
+   * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
 
    A continuación, haga doble clic en el archivo denominado:
 
@@ -126,7 +126,7 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
    Se inicia el asistente de instalación para guiarle a través de la instalación.
 
 1. En el panel Introducción, haga clic en **[!UICONTROL Siguiente]**.
-1. En la pantalla Elegir carpeta de instalación, verifique que la ubicación predeterminada que se muestra es correcta para la instalación existente, o haga clic en **[!UICONTROL Examinar]** para seleccionar la carpeta alternativa en la que AEM [!DNL Forms] está instalado y haga clic en **[!UICONTROL Siguiente]**.
+1. En la pantalla Elegir carpeta de instalación, compruebe que la ubicación predeterminada que se muestra es correcta para la instalación existente. O haga clic en **[!UICONTROL Examinar]** AEM para seleccionar la carpeta alternativa en la que se debe realizar la [!DNL Forms] está instalado y haga clic en **[!UICONTROL Siguiente]**.
 1. Lea la información de resumen de parches de corrección rápida y haga clic en **[!UICONTROL Siguiente]**.
 1. Lea la información del resumen previo a la instalación y haga clic en **[!UICONTROL Instalar]**.
 1. Una vez finalizada la instalación, haga clic en **[!UICONTROL Siguiente]** para aplicar las actualizaciones de correcciones rápidas a los archivos instalados.

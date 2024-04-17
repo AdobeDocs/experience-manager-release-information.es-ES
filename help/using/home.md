@@ -1,17 +1,17 @@
 ---
-title: “Actualizaciones de las versiones y hoja de ruta de [!DNL Adobe Experience Manager]”
-description: “Actualizaciones de las versiones y hoja de ruta de [!DNL Adobe Experience Manager]”
+title: Actualizaciones y hoja de ruta de la versión de Adobe Experience Manager
+description: Actualizaciones de la versión y hoja de ruta de Adobe Experience Manager.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '56'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 66%
 
 ---
 
 # Actualizaciones y hoja de ruta de la versión de Adobe Experience Manager
 
-Esta guía cubre información sobre el programa de actualizaciones de [!DNL Adobe Experience Manager], las actualizaciones de versiones anteriores y las actualizaciones de documentación.
+Esta guía describe información sobre [!DNL Adobe Experience Manager] hoja de ruta de la versión, actualizaciones de versiones anteriores y actualizaciones de documentación.
 
 * [Actualizaciones de las versiones de [!DNL Experience Manager]](aem-releases-updates.md)
 * [Hoja de ruta de actualizaciones de [!DNL Experience Manager]](update-releases-roadmap.md)
