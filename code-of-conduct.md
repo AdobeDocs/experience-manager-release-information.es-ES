@@ -1,7 +1,7 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 62%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 62%
 
 ## Promesa del Adobe
 
-Con el fin de fomentar un entorno abierto y acogedor, los colaboradores y administradores se comprometen a hacer de la participación en el proyecto y en la comunidad una experiencia libre de acoso para todos, independientemente de la edad, dimensión corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia personal, raza, religión, identidad y orientación sexual.
+Con el fin de fomentar un entorno abierto y acogedor, los colaboradores y administradores se comprometen a hacer de la participación en el proyecto y en la comunidad una experiencia libre de acoso para todos. Este compromiso es independiente de la edad, tamaño corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia personal, raza, religión, o identidad y orientación sexual.
 
 ## Estándares del Adobe
 
@@ -33,7 +33,7 @@ Algunos ejemplos de comportamiento inaceptable de los participantes son:
 
 Los responsables de los proyectos son responsables de aclarar las normas de comportamiento aceptable y se espera que adopten medidas correctivas apropiadas y justas en respuesta a cualquier caso de comportamiento inaceptable.
 
-Los administradores de proyectos tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones, código, ediciones de wiki, problemas y otras contribuciones que no estén alineadas con este Código de conducta. O bien, prohibir temporal o permanentemente a cualquier colaborador por otros comportamientos que consideren inapropiados, amenazantes, ofensivos o dañinos.
+Los administradores de proyectos tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones, código, ediciones de wiki y problemas que no estén alineados con este código de conducta. O bien, prohibir temporal o permanentemente a cualquier colaborador por otros comportamientos que consideren inapropiados, amenazantes, ofensivos o dañinos.
 
 ## Ámbito
 
