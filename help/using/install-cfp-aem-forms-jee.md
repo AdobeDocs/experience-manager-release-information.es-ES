@@ -4,9 +4,9 @@ description: Resumen de los pasos para instalar y configurar el paquete de corre
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '909'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -126,7 +126,7 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
    Se inicia el asistente de instalación para guiarle a través de la instalación.
 
 1. En el panel Introducción, haga clic en **[!UICONTROL Siguiente]**.
-1. En la pantalla Elegir carpeta de instalación, compruebe que la ubicación predeterminada que se muestra es correcta para la instalación existente. O haga clic en **[!UICONTROL Examinar]** AEM para seleccionar la carpeta alternativa en la que se debe realizar la [!DNL Forms] está instalado y haga clic en **[!UICONTROL Siguiente]**.
+1. En la pantalla Elegir carpeta de instalación, compruebe que la ubicación predeterminada que se muestra es correcta para la instalación existente. También puede hacer clic en **[!UICONTROL Examinar]** para seleccionar la carpeta alternativa en la que AEM [!DNL Forms] está instalado y, luego, hacer clic en **[!UICONTROL Siguiente]**.
 1. Lea la información de resumen de parches de corrección rápida y haga clic en **[!UICONTROL Siguiente]**.
 1. Lea la información del resumen previo a la instalación y haga clic en **[!UICONTROL Instalar]**.
 1. Una vez finalizada la instalación, haga clic en **[!UICONTROL Siguiente]** para aplicar las actualizaciones de correcciones rápidas a los archivos instalados.
