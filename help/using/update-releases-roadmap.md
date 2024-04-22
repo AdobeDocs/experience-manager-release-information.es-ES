@@ -2,9 +2,9 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 39089bca113f0fc5a8c982f7ac8aca5ae83f72db
+source-git-commit: 3d0b3dce7eca9e1d0b97b99f93f58ff496b075ad
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '542'
 ht-degree: 96%
 
 ---
@@ -71,7 +71,7 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de pa
 | [Paquete de servicio 17 de ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-17)[!DNL Experience Manager] 6.5 | 6.5.17.0 | Paquete de servicio | 25 de mayo de 2023 | Activado |
 | [Paquete de servicio 18 de ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-18)[!DNL Experience Manager] 6.5 | 6.5.18.0 | Service Pack | 24 de agosto de 2023 | Activado |
 | [Paquete de servicio 19 de ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-19)[!DNL Experience Manager] 6.5 | 6.5.19.0 | Service Pack | 30 de noviembre de 2023 | Activado |
-| Paquete de servicio 20 de [!DNL Experience Manager] 6.5 | 6.5.20.0 | Service Pack | 22 de febrero de 2024 | Público destinatario |
+| [Paquete de servicio 20 de ](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes)[!DNL Experience Manager] 6.5 | 6.5.20.0 | Service Pack | 22 de febrero de 2024 | Público destinatario |
 | Paquete de servicio 21 de [!DNL Experience Manager] 6.5 | 6.5.21.0 | Service Pack | 23 de mayo de 2024 | Público destinatario |
 | Paquete de servicio 22 de [!DNL Experience Manager] 6.5 | 6.5.22.0 | Service Pack | 22 de agosto de 2024 | Público destinatario |
 | Paquete de servicio 23 de [!DNL Experience Manager] 6.5 | 6.5.23.0 | Service Pack | 21 de noviembre de 2024 | Público destinatario |
