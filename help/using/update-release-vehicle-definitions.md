@@ -1,12 +1,12 @@
 ---
 title: Actualizar definiciones vehiculares de versiones
-description: Este artículo detalla los distintos tipos de [!DNL Experience Manager] Versiones de, incluidas las versiones completas, los paquetes de funciones y los paquetes de servicio.
+description: En este artículo se detallan los distintos tipos de versiones de  [!DNL Experience Manager] , incluidas las versiones completas, los paquetes de funciones y los Service Pack.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -77,4 +77,4 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 | Disponibilidad e instalación | <ul> <li>Entregado mediante paquetes de servicio </li> <li> Disponible en la distribución de software. Los clientes aceptan los términos y condiciones de [!DNL Adobe's] a través de la distribución de software. </li> </ul> |
 | Nivel de prueba | Los paquetes de funciones de disponibilidad general están validados por el control de calidad. |
 
-* 1: Las correcciones de Oak no se entregan como correcciones rápidas individuales. Sin embargo, se incluyen en la revisión Acumulative Oak posterior. Si es necesario, se puede poner a disposición un diagnóstico creado sobre el último COFP. La condición previa es que el cliente tenga la última COFP en ejecución. Las compilaciones de diagnóstico solo proporcionan el mismo nivel de garantía de calidad que una revisión. Por lo tanto, no proporcionan el mismo nivel de garantía de calidad que un Fix Pack acumulativo, un Service Pack o una versión del producto. La corrección final se entrega con la siguiente CFP.
+* 1: Las correcciones de Oak no se entregan como correcciones rápidas individuales. Sin embargo, se incluyen en la revisión para Cumulative Oak posterior. En caso necesario, se puede disponer de un diagnóstico basado en el último COFP. La condición previa es que el cliente tenga la última COFP en ejecución. Las compilaciones de diagnóstico solo proporcionan el mismo nivel de garantía de calidad que una revisión. Por lo tanto, no proporcionan el mismo nivel de garantía de calidad que un Fix Pack acumulativo, un Service Pack o una versión del producto. La corrección final se entrega con la siguiente CFP.

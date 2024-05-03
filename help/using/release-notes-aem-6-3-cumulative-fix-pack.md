@@ -3,9 +3,9 @@ title: Paquete de correcciones acumulativas de AEM 6.3
 description: Notas de la versión del Fix Pack acumulativo de AEM 6.3.
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e8c9b5343208458febe55d8c1a0b541b112d3911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '17123'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -530,7 +530,7 @@ Los aspectos destacados del Fix Pack acumulativo de AEM son:
 * La herencia de la configuración de Cloud Service se interrumpe al editar otras propiedades de la página. NPR-27311: revisión para CQ-4256785
 * Excepción de puntero nulo al utilizar un formulario de componentes principales junto con un formulario de base. NPR-27333: revisión para CQ-4249176
 * El Editor de texto enriquecido elimina la etiqueta alt vacía. NPR-26938: revisión para CQ-4253267
-* (IU clásica) Problemas de rendimiento con la selección, se ha cambiado el oyente si había varias listas desplegables. NPR-27115: revisión para CQ-4237215
+* (IU clásica) Problemas de rendimiento con el receptor de selección, modificado si había varias listas desplegables. NPR-27115: revisión para CQ-4237215
 * Cuando el editor de texto enriquecido se combina con varios campos, se produce el error Uncaught TypeError: fieldAPI.getName is not a function at foundation.js. NPR-27146: revisión para CQ-4253155, CQ-4259967
 * El enfoque o el cursor permanece en el Editor de texto enriquecido incluso al hacer clic en un botón de opción en el explorador Safari. NPR-27144: revisión para CQ-4249635
 * La página aparece en blanco cuando el usuario intenta editar el fragmento de contenido. NPR-27669
@@ -608,7 +608,7 @@ Los aspectos destacados del Fix Pack acumulativo de AEM son:
 #### Forms: formularios adaptables {#forms-adaptive-forms-1}
 
 * Vulnerabilidad de la inyección de XML con AEM Forms. NPR-27863: revisión para CQ-4257315
-* El componente Contenedor de AEM Forms se vuelve invisible cuando se configura el formulario incorrecto en la página de AEM Sites y se selecciona la casilla de verificación &quot;Los formularios cubren todo el ancho de la página&quot;. NPR-25972: revisión para CQ-4239287, CQ-4249133
+* El componente de contenedor de AEM Forms se vuelve invisible cuando se configura el formulario incorrecto en la página de AEM Sites y se selecciona la casilla de verificación “Los formularios cubren todo el ancho de la página”. NPR-25972: revisión para CQ-4239287, CQ-4249133
 
 ### Instalador JEE de Forms {#forms-jee-installer-5}
 
@@ -630,7 +630,7 @@ Lista de paquetes de contenido incluidos en AEM 6.3.3.2
 
 El Fix Pack acumulativo 6.3.3.1 de AEM es una actualización importante que incluye varias correcciones internas y del cliente. El paquete de servicio 3 (6.3.3.0) de AEM 6.3 está disponible de forma general desde septiembre de 2018.
 
-El Fix Pack acumulativo 6.3.3.1 de AEM depende del Service Pack 3 de AEM 6.3. Por lo tanto, debe instalar el Fix Pack acumulativo 6.3.3.x de AEM después de instalar el Service Pack 3 de AEM 6.3. Para obtener instrucciones de instalación, consulte las notas de la versión de [AEM Paquete de servicio 3 de.3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+El Fix Pack acumulativo 6.3.3.1 de AEM depende del Service Pack 3 de AEM 6.3. Por lo tanto, debe instalar el Fix Pack acumulativo 6.3.3.x de AEM después de instalar el Service Pack 3 de AEM 6.3. Para obtener instrucciones de instalación, consulte las notas de la versión de [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
@@ -667,7 +667,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * Las etiquetas se crean dos veces cuando hay una diferencia en el tipo de caso de Título y Nombre. NPR-26877: revisión para CQ-4254134
 * Las funciones del editor de texto enriquecido en el cuadro de diálogo de edición no están controladas por directivas. NPR-27059, NPR-26750: revisión para CQ-4241130
 * Preguntas de almacenamiento en caché de ClientContext segment.js frente a preguntas que no están almacenadas en caché. NPR-26622: revisión para CQ-4253486
-* Las activaciones de reglas de segmentos (/etc/segmentation) para reglas secundarias en causas clásicas hacen que la publicación se desactive. NPR-26601: revisión para CQ-4253588
+* Las activaciones de la regla de segmentos (/etc/segmentation) para reglas secundarias en la IU clásica hace que la publicación se desactive. NPR-26601: revisión para CQ-4253588
 * Al añadir un carácter especial, se desplaza al principio el cuadro de diálogo del Editor de texto enriquecido. NPR-26435: revisión para CQ-4249869
 * (Interfaz táctil) La barra de herramientas no se puede utilizar con varios editores de texto enriquecido al cambiar de pantalla completa al cuadro de diálogo flotante. NPR-25652: revisión para CQ-4206008
 * Al promocionar un lanzamiento de varias páginas, se crean varias versiones para cada página. NPR-26810: revisión para CQ-4254663
@@ -677,7 +677,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * La creación de variaciones como Live Copy precisa que el usuario actualice la página para reflejarla. NPR-26663: revisión para CQ-4254328
 * (IU clásica) Al volver a las propiedades de la página, la imagen en miniatura ya no utiliza la herencia y desaparece de la administración del sitio y de la barra de tareas y la imagen se muestra en blanco. NPR-26562: revisión para CQ-4252346
 * Cuando se crea una versión de una página y se activa una comparación, los nodos de /content/versionhistory se enumeran en la lista de Live Copies para el modelo. NPR-26506: revisión para CQ-4243957
-* Las direcciones URL en el Editor de administración de fragmentos de experiencias no permiten superposiciones. NPR-26318: revisión para CQ-4252156
+* Las direcciones URL del Editor de administración de fragmentos de experiencia no permiten superposiciones. NPR-26318: revisión para CQ-4252156
 
 #### Plataforma {#platform}
 
@@ -687,13 +687,13 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 #### Integración {#integration-3}
 
 * El TSDK incrustado con AEM se rompe con una actualización a Handlebars 4 debido al uso de plantillas incompatibles. NPR-26699: revisión para CQ-4248974
-* La publicación de una página con un nuevo recurso desactiva la página secundaria de la instancia de publicación sin notificación. NPR-24869: revisión para CQ-4247832
+* Al publicar una página con un nuevo recurso se desactiva la página secundaria de la instancia de publicación sin previo aviso. NPR-24869: revisión para CQ-4247832
 * La replicación utiliza un token caducado para OAauth. NPR-25984: revisión para Granite-22388
 
 #### Replicación {#replication-2}
 
 * El transporte HTTP puede provocar fugas en las sesiones abiertas. Revisión para Granite-17434
-* Excepciones en los registros mientras más de un agente de replicación accede simultáneamente al nodo de token de acceso. NPR-26964: Revisión para GRANITE-23276, Granite-23155
+* Excepciones en los registros mientras más de un agente de replicación accede simultáneamente al nodo del token de acceso. NPR-26964: Revisión para GRANITE-23276, Granite-23155
 
 #### ContextHub {#contexthub}
 
@@ -719,7 +719,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * No se puede filtrar el contenido en la página de moderación. NPR-26697: revisión para CQ-4213766
 * (Vulnerabilidad de seguridad) Adquisición de la cuenta debido a una configuración incorrecta de JWT. NPR-26440: revisión para CQ-4253314
 * La recuperación de datos del proveedor de recursos de almacenamiento de Adobe es lenta. NPR-26237: revisión para NPR-24152
-* La página de composición de mensajes privados es errática y lenta. NPR-26120: revisión para CQ-4250923
+* La página de composición de mensajes privados se comporta de forma errática y lenta. NPR-26120: revisión para CQ-4250923
 * La notificación “Marcar todo como leído” procesa solo los 10 primeros como no leídos sin actualizar la página. NPR-27036: revisión para CQ-4254058
 * Comportamiento al hacer clic en la paginación de secciones de comentarios de Communities y comportamiento de carga de página. NPR-27030: revisión para CQ-4251228
 * (Búsqueda de foro) El botón Atrás omite la página y vuelve a forum.html. NPR-26949: revisión para CQ-4254804
@@ -727,18 +727,18 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * (Trabajo de SearchScheduledPosts) Agregue el conmutador habilitar/deshabilitar en ConfigMgr. NPR-26924: revisión para CQ-4250463
 * La ruta de contexto (/aempublish) de Tomcat se despliega al desplazarse por la página Asignaciones. NPR-26919: revisión para CQ-4254345
 * NullPointerException al crear un grupo y un miembro. NPR-26778: revisión para CQ-4248095
-* El moderador desfija y el contenido no destacado no funciona con el principio de responsabilidad única (SRP) de MySQL. NPR-26767: revisión para CQ-4251520
+* El contenido no destacado y sin fijar del moderador no funciona con el principio de responsabilidad única (SRP) de MySQL. NPR-26767: revisión para CQ-4251520
 * Problemas de funcionalidad de búsqueda con determinados caracteres. NPR-26726: revisión para CQ-4247744
 * Habilite los vínculos profundos para la interfaz de usuario de moderación y los recursos de habilitación. NPR-26705: revisión para CQ-4251381
 * Problema de búsqueda en el componente del foro. NPR-26577: revisión para CQ-4251303
-* La búsqueda conjunta del nombre y los apellidos en la mensajería de la comunidad no devuelve los resultados esperados. NPR-26377: revisión para CQ-4253150
+* La búsqueda con el nombre y el apellido juntos en la mensajería de la comunidad no devuelve los resultados esperados. NPR-26377: revisión para CQ-4253150
 * La paginación no se actualiza al eliminar las respuestas. NPR-26327
 * La eliminación de la publicación funciona, pero da un error en la consola y la publicación permanece visible en la interfaz de usuario. NPR-26292: revisión para CQ-4252803
 * La paginación no se actualiza de forma dinámica y la lista de respuestas continúa aumentando. NPR-26145: revisión para CQ-4251586
-* La configuración de grupo no se carga en un grupo que contiene muchos miles de usuarios. NPR-25642: revisión para CQ-4238426
+* La configuración de grupo no se carga en un grupo que contiene muchos miles de usuario. NPR-25642: revisión para CQ-4238426
 * Error del reproductor de recursos del catálogo en las rutas de contexto. NPR-25640: revisión para CQ-4238426
 * (Búsqueda del foro): Los vínculos paginados a subprocesos con muchos anuncios no funcionan en las notificaciones. Revisión para CQ-4254202
-* La consola de moderación muestra solo cinco entradas con Firefox. Revisión para CQ-4254128
+* La consola de moderación solo muestra 5 entradas con Firefox. Revisión para CQ-4254128
 * Los grupos no están visibles al crear un sitio. NPR-27148: revisión para CQ-4251788
 * Excepción de puntero nulo al agregar grupos y miembros a la configuración de funciones y al permitir que el miembro privilegiado se encuentre en la función de blog. NPR-21732, NPR-27176: revisión para CQ-4255909
 * La edición del sitio y la adición de miembros en la configuración de funciones genera una excepción de puntero nulo. NPR-27132: revisión para CQ-4255909
@@ -777,7 +777,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
 * El espacio de trabajo se bloquea de forma intermitente y muestra los puntos de inicio repetidamente. NPR-26461: revisión para CQ-4253439
 * La excepción ESAPI se genera en los registros cuando se utilizan llaves en el nombre de la tarea. Revisión para CQ-4256627
-* Se produce una excepción de puntero nulo cuando se abre un formulario adaptable no rellenado previamente o un punto de inicio asociado de conjunto de formularios. Revisión para CQ-4256124
+* Se genera una excepción de puntero nulo cuando se abre un punto de inicio asociado a un formulario o conjunto de formularios adaptables no cumplimentado previamente. Revisión para CQ-4256124
 * No se puede enviar un correo electrónico con la configuración global. NPR-26163: revisión para CQ-111110
 * No se puede abrir el espacio de trabajo después de aplicar el archivo axis.jar. NPR-26131: revisión para CQ-4251126
 * El botón de actualización no puede sincronizar los datos más recientes del servidor con los formularios adaptables. Revisión para CQ-4255670
@@ -828,13 +828,13 @@ Lista de paquetes de contenido incluidos en AEM 6.3.3.1
 
 El Fix Pack acumulativo 6.3.2.2 de AEM es una actualización importante que incluye varias correcciones internas y de cliente desde que estuvo disponible de forma general el Service Pack 2 (6.3.2.0) de AEM 6.3 en abril de 2018.
 
-El Fix Pack acumulativo 6.3.2.2 de AEM depende del Service Pack 2 de AEM 6.3. Por lo tanto, debe instalar el paquete de correcciones acumulativas 6.3.2.x de AEM después de instalar el paquete de servicio 2 de AEM 6.3. Para obtener instrucciones de instalación, consulte las notas de la versión de [AEM Paquete de servicio 2 de.3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+El Fix Pack acumulativo 6.3.2.2 de AEM depende del Service Pack 2 de AEM 6.3. Por lo tanto, debe instalar el Fix Pack acumulativo 6.3.2.x de AEM después de instalar el Service Pack 2 de AEM 6.3. Para obtener instrucciones de instalación, consulte las notas de la versión de [AEM 6.3 Service Pack 2](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
 * El repositorio integrado (Apache Jackrabbit Oak) se ha actualizado a la versión 1.6.11.
 * Se han habilitado subrecursos y una vista de recursos de varias páginas en Brand Portal.
-* Se ha cambiado la longitud del tipo de campo a 255 para que admita todos los tipos MIME posibles para los distintos tipos de archivos adjuntos.
+* Se ha cambiado la longitud del tipo de campo a 255 para admitir todos los tipos de MIME posibles para los diferentes tipos de archivos adjuntos.
 * Mensaje de error configurado del servidor cuando una imagen infringe los criterios de carga.
 * Se ha añadido la compatibilidad con STARTTLS en el servicio de correo de Day CQ.
 * Actualice a las versiones más recientes de cq-wcm-content y com.adobe.cq.launches.it.serverside.
@@ -845,7 +845,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 ### Recursos {#assets-8}
 
 * El campo del grupo cerrado de usuarios de carpetas de recursos (CUG) no devuelve el grupo “todos”. NPR-23163: revisión para CQ-4239377
-* Buscar búsquedas guardadas en colecciones inteligentes no devuelve todos los resultados. NPR-23243: revisión para CQ-4240355
+* Al buscar búsquedas de colecciones inteligentes guardadas no aparecen todos los resultados. NPR-23243: revisión para CQ-4240355
 * (ExpiryNotificationJobImpl) Optimización de la consulta existente. NPR-23330: revisión para CQ-4205249
 * (Perfil de metadatos) Los valores de etiqueta estándar establecidos en el momento de la creación no están disponibles después de guardar. NPR-23370: revisión para CQ-4235458
 * (IU táctil) No se pueden mover varios recursos debido a un error de JS. NPR-23395: revisión para CQ-4241279
@@ -858,7 +858,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * La acción Publicar en la interfaz de usuario de Brand Portal no está disponible. NPR-23293: revisión para CQ-4241161
 * El botón Publicar/Cancelar la publicación en Brand Portal no debe estar disponible para los fragmentos de contenido. NPR-23318: revisión para CQ-4245086
 * (Brand Portal) Habilite la creación de subrecursos cuando se publique un recurso. NPR-23331: revisión para CQ-4242018
-* Las solicitudes de Dynamic Media no utilizan un cliente común proxy/HTTP. NPR-10727: revisión para CQ-45695, CQ-88800
+* Las solicitudes de Dynamic Media no usan un cliente común de proxy/HTTP. NPR-10727: revisión para CQ-45695, CQ-88800
 * No se puede anotar un recurso de vídeo MP4 de representación única en Dynamic Media S7 (DMS7). NPR-22046: revisión para CQ-4215912
 * Los datos EmbedXMP siempre se definen como “activos” para el proceso de generación de TIFF y Pyramid. NPR-22903: revisión para CQ-4234498
 * Problemas de visualización y selección de representaciones dinámicas con un gran número de ajustes preestablecidos de imagen. NPR-23151: revisión para CQ-4217511
@@ -916,7 +916,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
 ### Traducción {#translation-3}
 
-* Las propiedades de Live Copy no se eliminan al crear copias de idioma. NPR-23123: revisión para CQ-4230641
+* No se eliminaron las propiedades de la Live Copy al crear copias de idioma. NPR-23123: revisión para CQ-4230641
 
 ### Interfaz de usuario {#user-interface-1}
 
@@ -928,7 +928,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
 ### Granite {#granite-1}
 
-* AEM Las conexiones de seguimiento del cliente HTTP de Apache y el uso de la pila alta hacen que el servidor de se bloquee. NPR-23906: Revisión para Granite-21056
+* Las conexiones de seguimiento del cliente Apache HTTP y la utilización de gran acumulación hacen que el servidor de AEM se bloquee. NPR-23906: Revisión para Granite-21056
 
 ### Comercio {#commerce-2}
 
@@ -965,12 +965,12 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
 ### Medios convencionales {#msm}
 
-* Al desplegar la página, Live Copy no muestra las propiedades de tiempo de activación y desactivación heredadas del principal. NPR-23873: revisión para CQ-4243431
+* Cuando se despliega la página, Live Copy no muestra las propiedades del tiempo de activación y desactivación heredadas del principal. NPR-23873: revisión para CQ-4243431
 * La operación LiveCopy no ignora los nodos secundarios de los componentes eliminados. NPR-23058: revisión para CQ-4211662
 
 ### Descarga {#offloading}
 
-* Solicitud de mecanismo para limpiar recursos de las instancias de trabajo después de procesarlos o regularmente. NPR-23638: Revisión para Granite-21337
+* Solicitud para que el mecanismo limpie los recursos de las instancias de trabajo después de procesarlas o de forma periódica. NPR-23638: Revisión para Granite-21337
 
 ## Forms {#forms-8}
 
@@ -978,7 +978,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
 #### Formularios adaptables {#adaptive-forms-1}
 
-* Mover `ReCaptchaConfigService` al paquete interno. Revisión para CQ-4217459
+* Mueva `ReCaptchaConfigService` al paquete interno. Revisión para CQ-4217459
 * El campo numérico no respeta el valor mínimo. NPR-23967: revisión para CQ-4244830
 * Compatibilidad con varios elementos compartidos en la integración de formularios adaptables con Adobe Sign. NPR-23383
 
@@ -1001,7 +1001,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
 #### Servicio PDFG {#pdfg-service-2}
 
-* El servicio Paper Capture se bloquea mientras procesa simultáneamente los archivos del TIFF ( tamaño de unos 50 kilobytes ). NPR-23556
+* El servicio de captura de papel se está bloqueando mientras se procesan simultáneamente los archivos TIFF (con un tamaño aproximado de 50 KB). NPR-23556
 
 #### Forms Designer {#forms-designer}
 
@@ -1031,7 +1031,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * Se ha actualizado coralui-component-richtexteditor.git de 0.1.15 a 0.1.16
 * Correcciones en la funcionalidad de mostrar u ocultar del componente desplegable.
 * Se habilitó el volteado de imagen para el componente de imagen principal.
-* Se han actualizado los paquetes http de Felix para habilitar los atributos de sesión.
+* Se han actualizado los paquetes HTTP Felix para habilitar los atributos de sesión.
 
 * Se ha eliminado cache=true en los modelos Sling debido a problemas de consumo de memoria.
 
@@ -1040,14 +1040,14 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * Al cambiar el título o la imagen en miniatura en la configuración de la carpeta de recursos, se anulan el grupo y los permisos originales de la carpeta. NPR-22171: revisión para CQ-4216080
 * La interfaz de usuario genera el error “Error al publicar en Brand Portal”, mientras que el trabajo se agrega a la cola de replicación y los recursos se publican en Brand Portal. NPR-22179: revisión para CQ-4205273
 * (IU táctil) Ubicación de carga predeterminada para los recursos en la vista de columna. NPR-22465: revisión para CQ-4237057
-* AEM Error de StackOverflow al intentar copiar un esquema de recursos de /conf/global a /conf/mytenant. NPR-22489: revisión para CQ-4235875
+* AEM emite un error StackOverflow al intentar copiar un esquema de recursos de /conf/global a /conf/ mytenant.  NPR-22489: revisión para CQ-4235875
 * Error al intentar descomprimir un archivo ZIP debido al espacio de seguimiento al final del nombre de la carpeta. NPR-22522: revisión para CQ-4238036
 * La ordenación mediante la columna de título de recurso no funciona para los resultados de búsqueda. NPR-22908: revisión para CQ-4239076
 * El vídeo de YouTube está etiquetado con la ruta completa en lugar del propio nombre de la etiqueta. NPR-22976: revisión para CQ-4238669
 * La reordenación de carpetas en una carpeta reordenable no persiste. NPR-23125: revisión para CQ-4231761
 * HTTP 504: Error de tiempo de espera de puerta de enlace al intentar compartir colecciones mediante el vínculo de uso compartido. NPR-21928: revisión para CQ-4234507
 * Los metadatos de palabra clave de PDF no se extraen correctamente y se modifican incorrectamente cuando hay varias palabras clave asociadas a un recurso de PDF. Para resolver el problema, se ha eliminado la propiedad de metadatos del campo Asunto para los recursos de PDF. Sin embargo, puede editar el esquema de metadatos para agregar un campo de texto de varios valores para el campo Asunto. NPR-21972: Revisión para 4215741****
-* Los recursos incorrectos se eliminan si la carpeta seleccionada cambia entre el momento en que se muestran los dos elementos emergentes. NPR-21980: revisión para CQ-4233675
+* Se eliminan los recursos incorrectos si se cambia la carpeta seleccionada entre el momento que se muestran las dos ventanas emergentes. NPR-21980: revisión para CQ-4233675
 * (DAM) Varias vulnerabilidades de la ejecución almacenada de scripts en sitios múltiples (XSS) al agregar al asistente de recopilación. NPR-22432: revisión para CQ-4327086
 * La descarga de recursos falla al usar Digital Rights Management en Assets en Safari. Los usuarios no pueden descargar recursos con nombres de archivo largos y de renuncia de responsabilidad. NPR-22747: Revisión para CQ-4236460 y CQ-4235274
 * Haga que el uso compartido sea público como opción predeterminada al publicar recursos en Brand Portal. NPR-21931: revisión para CQ-4218816
@@ -1066,7 +1066,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * TreeNode vuelve al atributo name cuando el texto está vacío. NPR-22146: Revisión para CQ-4234724/CQ-4236300
 * Problemas con la fuente RSS, puerto -1 a AEM 6.3. NPR-22176: Revisión para CQ-4233339
 * (IU clásica) El método abreviado de teclado para Pegar (Ctrl+V) no funciona con el componente Texto OOTB (texto enriquecido). NPR-22224: revisión para CQ-4236224
-* El filtrado del campo de etiqueta no funciona como se esperaba al escribir el texto. NPR-22236: revisión para CQ-4236655
+* El filtrado del campo de la etiqueta no funciona del modo previsto al escribir el texto. NPR-22236: revisión para CQ-4236655
 * (Editor de páginas) Al pegar los datos de texto en el componente de mapa de imágenes, el componente Texto también se pega al pegar datos de texto en el componente de mapa de imágenes. NPR-22264: revisión para CQ-4236230
 * El campo FileUpload del cuadro de diálogo obligatorio causa problemas en el envío del cuadro de diálogo. NPR-22464: revisión para CQ-4222192
 * Mover los permisos sin replicación provoca que se inicie una solicitud para el flujo de trabajo de activación si no se puede activar la página movida o sus referentes. NPR-22467: revisión para CQ-4211765
@@ -1078,7 +1078,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * Al abrir el componente mediante el modo en línea, los complementos cargados anteriormente no son visibles la segunda vez. NPR-22591: revisión para CQ-4236850
 * Al eliminar un lanzamiento en un lanzamiento anidado, los sublanzamientos quedan huérfanos. NPR-22621; revisión para CQ-4202639
 * (Barra de tareas de la IU clásica) La pestaña del flujo de trabajo se desactiva cuando la página está en la etapa de bloqueo del flujo de trabajo. NPR-22722: revisión para CQ-4237557
-* Después de darle la vuelta a una imagen añadida en el componente de imagen de una página, los cambios no se guardan y la imagen original se visualiza en la página. La compatibilidad con el procesamiento se ha añadido al componente principal de imagen mediante [https://github.com/adobe/aem-core-wcm-components/pull/141](https://github.com/adobe/aem-core-wcm-components/pull/141). NPR-22801: revisión para CQ-4221539
+* Después de darle la vuelta a una imagen añadida en el componente de imagen de una página, los cambios no se guardan y la imagen original se visualiza en la página. Se ha añadido la compatibilidad con el procesamiento al componente principal de la imagen mediante [https://github.com/adobe/aem-core-wcm-components/pull/141](https://github.com/adobe/aem-core-wcm-components/pull/141). NPR-22801: revisión para CQ-4221539
 * Cuando el usuario intenta eliminar el anclaje existente del menú de anclaje, la ventana del componente Editor de texto enriquecido se cierra y los cambios permanecen sin guardar. NPR-22802: revisión para CQ-4238167
 * El filtro Omnisearch no muestra todas las acciones en la consola Sitios. NPR-22804: revisión para CQ-4239007
 * Problema con Copiar/Pegar en la IU táctil con el portapapeles del SO y el portapapeles interno de AEM. NPR-22807: revisión para CQ-4220383
@@ -1101,8 +1101,8 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 * El motor de Target (mbox.js, at.js) no utiliza direcciones URL estropeadas y utiliza direcciones URL que contienen dos puntos que pueden dar error en determinadas implementaciones. NPR-22366: revisión para CQ-4237854
 * Al proporcionar un at.js o mbox.js personalizado, la secuencia incluida se escribe en la página como texto en lugar de etiquetas HTML. NPR-22441: revisión para CQ-4203691
 * En el modo de destinatario, los autores pueden modificar un componente heredado del modelo sin cancelar la herencia. NPR-22751: revisión para CQ-4237907
-* PersonalizationDataSource emite una excepción de puntero nulo debido a que falta `jcr:content` nodo. NPR-22850: revisión para CQ-4222122
-* AEM La segmentación falla cuando se utiliza un idioma que no es inglés. NPR-22917: revisión para CQ-4218213
+* PersonalizationDataSource emite una excepción de puntero nulo debido a que falta el nodo `jcr:content`. NPR-22850: revisión para CQ-4222122
+* La segmentación de AEM falla cuando se utiliza un idioma distinto del inglés. NPR-22917: revisión para CQ-4218213
 * A la publicación de una página con contenido de destino le faltan recursos relacionados. NPR-23064: revisión para CQ-4227119
 * Los usuarios no pueden ver los valores de Parámetro estático de prueba en la llamada de mbox, lo que se puede ver al realizar pruebas con AT.js como biblioteca de cliente en la configuración de la nube. NPR-21930: revisión para CQ-4234520
 
@@ -1129,7 +1129,7 @@ Los aspectos destacados del **paquete de correcciones acumulativas de AEM** son:
 
 * Problemas de estabilidad con la instancia del editor de AEM de uso compartido de recursos debido a filtraciones de memoria. NPR-22205, NPR-23178: revisión para Sling-5668, Sling-7292 y Sling-7470.
 * No se debe utilizar un ID de servicio inestable para los nombres de atributos de sesión. NPR-22821: revisión para Granite-21059
-* Cuando se invalida una sesión http whiteboard, la sesión del contenedor también se invalida si la sesión no tiene otros atributos de sesión. NPR-23059: revisión para FELIX-5819
+* Cuando se invalida una sesión HTTP administrada por la pizarra, la sesión del contenedor también se invalida si la sesión no tiene otros atributos de sesión. NPR-23059: revisión para FELIX-5819
 * LogbackManager puede perder alguna configuración de OSGi en el momento del inicio. NPR-23060: revisión para Granite-19791
 
 ### Comercio {#commerce-3}
@@ -1181,7 +1181,7 @@ Los aspectos destacados de AEM Forms son:
 * El número máximo especificado de caracteres para un cuadro de texto del formulario adaptable no se acepta en dispositivos Android™ 6.0 Samsung. NPR-22363, NPR-22364: revisión para CQ-4235205
 * (Microsoft® Edge) (IE11) El componente text-field del formulario adaptable que tiene un campo multilínea muestra “Null” como valor predeterminado en lugar de en blanco. NPR-22284: revisión para CQ-69107
 * La codificación de entrada SOAP UTF-8 en formularios adaptables devuelve errores en páginas de errores. NPR-20105: revisión para CQ-4222669
-* El componente Contenedor de AEM Forms no está disponible para editar una vez que se ha configurado un formulario incorrecto en la página de AEM Sites. Revisión para CQ-4237456
+* El componente de contenedor de AEM Forms no está disponible para la edición una vez configurado el formulario incorrecto en la página de AEM Sites. Revisión para CQ-4237456
 * Las pruebas de desarrollo fallan cuando se ejecutan en servidores JEE. Revisión para CQ-4222082
 * Las pruebas AF fallan en servidores JEE debido a los problemas de minimización en el marco de Calvin. Revisión para CQ-4217220
 
@@ -1337,13 +1337,13 @@ Los aspectos destacados del Fix Pack acumulativo de AEM son:
 ### Proyectos {#projects-1}
 
 * El acceso a diferentes proyectos desde la consola Proyectos tarda más tiempo en cargarse. NPR-20314
-* AEM La instalación de 6.3.0.1 elimina la `dam-update-service` almacén de claves del usuario. NPR-20018
+* Al instalar AEM 6.3.0.1 se elimina el almacén de claves del usuario `dam-update-service`. NPR-20018
 * En algunas implementaciones personalizadas, los usuarios que intentan seleccionar un usuario asignado en el módulo addTask tardan más en rellenar la lista en el selector de usuarios. NPR-20283: revisión para CQ-4224193
 
 ### Interfaz de usuario {#user-interface-3}
 
 * El campo de color se configura como “siempre obligatorio” a pesar de los atributos del cuadro de diálogo. NPR-19702
-* La barra de desplazamiento no se muestra para el componente multicampo en pantalla completa en Internet Explorer 11. NPR-20261: revisión para CQ-4219782
+* La barra de desplazamiento no se muestra para el componente de varios campos en la pantalla completa en Internet Explorer 11. NPR-20261: revisión para CQ-4219782
 * Las consultas anteriores no se anulan en caso de que se activen consultas consecutivas que produzcan resultados incorrectos. NPR-20398: revisión para GRANITE-19306
 
 ### Flujo de trabajo {#workflow-1}
@@ -1482,7 +1482,7 @@ Los aspectos destacados del Fix Pack acumulativo de AEM son:
 
 ### Administración de contenido web {#web-content-management}
 
-* En la pantalla Despliegue, las casillas de verificación correspondientes a las páginas de Live Copy no se pueden marcar ni desmarcar. NPR-19518
+* En la pantalla de despliegue, las casillas de verificación correspondientes a las páginas de Live Copy no se pueden marcar ni desmarcar. NPR-19518
 * La edición masiva de propiedades de página no se puede utilizar correctamente, ya que actualmente todas las pestañas y campos están disponibles para procesos de edición masiva. NPR-19451
 * Las propiedades OOTB y las propiedades de alineación de imagen no aparecen al editar una imagen en la IU clásica. NPR-19488: HF para CQ-4217914
 
@@ -1494,7 +1494,7 @@ Los aspectos destacados del Fix Pack acumulativo de AEM son:
 
 * No se pueden publicar recursos de AEM con comentarios y anotaciones. NPR-19590: revisión para CQ-4218386
 * Habilitar las etiquetas de publicación de AEM a Brand Portal desde la consola de administrador de etiquetas/etiquetado. NPR-20271: revisión para CQ-4223948
-* Se ha corregido el campo &quot;habilitado&quot; en la IU de configuración del servicio en la nube de Brand Portal. Revisión para CQ-4211101
+* Se ha corregido el campo “habilitado” en la IU del servicio en la nube de Brand Portal. Revisión para CQ-4211101
 * Fallo en la replicación de formularios de búsqueda. Revisión para CQ-4220080
 
 ## Forms {#forms-11}
@@ -1506,9 +1506,9 @@ Las correcciones de AEM Forms se entregan mediante paquetes de complementos y ot
 #### Formularios adaptables {#adaptive-forms-4}
 
 * Enviar el flujo de trabajo a JEE no devuelve el parámetro de salida de JEE a AEM y emite el error “Ignorar porque el valor no es primitivo”. NPR-20265
-* El Forms adaptable no permite el PDF como archivo adjunto en Safari. NPR-19625
+* Los formularios adaptables no admiten PDF como archivo adjunto en Safari. NPR-19625
 * RestoreGuideState sobrescribe el mapa de propiedades del contexto personalizado (customcontextproperty). CQ-4222877
-* Al configurar Google `reCaptcha` Con Cloud Service, en entornos que requieren la configuración de org.apache.http.proxyconfigurator para conexiones externas, las llamadas al POST no parecen pasar a través de PROXY. NPR-20454
+* Al configurar Google `reCaptcha` mediante Cloud Service, en entornos que requieren la configuración de org.apache.http.proxyconfigurator para conexiones externas, las llamadas de POST no parecen pasar por PROXY. NPR-20454
 * Los formularios adaptables basados en esquemas XSD envían valores XML defectuosos para campos numéricos en instalaciones con configuraciones regionales que tienen un separador decimal distinto de “.” que genera errores. NPR-20444
 * La configuración de proxy establecida para “Configuración proxy de componentes HTTP Apache” no se cumple al realizar una solicitud HTTP al servidor de terceros. Problemas de tiempo de espera de conexión mediante llamadas HTTP GET o POST. NPR-20457, NPR-20456, NPR-20455, NPR-20451
 
@@ -1537,7 +1537,7 @@ Las correcciones de AEM Forms se entregan mediante paquetes de complementos y ot
 #### Administración de procesos {#process-management-3}
 
 * Las pestañas de archivos adjuntos, notas y detalles del flujo de trabajo no funcionan en el espacio de trabajo cuando el formulario se maximiza/minimiza y se guarda como borrador o se reenvía. NPR-20243
-* El campo de texto multilínea (TextArea) no conserva los caracteres de nueva línea ni los saltos de texto después de enviar datos en HTML Workspace. NPR-20085
+* El campo de texto multilínea (TextArea) no conserva el carácter de nueva línea ni el salto de texto después de enviar datos en el espacio de trabajo HTML. NPR-20085
 
 #### Informes de procesos {#process-reporting}
 
@@ -1655,7 +1655,7 @@ Las correcciones de AEM Forms se entregan mediante paquetes de complementos de f
 
 Los aspectos destacados de AEM Forms son:
 
-* Correcciones en los módulos de texto de Administración de correspondencia, vistas previas de cartas e inicio programático de la interfaz de usuario de Crear Administración de correspondencia.
+* Las correcciones en los módulos de texto de administración de correspondencia, las vistas previas de las cartas y el lanzamiento mediante programación crean la IU de administración de correspondencia.
 * Correcciones para la validación de PDF/A-1b, conversión de archivos de imagen grandes a PDF y documentos PDF en japonés en PDF Generator.
 * Correcciones de uso para administración de correspondencia, seguridad de documentos y Forms Workflow.
 * Se agregó la compatibilidad para capturar eventos de auditoría para el campo de firma de anotaciones.
@@ -1669,7 +1669,7 @@ Los aspectos destacados de AEM Forms son:
 * Los márgenes adicionales por encima y por debajo de una lista con viñetas están visibles en el editor de texto, pero no en la representación HTML y PDF. NPR-18126
 * Cuando el envío HTML utiliza el método POST, la interfaz de usuario de creación de correspondencia no se puede iniciar. NPR-18202
 * Cuando se guarda un módulo de texto y una expresión del módulo de texto no contiene etiquetas de expresión de apertura o cierre, no se muestra ningún mensaje de error. El módulo de texto muestra un mensaje de error y no se puede procesar en la carta. NPR-18535
-* Cuando se añade contenido nuevo para `Enter` Cuando se pulsa la tecla, se añade una etiqueta div al módulo de texto. NPR-18240
+* Cuando se añade contenido nuevo o se pulsa la tecla `Enter`, se añade una etiqueta div al módulo de texto. NPR-18240
 
 **Ensamblador**
 
@@ -1746,10 +1746,10 @@ Esta sección es una guía de los requisitos y pasos para instalar el CFP.
 >
 >Se recomienda ejecutar la validación en todos los paquetes de instalación nuevos antes de intentar instalar el paquete. La prevalidación analiza e informa de los errores encontrados antes de la instalación y avisa a los usuarios de dichos errores de forma proactiva.
 >
->Puede acceder a la documentación de la opción Validar en [https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
+>Puede acceder a la documentación de la opción Validar en [https://experienceleague.adobe.com/es/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
 * AEM 6.3.3.0 es un requisito previo para el CFP. Visite la [documentación de actualización](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) para obtener instrucciones detalladas sobre cómo actualizar una instalación de AEM a AEM 6.3.
-* Para una implementación de clúster mediante RDBMK o MongoDB, el paquete CFP se puede instalar en cualquiera de las instancias de creación que utilizan el Administrador de paquetes.
+* Para una implementación de clúster mediante RDBMK o MongoDB, el paquete CFP se puede instalar en cualquiera de las instancias de Autor que usan el Administrador de paquetes.
 * Antes de instalar el Fix Pack acumulativo, asegúrese de tomar una instantánea o realizar una copia de seguridad de la instancia de AEM.
 * No se admite la desinstalación del CFP.
 
@@ -1757,18 +1757,18 @@ Esta sección es una guía de los requisitos y pasos para instalar el CFP.
 
 Para configurar el registro de nivel de depuración y recuperar un registro de actividad durante la instalación de SP/CFP, puede seguir estos pasos:
 
-* Puede agregar un registrador en la ubicación predeterminada [http://localhost:4502/system/console/slinglog](http://localhost:4502/system/console/slinglog) con las siguientes propiedades:
+* Puede añadir un nuevo registrador en la ubicación predeterminada [http://localhost:4502/system/console/slinglog](http://localhost:4502/system/console/slinglog) con las siguientes propiedades:
 
    * Nivel de registro: depuración
    * Aditivo: falso
    * Archivo de registro: logs/activity.log
    * Registrador: org.apache.jackrabbit.vault.packl.ActivityLog
 
-El registro de actividad se crea en crx -quickstart /logs.
+activity.log se crea en la carpeta crx -quickstart /logs.
 
 ### Instalar el Fix Pack acumulativo mediante distribución de software {#install-the-cumulative-fix-pack-via-package-share}
 
-1. Haga clic en [Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip) para que pueda descargar el paquete.
+1. Haga clic en el vínculo [Distribución de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip) para que pueda descargar el paquete.
 
 1. Abra [Administrador de paquetes](http://localhost:4502/crx/packmgr/index.jsp) y haga clic en **[!UICONTROL Cargar paquete]** para cargar el paquete.
 
@@ -1828,10 +1828,10 @@ Con el paquete de correcciones acumulativas 6.3.0.2 de AEM y las versiones poste
 
 ## Problemas conocidos {#known-issues}
 
-* AEM Durante la instalación de CFP 6.3.3.x pueden producirse los siguientes errores y advertencias, que se pueden ignorar sin problemas:
+* Durante la instalación de AEM CFP 6.3.3.x pueden producirse los siguientes errores y advertencias, que se pueden ignorar sin problemas:
 
    * &#42;WARN&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.packl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallock-0.0.2-jar-with-dependencies.jar devuelve una excepción de tiempo de ejecución.
-   * &#42;ERROR&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Se agotó el tiempo de espera del cambio de registro para completar el cancelación de registro. CQ-4209974.
+   * &#42;ERROR&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Se ha agotado el tiempo de espera hasta que el cambio de registro complete la anulación de registro. CQ-4209974.
    * org.apache.sling.engine.impl.SlingRequestProcessorImpl ServletResolver, no se pueden atender las solicitudes y se envía el estado 503
    * com.day.cq.wcm.mobile.core.MobileUtil isMobileResource: no se puede comprobar el recurso [/bin/received], el administrador de páginas no está disponible
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver: La llamada al controlador de error generó un error
@@ -1897,8 +1897,10 @@ Type : Allow
 Privileges : jcr:read , jcr:modifyProperties
 Restrictions : rep:glob=&quot;/&#42;/jcr:content/&#42;&quot;
 
-`2)` En la ruta &quot;/content/usergenerated&quot;
-`a)` Principal : reference-adjustment-service Tipo : Permitir privilegios : `jcr:write`
+`2)`En la ruta &quot;/content/usergenerated&quot; 
+`a)` Principal : reference-adjustment-service
+Type : Allow
+Privileges : jcr:write `jcr:write`
 
 `3)` En la ruta &quot;/etc&quot; path
 `a)` Principal : reference-adjustment-service
@@ -1918,21 +1920,21 @@ Restrictions : rep:glob=&quot;/&#42;/jcr:content/&#42;&quot;
 
 **Configure la propiedad CQ.PAGE_PROPERTIES_MAX_RECURSION_LEVEL.**
 
-La propiedad controla la profundidad máxima del subárbol de nodos bajo el nodo de página ` /jcr:content`, hasta la cual los nodos presentes en el repositorio se utilizarán para obtener las propiedades de página. Se ignorará cualquier nodo presente por debajo de la profundidad especificada en esta propiedad.
+La propiedad controla la profundidad máxima del subárbol de nodos bajo el nodo de página ` /jcr:content`, hasta la cual los nodos presentes en el repositorio se utilizarán para obtener las propiedades de página. Se ignora cualquier nodo que se encuentre por debajo de la profundidad especificada en esta propiedad.
 
-El valor predeterminado es 1. Anule el valor superponiendo las constantes.js del archivo (`/libs/cq/ui/widgets/source/constants.js`) sin comentar la propiedad CQ.PAGE_PROPERTIES_MAX_RECURSION_LEVEL y asignándole el valor necesario (la profundidad máxima bajo la propiedad de la página) `/jcr:content` que almacenan los datos de las propiedades de página).
+El valor predeterminado es 1. Anule el valor superponiendo el archivo constants.js (`/libs/cq/ui/widgets/source/constants.js`) sin comentar la propiedad CQ.PAGE_PROPERTIES_MAX_RECURSION_LEVEL y asignándole el valor necesario (la profundidad máxima debajo del nodo `/jcr:content` de la página hasta la cual se almacenan los datos de las propiedades de la página).
 
-**Si el usuario debe crear varias variantes de página, de modo que el número de nodos bajo el `/jcr:content` se convierte en mayor que 1000, siga los siguientes pasos para realizar cambios en la configuración:**
+**Si el usuario necesita crear variantes de varias páginas para que el número de nodos debajo del nodo `/jcr:content` de la página sea superior a 1000, siga los pasos siguientes para realizar cambios en la configuración:**
 
 * Configure la propiedad JSON Max resultados de Apache Sling
 * Obtener servlet mediante `/system/console/ configMgr`
-* Establezca su valor en un número >1000 (que es el valor predeterminado actual) de modo que este número sea mayor que el número total de nodos en la `/jcr:content` subárbol hasta la profundidad configurada arriba.
+* Establezca su valor en un número >1000 (que es el valor predeterminado actual) de modo que este número sea mayor que el número total de nodos en el subárbol del nodo `/jcr:content` hasta alcanzar la profundidad establecida anteriormente.
 
 Esto permite que el servlet de sling GET pueda devolver todos los nodos necesarios.
 
 ## Uber Jar {#uber-jar}
 
-Uber Jar para 6.3.3.8 está disponible en el repositorio Maven público de Adobe
+Uber Jar para 6.3.3.8 está disponible en el repositorio Maven público de Adobe.
 
 Para usar Uber Jar en un proyecto de Maven, consulte el artículo [Cómo usar Uber Jar](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) e incluya la siguiente dependencia en el elemento POM de su proyecto:
 
@@ -1952,7 +1954,7 @@ Esta sección enumera las funciones y capacidades que se han eliminado o dejado 
 
 | Área | Funcionalidad | Reemplazo | Versión |
 |----|-----|-----|-----|
-| Integración de Assets y Adobe Creative Cloud | [AEM para uso compartido de la carpeta Creative Cloud](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) se introdujo en AEM 6.2 como una forma de proporcionar a los usuarios creativos acceso a los recursos de AEM. Una nueva funcionalidad lanzada en la aplicación de Creative Cloud, Adobe AEM Asset Link, ofrece una mejor experiencia de usuario y un acceso más potente a los recursos desde la directamente desde Photoshop, InDesign y Illustrator.</br></br> El Adobe no está realizando más mejoras en la capacidad de uso compartido de carpetas. Aunque la función está incluida en AEM, se recomienda a los clientes utilizar el remplazo. | Adobe Asset Link o Aplicación de escritorio. Para obtener más información, consulte el artículo sobre la [integración de AEM Creative Cloud](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). | AEM 6.3.3.x |
+| Integración de Assets y Adobe Creative Cloud | [AEM para uso compartido de la carpeta Creative Cloud](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) se introdujo en AEM 6.2 como una forma de proporcionar a los usuarios creativos acceso a los recursos de AEM. Adobe Asset Link, una nueva función lanzada en la aplicación Creative Cloud, proporciona una mejor experiencia del usuario y un acceso más potente a los recursos de AEM directamente desde Photoshop, InDesign e Illustrator.</br></br> Adobe no realizará más mejoras en la función de uso compartido de la carpeta. Aunque la función está incluida en AEM, se recomienda a los clientes utilizar el remplazo. | Adobe Asset Link o Aplicación de escritorio. Para obtener más información, consulte el artículo sobre la [integración de AEM Creative Cloud](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). | AEM 6.3.3.x |
 
 ## Paquetes de contenido y paquetes OSGi incluidos {#osgi-bundles-and-content-packages-included-1}
 
@@ -1964,8 +1966,8 @@ Los siguientes documentos de texto enumeran los paquetes OSGi y los paquetes de 
 
 >[!MORELIKETHIS]
 >
->* [Versiones y actualizaciones de AEM](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
->* [Página de correcciones de AEM 6.3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
+>* [Versiones y actualizaciones de AEM](https://experienceleague.adobe.com/es/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
+>* [Página de correcciones de AEM 6.3](https://experienceleague.adobe.com/es/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
 >* [Notas de la versión de AEM 6.3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 >* [Página de productos AEM](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html?lang=es)
 >* [Documentación de AEM 6.3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)

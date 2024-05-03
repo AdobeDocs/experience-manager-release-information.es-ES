@@ -4,9 +4,9 @@ description: Obtenga más información acerca de cambios y actualizaciones impor
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1228'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -175,7 +175,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   </tr>
   <tr>
    <td>31 de mayo de 2019</td> 
-   <td>AEM Integración de y Adobe Commerce </td> 
+   <td>AEM y Adobe Commerce Integration </td> 
    <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Marco de integración de Commerce</a>.</td> 
   </tr>
   <tr>
