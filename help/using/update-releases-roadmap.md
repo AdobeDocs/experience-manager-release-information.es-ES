@@ -3,9 +3,9 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b8d32035318004de0646e47ec4289529616db564
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '468'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -39,18 +39,18 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento | Actualización automática | 10-12 de junio de 2024 | Target |
-| Versión de mantenimiento | Actualización automática | 24-26 de junio de 2024 | Target |
-| Versión 2024.6.0 de las funcionalidades | Activación de funciones | 27 de junio de 2024 | Target |
-| Versión de mantenimiento | Actualización automática | 8-10 de julio de 2024 | Target |
-| Versión de mantenimiento | Actualización automática | 22-24 de julio de 2024 | Target |
-| Versión 2024.7.0 de las funcionalidades | Activación de funciones | 25 de julio de 2024 | Target |
-| Versión de mantenimiento | Actualización automática | 5-7 de agosto de 2024 | Target |
-| Versión de mantenimiento | Actualización automática | 19-21 de agosto de 2024 | Target |
-| Versión 2024.8.0 de las funcionalidades | Activación de funciones | viernes, 29 de agosto de 2024 | Target |
-| Versión de mantenimiento | Actualización automática | Del 2 al 4 de septiembre de 2024 | Target |
-| Versión de mantenimiento | Actualización automática | Del 16 al 18 de septiembre de 2024 | Target |
-| Versión 2024.9.0 de las funcionalidades | Activación de funciones | viernes, 26 de septiembre de 2024 | Target |
+| Versión de mantenimiento | Actualización automática | 10-12 de junio de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 24-26 de junio de 2024 | Público destinatario |
+| Versión 2024.6.0 de las funcionalidades | Activación de funciones | 27 de junio de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 8-10 de julio de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 22-24 de julio de 2024 | Público destinatario |
+| Versión 2024.7.0 de las funcionalidades | Activación de funciones | 25 de julio de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 5 a 7 de agosto de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 19 a 21 de agosto de 2024 | Público destinatario |
+| Versión 2024.8.0 de las funcionalidades | Activación de funciones | 29 de agosto de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 2 a 4 de septiembre de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 16 a 18 de septiembre de 2024 | Público destinatario |
+| Versión 2024.9.0 de las funcionalidades | Activación de funciones | 26 de septiembre de 2024 | Público destinatario |
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
@@ -66,9 +66,9 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se entregan a través de pa
 | [Service Pack 18 de ](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-18)[!DNL Experience Manager] 6.5 | 6.5.18.0 | Service Pack | 24 de agosto de 2023 | Activado |
 | [Service Pack 19 de ](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-19)[!DNL Experience Manager] 6.5 | 6.5.19.0 | Service Pack | 30 de noviembre de 2023 | Activado |
 | [Service Pack 20 ](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes)[!DNL Experience Manager] 6.5 | 6.5.20.0 | Service Pack | 22 de febrero de 2024 | Activado |
-| Service Pack 21 de [!DNL Experience Manager] 6.5 | 6.5.21.0 | Service Pack | viernes, 06 de junio de 2024 | Target |
-| Service Pack 22 de [!DNL Experience Manager] 6.5 | 6.5.22.0 | Service Pack | 22 de agosto de 2024 | Target |
-| Service Pack 23 de [!DNL Experience Manager] 6.5 | 6.5.23.0 | Service Pack | 21 de noviembre de 2024 | Target |
+| Service Pack 21 de [!DNL Experience Manager] 6.5 | 6.5.21.0 | Service Pack | viernes, 06 de junio de 2024 | Público destinatario |
+| Service Pack 22 de [!DNL Experience Manager] 6.5 | 6.5.22.0 | Service Pack | 22 de agosto de 2024 | Público destinatario |
+| Service Pack 23 de [!DNL Experience Manager] 6.5 | 6.5.23.0 | Service Pack | 21 de noviembre de 2024 | Público destinatario |
 
 >[!NOTE]
 >
