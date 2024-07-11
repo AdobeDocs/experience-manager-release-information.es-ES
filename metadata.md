@@ -4,9 +4,9 @@ type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.es-ES
 index: true
 recommendations: noDisplay
-source-git-commit: 193e6ce46e042cb01e0d7ff43e6364019ab1663f
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: ht
-source-wordcount: '109'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -20,8 +20,8 @@ El archivo metadata.md incluye metadatos de repositorios que pasan a los archivo
 |--- |--- |
 | solution-title | Se utiliza en el encabezado del artículo como vínculo |
 | solution-hub-url | Abre la página central de ayuda |
-| solution-icon | Muestra el icono de la solución junto al título de la solución. No implementado aún |
+| solution-icon | Muestra un icono de la solución junto al título de la solución. No implementado aún |
 | getting-started-url | Vínculo a la página de introducción de ayuda |
 | tutorials-url | Vínculo a videotutoriales, tutoriales de ayuda o tutoriales de KT |
 | mini-toc-levels | Determina el número de niveles de encabezado que aparecen en el carril derecho. El valor predeterminado es 2 |
-| git-repo | Especifica la ubicación de la repo principal para uso interno |
+| git-repo | Especifica la ubicación del repo principal para uso interno |
