@@ -56,7 +56,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>11 de octubre de 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Debido a los cambios de seguridad de la API de Adobe Analytics, ya no es posible utilizar la versión de Activity Map incluida en AEM. Consulte <a href="https://experienceleague.adobe.com/es/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Complemento de Activity Map proporcionado por Adobe Analytics</a> debería utilizarse ahora. </p> </td> 
+   <td><p>Debido a los cambios de seguridad de la API de Adobe Analytics, ya no es posible utilizar la versión de Activity Map incluida en AEM. Consulte <a href="https://experienceleague.adobe.com/es/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Ahora se debe usar el complemento de Activity Map proporcionado por Adobe Analytics</a>. </p> </td> 
   </tr>
   <tr>
    <td>10 de octubre de 2019</td> 
@@ -126,7 +126,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>20 de agosto de 2019</td> 
    <td>Etiquetas inteligentes de AEM Assets<br /> </td> 
-   <td>Saber cómo <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">actualizar el certificado</a> una vez caducado.</td> 
+   <td>Obtenga información sobre cómo <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">actualizar el certificado</a> una vez que caduque.</td> 
   </tr>
   <tr>
    <td>2 de agosto de 2019</td> 
@@ -136,7 +136,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>25 de julio de 2019</td> 
    <td>Funcionalidad de AEM Assets con distintas licencias</td> 
-   <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">La lista de funcionalidades</a> Todos los productos de AEM Assets AEM AEM disponibles en una licencia independiente DAM frente a los de la biblioteca de medios de se han actualizado para la versión 6.5 de la versión de.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">La lista de funcionalidades</a> de AEM Assets AEM AEM disponibles en una licencia independiente DAM frente a en la biblioteca de medios de comunicación de la biblioteca de medios se actualizaron para la versión 6.5 de.<br /> </td> 
   </tr>
   <tr>
    <td>12 de julio de 2019</td> 
@@ -237,7 +237,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
 
 ## Contenido heredado {#legacy-content}
 
-AEM A partir del 1 de mayo de 2023, las versiones heredadas de la documentación de se han trasladado a una nueva ubicación en, que se encuentra en [Versiones anteriores de Adobe Experience Manager, CQ y CRX](https://experienceleague.adobe.com/es/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+AEM A partir del 1 de mayo de 2023, las versiones heredadas de la documentación de se han trasladado a una nueva ubicación en [Versiones anteriores de Adobe Experience Manager, CQ y CRX](https://experienceleague.adobe.com/es/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Se han movido las siguientes versiones:
 

@@ -27,7 +27,7 @@ El paquete de AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versión
 
 ### Más instrucciones para CQ-4208044 {#additional-instructions-for-cq}
 
-AEM Si se usa la versión 6.3 de [!DNL Forms JEE] servidor con base de datos de Oracle, configure las siguientes opciones después de la implementación del CFP1, es decir, después de ejecutar el Administrador de configuración. Esta configuración es necesaria para sincronizar usuarios, grupos y abonados del grupo cuando se ejecuta la sincronización de dominios de empresa.
+AEM Si utiliza el servidor [!DNL Forms JEE] de la versión 6.3 de con base de datos de Oracle, configure las siguientes opciones después de la implementación del CFP1, es decir, después de ejecutar el Administrador de configuración. Esta configuración es necesaria para sincronizar usuarios, grupos y abonados del grupo cuando se ejecuta la sincronización de dominios de empresa.
 
 1. Inicie sesión en la IU de **Administración**.
 1. Vaya a **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**
@@ -75,19 +75,19 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
 
 1. Para establecer el tiempo de espera de todas las operaciones de servicio en 600 segundos:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   se estableció &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
 
 1. Para establecer el tiempo de espera de los valores de operación `DesigntimeService` en 500 segundos, utilice:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   se estableció &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Para establecer el tiempo de espera de los valores de operación `DesigntimeService's previewLCA` en 700 segundos, utilice:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   se estableció &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
 1. Para establecer `DSC operations`, como carga e instalación, en 600 segundos, utilice lo siguiente:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   se estableció &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## Instalación y configuración de AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 

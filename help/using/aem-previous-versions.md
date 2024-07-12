@@ -90,7 +90,7 @@ Para instalar un paquete de documentación heredado, debe tener [!DNL Experience
 
 1. Una vez cargado el paquete, debe instalarlo.
 
-1. En la interfaz de usuario del administrador de paquetes, busque el paquete y seleccione **[!UICONTROL Instalar]**.
+1. En la interfaz de usuario del Administrador de paquetes, busque el paquete y seleccione **[!UICONTROL Instalar]**.
 
 1. En el cuadro de diálogo de confirmación, vuelva a seleccionar **[!UICONTROL Instalar]**. La instalación tarda unos minutos.
 

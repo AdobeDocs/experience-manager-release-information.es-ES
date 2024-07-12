@@ -581,7 +581,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms Client SDK [1]</li>
       <li>Programa de instalación de AEM Forms JEE [1]</li>
      </ul> </td>
-    <td><p>Programa de instalación de AEM Forms JEE: 6.5.0-0011<br /> </p> <p>Paquete de compatibilidad de AEM Forms: 2.0.26<br /> Complemento Paquetes de AEM Forms: 6.0.138</p> <p>SDK de cliente: 6.0.136<br /> </p> <p>AEM Forms Workbench: 6.5.0.20191119.1.935956<br /> </p> </td>
+    <td><p>Programa de instalación de AEM Forms JEE: 6.5.0-0011<br /> </p> <p>Paquete de compatibilidad de AEM Forms: 2.0.26<br /> Complemento de paquetes AEM Forms: 6.0.138</p> <p>SDK de cliente: 6.0.136<br /> </p> <p>AEM Forms Workbench: 6.5.0.20191119.1.935956<br /> </p> </td>
    </tr>
    <tr>
     <td>12 de diciembre de 2019</td>

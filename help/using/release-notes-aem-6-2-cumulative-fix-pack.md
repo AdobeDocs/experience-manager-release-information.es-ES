@@ -202,7 +202,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 * Añadir la compatibilidad de redireccionamiento al componente de página principal. NPR-26576: revisión para CQ-110529
 * Migrar context hub a `jQuery` 3.  NPR-26956: revisión para CQ-4255472
 * Los campos de entrada de anclaje aparecen fuera de la sección visible del explorador en el cuadro de diálogo hasta que se maximiza. NPR-26852: revisión para CQ-4255019
-* Copiar y pegar el texto insertando no deseados &lt;br> en el fragmento de contenido. NPR-26660: revisión para CRTE-151
+* Copiar y pegar el texto insertando &lt;br> no deseados en el fragmento de contenido. NPR-26660: revisión para CRTE-151
 * El administrador del sitio clásico no muestra la lista en el panel derecho de algunas páginas. NPR-27247: revisión para CQ-4251621
 * (IU clásica) Los intentos de mover o cambiar el nombre de las páginas generan un error: “Error al mover la página”. NPR-27179: revisión para CQ-4235907
 
@@ -616,7 +616,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 * La sincronización de LiveCopyIndex provoca congestión de subprocesos durante las actualizaciones de índice largas. NPR-22214: revisión para CQ-90667
 * La propiedad `cq:cugEnabled` se desactiva cuando se edita otro campo de una Live Copy, por lo que la página queda desprotegida. NPR-22246: revisión para CQ-4236050
 * La acción Despliegue de página no puede actualizar los elementos secundarios cuando se suspende una página. NPR-22483: revisión para CQ-4236956
-* El despliegue de una estructura que se ha movido en una pista principal genera un error `cq:moveTarget`. NPR-22373: revisión para CQ-4232536
+* Despliegue de una estructura que se ha movido en un posible cliente principal a un `cq:moveTarget` incorrecto. NPR-22373: revisión para CQ-4232536
 
 ### Integración {#integration-6}
 
@@ -946,7 +946,7 @@ Los aspectos destacados de AEM Forms son:
 
 #### Servicio del ensamblador {#assembler-service-1}
 
-* docConvertor falla al producir PDF/A con el error &quot;El prefijo &quot;stEvt&quot; para el elemento `stEvt:action` no está enlazado&quot;. NPR-21032: revisión para CQ-4222540
+* docConvertor no produce PDF/A con el error &quot;El prefijo &quot;stEvt&quot; del elemento `stEvt:action` no está enlazado&quot;. NPR-21032: revisión para CQ-4222540
 * Se produce una excepción con el nombre `java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE` al invocar el servicio OMPFSubmission/PDFA/PDFtoPDFA. Esta excepción evita que el proceso de verificación de firma de corta duración se complete hasta que se reinicie el servidor. NPR-20792
 
 #### Workbench {#workbench}
@@ -1073,7 +1073,7 @@ Esta experiencia proporciona una nueva Dynamic Media que se conecta a la nueva i
 
 ### Sites {#sites-10}
 
-* AEM Muestra un comportamiento inesperado cuando un usuario intenta publicar `/unpublish/create` versión de una página bloqueada por otro usuario. NPR-19249; revisión para CQ-4215298 y CQ-4203856
+* AEM Muestra un comportamiento inesperado cuando un usuario intenta publicar la versión `/unpublish/create` de una página bloqueada por otro usuario. NPR-19249; revisión para CQ-4215298 y CQ-4203856
 * Al promocionar el lanzamiento anidado manualmente, la página secundaria se elimina. NPR-19704
 * Problemas de persistencia cuando ContextHub almacena la sobrescritura de la capa de persistencia predeterminada durante la inicialización. NPR-19979: revisión para CQ-4218399
 * Los fragmentos de contenido se superponen con otros botones. NPR-19980: revisión para CQ-4221519
@@ -1588,7 +1588,7 @@ Los aspectos destacados de este paquete de correcciones acumulativas son:
 
 ### Plataforma {#platform-12}
 
-* Adición o personalización de columnas al **Assets OmniSearch** resultados al superponer en `/apps` no funciona. NPR-16737: revisión para CQ-4206785
+* No funciona la adición o personalización de columnas en los resultados de **Assets OmniSearch** al superponer en `/apps`. NPR-16737: revisión para CQ-4206785
 * La página **Herramienta de diagnóstico** no funciona después de una actualización in-situ de AEM 6.1 SP2 a AEM 6.2 SP1. NPR-17121, revisión para CQ-4196786
 * HTL: Al seleccionar un Foro, crear un Tema y una Publicación, `Sightly SightlyCompiledScript` añade la propiedad `addSelectors` incorrecta a `RequestDispatcherOption`. NPR-17008: revisión para GRANITE-16384
 
@@ -1619,7 +1619,7 @@ La consola de flujo de trabajo Proyectos muestra una NullPointerException en la 
 * En el Inicio de WCM, las páginas asociadas con un lanzamiento no se pueden cancelar cuando la acción se inicia desde las propiedades de la página en la IU táctil. NPR-16560: revisión para CQ-4204681
 * Link Rewriter reescribe falsamente los valores href que contienen dos puntos suponiendo que el signo de dos puntos “:” define un área de nombres JCR. NPR-16753: revisión para CQ-4203762
 * En WCM-Design Importer, abrir una página del importador de pruebas e intentar cargar un archivo zip provoca problemas si se ha cargado y eliminado anteriormente. NPR-16486: revisión para CQ-90962
-* Navegación al **[!UICONTROL Navegación global]** El panel que utiliza los navegadores Firefox o Google Chrome ofrece una experiencia de usuario diferente. El navegador Firefox muestra el **[!UICONTROL Herramientas]** menú. El explorador Chrome de Google muestra la **[!UICONTROL Navegación]** menú. NPR-16770, revisión para CQ-4200456
+* La navegación al panel **[!UICONTROL Navegación global]** mediante los navegadores Firefox o Google Chrome ofrece una experiencia de usuario diferente. El navegador Firefox muestra el menú **[!UICONTROL Herramientas]**. El explorador Google Chrome muestra el menú **[!UICONTROL Navegación]**. NPR-16770, revisión para CQ-4200456
 
 ### Campaign {#campaign}
 
@@ -1647,14 +1647,14 @@ La consola de flujo de trabajo Proyectos muestra una NullPointerException en la 
 **Formularios adaptables**
 
 * En el editor de Forms adaptable, el comentario Configuración de destinatario en head.jsp debe reemplazarse por la nueva instrucción context hub. NPR-17173
-* En el Editor de reglas de Forms adaptable, la variable **[!UICONTROL Elegir un elemento]** muestra el evento como &quot;nulo&quot;. NPR-17139
+* En el editor de reglas de Forms adaptable, **[!UICONTROL Elegir un elemento]** muestra el evento como &quot;nulo&quot;. NPR-17139
 * El formulario enviado se volverá a enviar navegando hacia delante mediante la flecha hacia delante (>). NPR-17080
 * AJAX Al enviar un formulario adaptable mediante una llamada de retorno, la función de devolución de llamada &quot;error&quot; nunca se invoca si hubo un error. NPR-17034
 * Al hacer clic en el botón **[!UICONTROL Guardar formulario]** en el Editor de reglas en tiempo de ejecución, no se guarda el formulario. NPR-16905
 * El texto estático debe excluirse de la orden de tabulación en el formulario adaptable. NPR-16749
 * El valor calculado de un campo decimal aparece incorrectamente. NPR-16596
 * El icono para mostrar el contenido de ayuda debe incluirse en la orden de tabulación en los formularios adaptables. NPR-16484
-* Compatibilidad con expresión regular de tipo `dataRef=C:/Users/`en el **[!UICONTROL Configuración predeterminada del servicio de relleno previo]**. Este tipo es para el relleno previo de datos para Forms adaptable. NPR-16425
+* Compatibilidad con expresiones regulares de tipo `dataRef=C:/Users/` en la **[!UICONTROL configuración predeterminada del servicio de relleno previo]**. Este tipo es para el relleno previo de datos para Forms adaptable. NPR-16425
 
 * Las validaciones no se activan correctamente en todos los paneles si hay un escenario anidado con carga diferida. NPR-15821
 
@@ -1680,7 +1680,7 @@ La consola de flujo de trabajo Proyectos muestra una NullPointerException en la 
 
 * Al hacer clic en el vínculo **[!UICONTROL Descargar]** para un formulario enviado, se abre una página HTML en lugar de un formulario PDF. NPR-17082
 
-* `Upload Comments` para archivos adjuntos que no se muestran en la interfaz de usuario para instancias enviadas, aunque estén presentes en el XML almacenado en el repositorio de CRX. NPR-17075
+* `Upload Comments` para los archivos adjuntos no se muestran en la interfaz de usuario para las instancias enviadas, aunque estén presentes en el XML almacenado en el repositorio de CRX. NPR-17075
 
 **Reader Extensions Service**
 
@@ -1704,7 +1704,7 @@ NPR-16352
 
 **Servicio de salida**
 
-* El Servicio de salida no puede procesar un PDF modificado para incluir el campo adicional &quot;milisegundos&quot; en la `date-time format` metadatos. NPR-16838
+* El Servicio de salida no puede procesar un PDF modificado para incluir el campo adicional &quot;milisegundos&quot; en los metadatos de `date-time format`. NPR-16838
 
 #### Forms Designer {#forms-designer}
 
@@ -1735,13 +1735,13 @@ Los puntos destacados de CFP3 son:
 ### Plataforma {#platform-13}
 
 * Una condición de carrera en **ModelAdapterFactory**, la cual es posible cuando dos subprocesos intentan inyectar el mismo campo, da como resultado un error al construir el modelo. NPR-16443: revisión para SLING-6584
-* Opción de validación en el Administrador de paquetes para detectar cualquier conflicto entre el archivo superpuesto (JSP o archivo JavaScript) en `/apps` y el que contenía una revisión en `/libs`. La superposición afectada se puede volver a basar para incluir cambios del archivo en `/libs`. NPR-16216: revisión para CQ-81729
+* Opción de validación en el Administrador de paquetes para detectar cualquier conflicto entre el archivo superpuesto (JSP o archivo JavaScript) en `/apps` y el que contiene una revisión en `/libs`. La superposición afectada se puede volver a basar para incluir cambios del archivo en `/libs`. NPR-16216: revisión para CQ-81729
 * El inicio de sesión en error.log a veces se detiene unos segundos después de iniciar el editor y debe borrarse para volverse a ejecutar. Solicite actualizar el marco de registro y proporcione el registro de Sling. NPR-15913: revisión para Granite-15452
 * Solicitud para actualizar la API &quot; `use"` de JavaScript para evitar errores en la implementación de la API de uso de JavaScript de HTL. NPR-16461: revisión para SLING-6780
 
 ### Sites {#sites-16}
 
-* Después de actualizar de AEM 6.0 a AEM 6.2, la IU clásica muestra un rendimiento lento al buscar etiquetas debido a numerosas consultas. Para resolver el problema, siga los pasos que se mencionan en [Deshabilitar el estado de replicación en la consola de etiquetado (IU clásica)](#disable-replication-status-in-tagging-console-classic-ui-npr) se puede seguir. NPR-15842: revisión para CQ-4201748.
+* Después de actualizar de AEM 6.0 a AEM 6.2, la IU clásica muestra un rendimiento lento al buscar etiquetas debido a numerosas consultas. Para resolver el problema, se pueden seguir los pasos mencionados en [Deshabilitar el estado de replicación en la consola de etiquetado (IU clásica)](#disable-replication-status-in-tagging-console-classic-ui-npr). NPR-15842: revisión para CQ-4201748.
 
 * Al crear una página en la IU táctil, la Comprobación de entrada del campo &quot;nombre&quot; no comprueba el carácter especial &quot;Apóstrofo&quot; (el mismo que en la IU clásica). Por lo tanto, la página no se puede mover. NPR-16404: revisión para CQ-4205321.
 * Al aplicar diferentes estilos en dos filas en el Editor de texto enriquecido y, a continuación, combinarlos, se elimina el estilo aplicado en la segunda fila. NPR-16389: revisión para CQ-4203835.
@@ -1777,7 +1777,7 @@ Los puntos destacados de CFP3 son:
 
 **Formularios adaptables**
 
-* Al guardar un formulario adaptable con un archivo adjunto, la ruta completa del archivo adjunto se agrega en la variable `fileAttachment` del XML generado, en lugar del nombre del archivo adjunto. NPR-16529
+* Al guardar un formulario adaptable con un archivo adjunto, la ruta completa del archivo adjunto se agrega en la etiqueta `fileAttachment` del XML generado, en lugar del nombre del archivo adjunto. NPR-16529
 * En los formularios adaptables basados en XDP, el contenedor `afData/afBoundData` está presente en el XML enviado, aunque incluso el XML de relleno previo no tenga contenedores `afData/afBoundData`. NPR-16118
 
 * Notación exponencial en el campo Número: cuando se utilizan formularios adaptables, si se introduce un número con una fracción decimal que supera los diez caracteres en total, el número se convierte en notación exponencial en el XML enviado. NPR-16106
@@ -1789,7 +1789,7 @@ Los puntos destacados de CFP3 son:
 NPR: 16611
 
 * En el caso de los widgets de archivos adjuntos que permiten varios adjuntos, al enviar una nueva instancia de formulario con un adjunto en un widget que ya tiene un adjunto anterior, se muestra un código de error. Este error se produce al abrir el archivo adjunto agregado en lugar del contenido real. NPR-16258
-* La seguridad del servicio de formularios permite rellenar automáticamente el servicio de acceso no autorizado a través de protocolos como `file://`, `http://` y `ftp://`. Consulte [Configurar el servicio de relleno previo mediante Configuration Manager](https://experienceleague.adobe.com/es_es/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15414
+* La seguridad del servicio de formularios permite rellenar automáticamente el servicio de acceso no autorizado a través de protocolos como `file://`, `http://` y `ftp://`. Consulte [Configuración del servicio de relleno previo mediante Configuration Manager](https://experienceleague.adobe.com/es_es/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15414
 
 * Solicitud para procesar el formulario adaptable en formato de PDF en lugar de HTML en el paso de verificación y anexar todos los archivos adjuntos al PDF, de modo que la impresión muestre el formulario completo. NPR-9011
 
@@ -1821,7 +1821,7 @@ NPR: 16611
 
 **Administración de procesos - Espacio de trabajo HTML**
 
-* La seguridad del servicio de formularios permite rellenar automáticamente el servicio de acceso no autorizado a través de protocolos como &quot;file://&quot;, &quot;http://&quot; y &quot;ftp://&quot;. Para obtener más información, consulte la [Configurar el servicio de relleno previo mediante Configuration Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15434
+* La seguridad del servicio de formularios permite rellenar automáticamente el servicio de acceso no autorizado a través de protocolos como &quot;file://&quot;, &quot;http://&quot; y &quot;ftp://&quot;. Para obtener más información, consulte [Configuración del servicio de relleno previo mediante Configuration Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15434
 
 **Administración de usuarios**
 
@@ -1860,7 +1860,7 @@ Los aspectos destacados del paquete de correcciones acumulativas 2 son:
 
 * El `SlingPostProcessor` se activa si se edita la página que hace referencia directamente al marco de trabajo de Sling. NPR-15754: revisión para CQ-104153
 
-* El valor de las etiquetas con `tagBasePath` La propiedad no se obtiene en el cuadro de diálogo IU clásica al desplazarse a un componente de página. NPR-15543: revisión para CQ-4199950
+* El valor de las etiquetas con la propiedad `tagBasePath` no se obtiene en el cuadro de diálogo de la IU clásica al desplazarse a un componente de página. NPR-15543: revisión para CQ-4199950
 
 * Mientras realiza operaciones Sling, cuando tiene un fragmento llamado “chunk_n_n-1” `SlingFileUpload handler.getLastChunk` se ejecuta en un bucle interminable con fragmentos vacíos. NPR-15455: revisión para SLING-5701
 
@@ -1895,12 +1895,12 @@ Nota: Esta corrección requiere el Oak CFP 1.4.11 o superior.
 * Falta el botón Borrar en la pestaña de miniaturas de las propiedades de página del componente Sitios. NPR-15143 revisión para CQ-4196997
 * Para un sitio que utiliza Live Copies, al seleccionar la casilla &quot;Live Copy&quot; en el panel Columnas del Admin Console del sitio, el estado de Live Copy no se muestra correctamente y solo se muestra el marcado del HTML. NPR-15108: revisión para CQ-97086
 * Al editar Fragmentos de contenido, si el usuario hace clic en hecho (“√”) para editar antes de obtener la respuesta de la Publicación, el contenido editado no se guarda correctamente. NPR-15014: revisión para CQ-4194095
-* Si se cierra la página Editar durante el modo Deformación de tiempo y se intenta volver a abrirla desde el administrador del sitio, se produce un error con el estado `500`. NPR-14965: revisión para CQ-109647:
+* Si se cierra la página Editar durante el modo Deformación de tiempo y se intenta volver a abrirla desde el administrador del sitio, se producirá un error con el estado `500`. NPR-14965: revisión para CQ-109647:
 * En la IU del Digital Asset Manager (DAM), la Búsqueda del selector de usuarios autorizables busca las causas de una excepción “Memoria insuficiente”. NPR: 15307: revisión para CQ-98542
 
 ### Recursos {#assets-17}
 
-* Después de buscar un recurso en Omnisearch, seleccione un recurso e intente editar las propiedades haciendo clic en **Ver propiedades** y, a continuación, el **Guardar** redirige a los usuarios a una página en blanco. NPR-15900: revisión para CQ-4202372
+* Después de buscar un recurso en Omnisearch, seleccionar un recurso e intentar editar las propiedades haciendo clic en **Ver propiedades**, el botón **Guardar** redirige a los usuarios a una página en blanco. NPR-15900: revisión para CQ-4202372
 * La IU de recursos no responde a eventos. Si selecciona un recurso y hace clic en “Publicar” o “Representaciones”, no se producirá ninguna actividad. NPR-15828: revisión para CQ-4202247
 * Al publicar un recurso desde la vista de tarjeta, la tarjeta no se actualiza para reflejar un estado publicado. En su lugar, se actualiza la página. NPR-15826: revisión para CQ-102732
 * Revisión acumulativa que contiene Revisiones de recursos. NPR-15225
@@ -1924,11 +1924,11 @@ Nota: Esta corrección requiere el Oak CFP 1.4.11 o superior.
 
 ### Interfaz de usuario {#user-interface-5}
 
-* Entrada **[!UICONTROL IU táctil]**, la fecha guardada se muestra para los campos de fecha que ahora tienen type=&#39;datetime&#39; mientras se usa el explorador Internet Chrome versión 56.0.2924.87. NPR-15383: revisión para GRANITE-16481
+* En la **[!UICONTROL IU táctil]**, se muestra la fecha guardada para los campos de fecha que ahora tienen type=&#39;datetime&#39; mientras se usa el explorador Internet Chrome versión 56.0.2924.87. NPR-15383: revisión para GRANITE-16481
 * En **[!UICONTROL IU táctil]**, el Editor de texto enriquecido elimina el subproceso y los elementos de rótulo de las tablas HTML mientras los procesa. NPR-15267: revisión para CRTE-41
 * `FileUpload Validator` no gestiona casos en los que el inicio automático es verdadero o cuando `uploadFile()` se solicita manualmente y genera un informe de validación no válido en estos casos. NPR-15295: revisión para GRANITE-13499
 
-* Omnisearch no permite que los clientes utilicen `/apps` para agregar una fuente de datos de columna, ya que supone que la configuración de ubicación se enumera en */libs/granite/omnisearch/content/metadata/*. NPR-13188 revisión para GRANITE-16479
+* Omnisearch no permite que los clientes que utilizan `/apps` agreguen un origen de datos de columna, ya que supone que la configuración de ubicación se encuentra en */libs/granite/omnisearch/content/metadata/*. NPR-13188 revisión para GRANITE-16479
 * Al utilizar la **[!UICONTROL IU táctil]**, las variantes de producto no se crean al mismo nivel que el producto. El usuario no está informado del estado del proceso de creación de variante. NPR-15345: revisión para CQ-4198948
 
 **Scene7**
@@ -1947,7 +1947,7 @@ Nota: Esta corrección requiere el Oak CFP 1.4.11 o superior.
 
 ### Campaign {#campaign-1}
 
-* Al utilizar la campaña: Segmentación y `MAC` : componentes de integración de Test and Target, la anulación de la publicación de actividades no actualiza el estado de actividad en la IU principal. NPR-15401: revisión para CQ-4199839
+* Al utilizar los componentes Campaign - Segmentación y `MAC` - Integración de pruebas y objetivos, la anulación de la publicación de actividades no actualiza el estado de actividad en la IU principal. NPR-15401: revisión para CQ-4199839
 * Al mover un producto en AEM Commerce, el Asistente para mover el producto omite los valores precargados para el nombre del producto, el título, las páginas a las que se hace referencia, la creación del autor y la fecha de creación. NPR-15228: revisión para CQ-98617
 
 ### Seguridad {#security-4}
@@ -1961,7 +1961,7 @@ Nota: Esta corrección requiere el Oak CFP 1.4.11 o superior.
 `**Adaptive Forms**`
 
 * Los valores predeterminados se sustituyen por valores vacíos en xml al rellenar previamente el Formulario adaptable con XML de entrada. NPR-15721
-* El `afData/afBoundData` El contenedor está presente en el XML enviado, aunque incluso el XML rellenado previamente no tenga `afData/afBoundData` contenedor en formularios adaptables basados en esquemas XML. NPR-15541
+* El contenedor `afData/afBoundData` está presente en el XML enviado, aunque incluso el XML rellenado previamente no tiene el contenedor `afData/afBoundData` en los formularios adaptables basados en esquemas XML. NPR-15541
 
 * Los títulos de la Barra de acordeón deben ser encabezados HTML “h2” editables en lugar de la etiqueta “a”. NPR-15475
 * La presentación de acordeón de un panel de formulario no es accesible para los usuarios del lector de pantalla. Los usuarios no pueden desplazarse a la pestaña acordeón solo desde el teclado mediante un software de lector de pantalla como JAWS o NVDA. NPR-15474
@@ -2031,7 +2031,7 @@ Los aspectos destacados de AEM 6.2 SP2-CFP1 son:
 * Varios problemas de componentes de Despliegue y un problema con Live Copy tras la migración a AEM 6.1 SP1. NPR-15256
 * La acción Despliegue de página no puede crear elementos secundarios más allá del primer nivel, incluso para varias configuraciones de Despliegue. NPR-15055
 * Al enviar el cuadro de diálogo Propiedades de página desde el Editor, se vuelven a escribir los datos sin modificar en las pestañas de LiveCopy. NPR-14693
-* Cuando se envía el cuadro de diálogo Propiedades de página desde el Editor, el MSM Post Processor escribe algunos parámetros de la solicitud en lugar de los `msm:writeLiveCopyConfig` parámetro. NPR-14434
+* Cuando se envía el cuadro de diálogo Propiedades de página desde el Editor, el MSM Post Processor escribe algunos parámetros de la solicitud en lugar del parámetro `msm:writeLiveCopyConfig`. NPR-14434
 * Varios problemas relacionados con el componente de Despliegue, Live Copies y otros aspectos de MSM. NPR-12235
 
 ### Recursos {#assets-18}
@@ -2065,7 +2065,7 @@ Los aspectos destacados de AEM 6.2 SP2-CFP1 son:
 * Solicitud para deshabilitar MissingMetadataNotificationJob porque hace que la IU de Notificación de distintivos rompa la página con una excepción de tiempo de ejecución “No se puede analizar la entrada”. NPR-12500: revisión para CQ-93573
 * La opción “Deshabilitar edición” para un campo de etiqueta no funciona en las páginas de propiedades de recursos en la IU táctil. NPR-12429: revisión para CQ-88835
 * Correcciones de API en AEM Assets 6.2 para la implementación Companion App SMB. NPR-11099
-* Dado que la variable `Jquery` , los usuarios no podrán seleccionar una colección de recursos y confirmar la selección en el panel Asociar contenido de un fragmento de contenido. NPR-14847: Backport para CQ-4194209
+* Desde la actualización de `Jquery`, los usuarios no pueden seleccionar una colección de recursos y confirmar la selección en el panel Asociar contenido de un fragmento de contenido. NPR-14847: Backport para CQ-4194209
 * A pesar de invocar la ordenación infinita en el lado del cliente, solo se ordenan los artículos, banners y colecciones que se muestran actualmente en la IU. NPR-14493: revisión para CQ-109926
 * Solicitud para implementar la función Omnisearch para el servicio Mobile On-Demand de AEM. La búsqueda de palabras clave para cualquier artículo, colección o banner no devuelve ninguna coincidencia. NPR-14093: revisión para CQ-101394
 * Cuando se utiliza el componente coral-select (*granite/ui/components/coral/foundation/form/select*) en un cuadro de diálogo, la inicialización de valores no funciona correctamente en Internet Explorer (exploradores IE11 o Edge) cuando el valor seleccionado contiene un solo elemento. NPR-13395: revisión para CQ-101013
@@ -2083,7 +2083,7 @@ Los aspectos destacados de AEM 6.2 SP2-CFP1 son:
 * Cuando se utilizan flujos de trabajo predeterminados de AEM, CQ Mailer no envía una notificación por correo electrónico al grupo que omite la dirección de correo electrónico de un solo miembro. NPR-14804: Solicitud de revisión para CQ-91499
 * Mejoras de rendimiento para la bandeja de entrada y el distintivo de notificación en la IU táctil. NPR-14145: revisión para CQ-101125
 * Los usuarios no pueden previsualizar la carga útil desde la consola Bandeja de entrada de flujo de trabajo al iniciar flujos de trabajo. NPR-13226: revisión para CQ-100275
-* La cookie &quot;saml_request_path&quot; configurada mediante el Controlador de autenticación SAML muestra la cookie configurada con un `?` carácter. Además, cuando se vuelve a publicar una respuesta SAML en AEM, la cookie de AEM &#39;saml_request_path&#39; devuelve un valor no válido debido a caracteres ya codificados. NPR-13517: revisión proactiva para GRANITE-11722 y GRANITE-14414
+* La cookie &quot;saml_request_path&quot; configurada mediante el Controlador de autenticación SAML muestra la cookie configurada con un carácter `?` adicional. Además, cuando se vuelve a publicar una respuesta SAML en AEM, la cookie de AEM &#39;saml_request_path&#39; devuelve un valor no válido debido a caracteres ya codificados. NPR-13517: revisión proactiva para GRANITE-11722 y GRANITE-14414
 
 ### Dynamic Media {#dynamic-media}
 
@@ -2122,7 +2122,7 @@ NPR-13062: Solicitud de revisión para CQ-99577
 
 `**Forms Manager**`
 
-* Mientras navega por el *Formularios y documentos* , el botón Pegar no se muestra cuando el usuario copia cualquier recurso y luego navega a una carpeta diferente. CQ-111327
+* Al navegar en el directorio *FormsandDocuments*, el botón Pegar no se muestra cuando el usuario copia cualquier recurso y luego navega a una carpeta diferente. CQ-111327
 
 #### Instalador JEE de Forms {#forms-jee-installer-19}
 
@@ -2270,7 +2270,7 @@ Con el paquete de correcciones acumulativas 6.2 SP1-CFP7 de AEM y versiones post
 
 Si utiliza CFP3 o posterior, siga estas instrucciones para deshabilitar el Estado de replicación en la consola de Etiquetado de la IU clásica:
 
-* Superposición *&quot;/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js&quot;* in *`/apps`*
+* Superposición *&quot;/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js&quot;* en *`/apps`*
 
 * Añadir `replicationStateRequired`: “false” después de la Línea #416.
 
@@ -2310,7 +2310,7 @@ name="com.adobe.livecycle">
 </module>
 ```
 
-1. Cree una copia de seguridad del `jsafeFIPS.jar`, `jsafeJCEFIPS.jar`, y `certjFIPS.jar` archivos en [AEM_Forms_Installation_directory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/` y elimine los archivos del directorio mencionado anteriormente.
+1. AEM Cree una copia de seguridad de los archivos `jsafeFIPS.jar`, `jsafeJCEFIPS.jar` y `certjFIPS.jar` en [Forms_Installation_directory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/` y elimine los archivos del directorio mencionado anteriormente.
 
 Póngase en contacto con el [soporte técnico de Adobe](https://experienceleague.adobe.com/?support-solution=General#support) para obtener nuevos archivos JAR. Coloque los archivos JAR obtenidos del [Soporte técnico de Adobe](https://experienceleague.adobe.com/?support-solution=General#support) en [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
@@ -2346,7 +2346,7 @@ El recuento de la cola compartida no se actualiza para otros usuarios cuando un 
 
 1. Vaya a la IU de Administración -> Services -> Workspace -> Global administration.
 1. Exporte la configuración Global.
-1. En el archivo XML descargado, agregue la etiqueta `<client_tasksPollingInterval>10</client_tasksPollingInterval>`. Ten es el valor de ejemplo en segundos. Puede modificarlo en consecuencia.
+1. Agregue la etiqueta `<client_tasksPollingInterval>10</client_tasksPollingInterval>` al archivo XML descargado. Ten es el valor de ejemplo en segundos. Puede modificarlo en consecuencia.
 1. Guarde el archivo.
 1. Vuelva a la IU de Administración -> Services -> Workspace -> Global administration.
 1. Importe el archivo xml en la sección Importar configuración global.
@@ -2372,7 +2372,7 @@ Pueden producirse los siguientes errores transitorios al instalar AEM 6.2 SP1-CF
 Sin embargo, la solución consiste en reiniciar la instancia de AEM después de una actualización.
 
 * El error interno del servidor HTTP 500 aparece al abrir la página de detalles del componente de la consola web.
-* Errores como **crear instancia de componente** y **La fábrica de servicios devolvió un valor nulo** se produce debido al reinicio del repositorio:
+* Se producen errores como **create component instance** y **Service factory returned null** debido al reinicio del repositorio:
 
 * com.day.cq.cq-personalization [com.day.cq.personalization.impl.DefaultProfileProvider(938)] Cannot create component instance due to failure to bind reference profileManager
 * org.apache.sling.commons.scheduler FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory returned null. (Componente: com.day.cq.tagging.impl.TagGarbageCollector (1687))
