@@ -3,16 +3,16 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Experience Manager] Hoja de ruta de versiones {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] proporciona de manera consistente nuevas características y mejoras a las funcionalidades existentes. Proporciona correcciones de errores para los usuarios de [!DNL Cloud Service], Managed Services y versiones locales. Este artículo incluye las próximas versiones para [!DNL Experience Manager].
+[!DNL Adobe Experience Manager] proporciona de forma consistente nuevas funciones y mejoras de las funcionalidades existentes. Proporciona correcciones de errores para los usuarios de [!DNL Cloud Service], Managed Services y versiones locales. Este artículo incluye las próximas versiones para [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Las actualizaciones de productos en términos de nuevas funciones, mejoras y cor
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Las actualizaciones de producto de [!DNL Experience Manager] 6.5 se entregan mediante paquetes de servicio trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores. Para obtener más información sobre el paquete de servicio más reciente, consulte Notas de la versión del paquete de servicio [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes).
+Las actualizaciones de [!DNL Experience Manager] 6.5 se suministran a través de Service Packs trimestrales. Estas incluyen nuevas funciones, mejoras y correcciones de errores. Para obtener más información sobre el paquete de servicio más reciente, consulte Notas de la versión del paquete de servicio [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Versión | Versión | Tipo | Programación | Estado |
 |---|---|---|---|---|

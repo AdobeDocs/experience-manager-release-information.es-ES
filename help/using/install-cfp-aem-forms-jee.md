@@ -1,12 +1,12 @@
 ---
 title: Instalación de paquetes de correcciones acumulativas en AEM Forms JEE
-description: Resumen de los pasos para instalar y configurar el paquete de correcciones acumulativas (CFP) en AEM Forms JEE.
+description: Resumen de los pasos para instalar y configurar el Fix Pack acumulativo (CFP) en AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '905'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -27,12 +27,12 @@ El paquete de AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versión
 
 ### Más instrucciones para CQ-4208044 {#additional-instructions-for-cq}
 
-AEM Si utiliza el servidor [!DNL Forms JEE] de la versión 6.3 de con base de datos de Oracle, configure las siguientes opciones después de la implementación del CFP1, es decir, después de ejecutar el Administrador de configuración. Esta configuración es necesaria para sincronizar usuarios, grupos y abonados del grupo cuando se ejecuta la sincronización de dominios de empresa.
+Si utiliza el servidor AEM 6.3 [!DNL Forms JEE] con base de datos de Oracle, configure las siguientes opciones después de la implementación del CFP1, es decir, después de ejecutar el Administrador de configuración. Esta configuración es necesaria para sincronizar usuarios, grupos y abonados del grupo cuando se ejecuta la sincronización de dominios de empresa.
 
 1. Inicie sesión en la IU de **Administración**.
 1. Vaya a **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**
 1. Exporte el archivo config.xml.
-1. Modifique la entrada para &quot;`groupMemberDBQueryBatchSize`&quot; en las configuraciones de dominio en *config.xml*. Entrada de muestra:
+1. Modifique la entrada para “`groupMemberDBQueryBatchSize`” en las configuraciones de dominio en *config.xml*. Entrada de muestra:
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
 
 1. Para establecer el tiempo de espera de todas las operaciones de servicio en 600 segundos:
 
-   se estableció &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   conjunto “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`”
 
-1. Para establecer el tiempo de espera de los valores de operación `DesigntimeService` en 500 segundos, utilice:
+1. Para establecer el tiempo de espera de los valores de operación `DesigntimeService` en 500 segundos, utilice lo siguiente:
 
-   se estableció &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   conjunto “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`”
 
-1. Para establecer el tiempo de espera de los valores de operación `DesigntimeService's previewLCA` en 700 segundos, utilice:
+1. Para establecer el tiempo de espera de los valores de operación `DesigntimeService's previewLCA` en 700 segundos, utilice lo siguiente:
 
-   se estableció &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   conjunto “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`”
 
 1. Para establecer `DSC operations`, como carga e instalación, en 600 segundos, utilice lo siguiente:
 
-   se estableció &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   conjunto “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`”
 
 ## Instalación y configuración de AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
 
    **Windows**
 
-   Vaya al directorio en el medio de instalación o a la carpeta donde copió el instalador.
+   Vaya al directorio correspondiente del medio de instalación o a la carpeta del disco duro donde copió el programa de instalación.
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`

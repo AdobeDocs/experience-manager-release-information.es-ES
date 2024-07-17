@@ -4,9 +4,9 @@ description: Obtenga más información acerca de cambios y actualizaciones impor
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1255'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>20 de noviembre de 2019</td> 
    <td>Tipo de archivo del proyecto AEM<br /> </td> 
-   <td>El <a href="https://experienceleague.adobe.com/es/docs/experience-manager-core-components/using/developing/archetype/overview">Tipo de archivo del proyecto AEM</a> es una herramienta práctica y flexible para facilitar el desarrollo front-end de su proyecto AEM.<br /> </td> 
+   <td>El <a href="https://experienceleague.adobe.com/es/docs/experience-manager-core-components/using/developing/archetype/overview">tipo de archivo del proyecto AEM</a> es una herramienta práctica y flexible para facilitar el desarrollo front-end de su proyecto AEM.<br /> </td> 
   </tr>
   <tr>
    <td>18 de octubre de 2019<br /> </td> 
@@ -50,33 +50,33 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   </tr>
   <tr>
    <td>18 de octubre de 2019<br /> </td> 
-   <td>Administración de experiencias sin objetivos<br /> </td> 
+   <td>Administración de experiencias sin encabezado<br /> </td> 
    <td>Las características del <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">Procesador de contenido remoto</a>, que se utilizan en el servidor para procesar aplicaciones de una sola página, se han documentado.<br /> </td> 
   </tr>
   <tr>
    <td>11 de octubre de 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Debido a los cambios de seguridad de la API de Adobe Analytics, ya no es posible utilizar la versión de Activity Map incluida en AEM. Consulte <a href="https://experienceleague.adobe.com/es/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Ahora se debe usar el complemento de Activity Map proporcionado por Adobe Analytics</a>. </p> </td> 
+   <td><p>Debido a los cambios de seguridad de la API de Adobe Analytics, ya no es posible utilizar la versión de Activity Map incluida en AEM. Ahora utilice el <a href="https://experienceleague.adobe.com/es/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">complemento Activity Map proporcionado por Adobe Analytics</a>. </p> </td> 
   </tr>
   <tr>
    <td>10 de octubre de 2019</td> 
    <td>Cloud Manager</td> 
-   <td><p>La versión 2019.10.0 de Cloud Manager se publicó el 10 de octubre de 2019.</p> <p>Consulte <a href="https://experienceleague.adobe.com/es/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0">Notas de la versión 2019.10.0</a> que destaca <i>Novedades</i> y actualizaciones sobre los pasos de implementación y la gestión de versiones del proyecto.<br /> </p> </td> 
+   <td><p>La versión 2019.10.0 de Cloud Manager se publicó el 10 de octubre de 2019.</p> <p>Consulte las <a href="https://experienceleague.adobe.com/es/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0">Notas de la versión 2019.10.0</a> que destacan las <i>Novedades</i> y actualizaciones sobre los pasos de implementación y la gestión de versiones del proyecto.<br /> </p> </td> 
   </tr>
   <tr>
    <td>8 de octubre de 2019</td> 
    <td>AEM Screens<br /> </td> 
-   <td><p>AEM Screens ha publicado el paquete de funciones 6 de AEM 6.4.6 y el paquete de funciones 2 de AEM 6.5.2.</p> <p>Consulte <a href="https://experienceleague.adobe.com/es/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909">Notas de la versión para Feature Pack 201909</a> para obtener más información.</p> </td> 
+   <td><p>AEM Screens ha publicado el paquete de funciones 6 de AEM 6.4.6 y el paquete de funciones 2 de AEM 6.5.2.</p> <p>Consulte las <a href="https://experienceleague.adobe.com/es/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909">notas de la versión para Feature Pack 201909</a> para obtener más información.</p> </td> 
   </tr>
   <tr>
    <td>1 de octubre de 2019</td> 
    <td>Instalación de AEM Forms en JEE </td> 
-   <td><p>Se ha añadido compatibilidad de AEM Forms con el controlador de base de datos del Oracle 18c. </p> <p>Matriz de la plataforma: <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Se ha añadido la compatibilidad con AEM Forms para el controlador de la base de datos Oracle 18c. </p> <p>Matriz de la plataforma: <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>1 de octubre de 2019 </td> 
    <td>Guía de prácticas recomendadas para proyectos de AEM Screens</td> 
-   <td><p>Esta nueva guía proporciona datos completos y consejos prácticos para imaginar, diseñar y añadir experiencias personalizadas para los clientes en su implementación de señalización digital. También explica cómo crear un impacto positivo en su empresa mediante algunas de las prácticas recomendadas que se deberían seguir al implementar un proyecto de señalización digital en AEM Screens.</p> <p>Consulte la <a href="https://experienceleague.adobe.com/es/docs/experience-manager-screens/using/about-guide">Guía de prácticas recomendadas para proyectos de AEM Screens</a> para obtener más información.</p> </td> 
+   <td><p>Esta nueva guía proporciona datos completos y consejos prácticos para imaginar, diseñar y añadir experiencias personalizadas para los clientes en su implementación de señalización digital. También explica cómo crear un impacto positivo en su empresa mediante algunas de las prácticas recomendadas que se deberían seguir al implementar un proyecto de señalización digital en AEM Screens.</p> <p>Para más información, consulte la <a href="https://experienceleague.adobe.com/es/docs/experience-manager-screens/using/about-guide">Guía de prácticas recomendadas para proyectos de AEM Screens</a>.</p> </td> 
   </tr>
   <tr>
    <td>25 de septiembre de 2019</td> 
@@ -96,12 +96,12 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>25 de septiembre de 2019</td> 
    <td>Integración de visualizadores de Dynamic Media con Adobe Analytics y Adobe Launch</td> 
-   <td><p>La extensión de visores de Dynamic Media para Adobe Launch 5.13 permite a los clientes integrar Dynamic Media, Adobe Analytics y Adobe Launch. Utiliza eventos y datos específicos para los visualizadores de Dynamic Media en sus configuraciones de Adobe de Launch.</p> <p>Consulte el artículo <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">Integración de visores de Dynamic Media con Adobe Analytics y Adobe Launch</a>. </p> </td> 
+   <td><p>La extensión de visualizadores de Dynamic Media para Adobe Launch 5.13 permite a los clientes integrar Dynamic Media, Adobe Analytics y Adobe Launch. Utiliza eventos y datos específicos para los visores de Dynamic Media en sus configuraciones de Adobe de Launch.</p> <p>Consulte el artículo <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">Integración de visualizadores de Dynamic Media con Adobe Analytics y Adobe Launch</a>. </p> </td> 
   </tr>
   <tr>
    <td>19 de septiembre de 2019</td> 
-   <td>Paquete de servicio 2 de AEM 6.5</td> 
-   <td>El <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-2">paquete de servicio 2 de AEM 6.5 (6.5.2.0)</a> está disponible.</td>
+   <td>Service Pack 2 de AEM 6.5</td> 
+   <td>El <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-2">Service Pack 2 de AEM 6.5 (6.5.2.0)</a> está disponible.</td>
   </tr>
   <tr>
    <td>9 de septiembre de 2019</td> 
@@ -121,22 +121,22 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>21 de agosto de 2019</td> 
    <td>Guía del usuario de AEM 6.5 Screens</td> 
-   <td>La nueva sección sobre los conceptos básicos de la implementación de red ya está activa. Consulte la <a href="https://experienceleague.adobe.com/es/docs/experience-manager-screens/user-guide/aem-screens-introduction">Guía del usuario</a> para obtener más información.</td> 
+   <td>La nueva sección sobre los conceptos básicos de la implementación de red ya está activa. Consulte la <a href="https://experienceleague.adobe.com/es/docs/experience-manager-screens/user-guide/aem-screens-introduction">Guía del usuario</a> para obtener más información.</td> 
   </tr>
   <tr>
    <td>20 de agosto de 2019</td> 
    <td>Etiquetas inteligentes de AEM Assets<br /> </td> 
-   <td>Obtenga información sobre cómo <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">actualizar el certificado</a> una vez que caduque.</td> 
+   <td>Descubra cómo <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">actualizar el certificado</a> cuando haya caducado.</td> 
   </tr>
   <tr>
    <td>2 de agosto de 2019</td> 
    <td>Nuevo paquete de rasterizador de PDF<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">Está disponible un nuevo paquete</a> que ayuda a AEM Assets a procesar archivos AI/PDF pesados y a generar vistas previas y miniaturas.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">Está disponible un nuevo paquete</a> que ayuda a AEM Assets a procesar archivos IA/PDF pesados y a generar vistas previas y miniaturas.<br /> </td> 
   </tr>
   <tr>
    <td>25 de julio de 2019</td> 
    <td>Funcionalidad de AEM Assets con distintas licencias</td> 
-   <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">La lista de funcionalidades</a> de AEM Assets AEM AEM disponibles en una licencia independiente DAM frente a en la biblioteca de medios de comunicación de la biblioteca de medios se actualizaron para la versión 6.5 de.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">La lista de funciones</a> de AEM Assets que están disponibles en una licencia DAM frente a AEM MediaLibrary se actualizan para la versión 6.5 de AEM.<br /> </td> 
   </tr>
   <tr>
    <td>12 de julio de 2019</td> 
@@ -155,8 +155,8 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   </tr>
   <tr>
    <td>3 de julio de 2019</td> 
-   <td>Paquete de servicio 1 de AEM 6.5</td> 
-   <td>El <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-1">paquete de servicio 1 de AEM 6.5 (6.5.1.0)</a> está disponible.</td> 
+   <td>Service Pack 1 de AEM 6.5</td> 
+   <td>El <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-1">Service Pack 1 de AEM 6.5 (6.5.1.0)</a> está disponible.</td> 
   </tr>
   <tr>
    <td>25 de junio de 2019</td> 
@@ -171,7 +171,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>3 de junio de 2019</td> 
    <td>Editor de texto enriquecido (RTE)<br /> </td> 
-   <td><p>Se ha añadido un paquete en <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">Crear un componente de varios campos</a>.<br /> </p> <p>Se ha creado una sección de <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">preguntas más frecuentes sobre la resolución de problemas</a> basada en los comentarios de los clientes.</p> </td> 
+   <td><p>Se ha añadido un paquete en <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">Crear un componente de varios campos</a>.<br /> </p> <p>Se ha creado una sección de <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">preguntas frecuentes sobre la resolución de problemas</a> basada en los comentarios de los clientes.</p> </td> 
   </tr>
   <tr>
    <td>31 de mayo de 2019</td> 
@@ -185,7 +185,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   </tr>
   <tr>
    <td>14 de mayo de 2019</td> 
-   <td>Guía de referencia de visores</td> 
+   <td>Guía de referencia de visualizadores</td> 
    <td>Ya está documentada la carga previa del modificador para el reproductor de <a href="https://experienceleague.adobe.com/es/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload">vídeo</a> y el visualizador <a href="https://experienceleague.adobe.com/es/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload"><code>Video360</code></a>.</td> 
   </tr>
   <tr>
@@ -196,7 +196,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>13 de mayo de 2019</td> 
    <td>API IS/IR</td> 
-   <td>Se han añadido nuevos valores de BFC (conversión de formato de navegador) en la <a href="https://experienceleague.adobe.com/es/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc">sección de referencia Atributos del catálogo de imágenes</a>.</td> 
+   <td>Se han añadido nuevos valores de BFC (conversión del formato de navegador) en la <a href="https://experienceleague.adobe.com/es/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc">sección de referencia Atributos del catálogo de imágenes</a>.</td> 
   </tr>
   <tr>
    <td>8 de mayo de 2019</td> 
@@ -205,8 +205,8 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   </tr>
   <tr>
    <td>1 de mayo de 2019</td> 
-   <td>Guía de referencia de visores</td> 
-   <td><p>Nueva <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/dynamic/360-video">documentación sobre Video 360/VR</a>.</p> </td> 
+   <td>Guía de referencia de visualizadores</td> 
+   <td><p>Nueva <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/dynamic/360-video">documentación sobre el vídeo 360/VR</a>.</p> </td> 
   </tr>
   <tr>
    <td>18 de abril de 2019</td> 
@@ -225,7 +225,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>12 de abril de 2019</td> 
    <td>Guía del usuario de AEM 6.5 Screens</td> 
-   <td><p>Para obtener más información, consulte <a href="https://experienceleague.adobe.com/es/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player">Implementación del Reproductor de Windows 10</a>.</p> </td> 
+   <td><p>Para obtener más información, consulte <a href="https://experienceleague.adobe.com/es/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player">Implementación del reproductor de Windows 10</a>.</p> </td> 
   </tr>
   <tr>
    <td>8 de abril de 2019</td> 
@@ -237,7 +237,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
 
 ## Contenido heredado {#legacy-content}
 
-AEM A partir del 1 de mayo de 2023, las versiones heredadas de la documentación de se han trasladado a una nueva ubicación en [Versiones anteriores de Adobe Experience Manager, CQ y CRX](https://experienceleague.adobe.com/es/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+Desde el 1 de mayo de 2023, las versiones heredadas de la documentación de AEM se han trasladado a una nueva ubicación en las [versiones anteriores de Adobe Experience Manager, CQ y CRX](https://experienceleague.adobe.com/es/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Se han movido las siguientes versiones:
 
