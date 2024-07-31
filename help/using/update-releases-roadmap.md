@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c53f3d28c02939b953a1b817314399ba399b8041
-workflow-type: ht
-source-wordcount: '419'
-ht-degree: 100%
+source-git-commit: ef01ba25b04e890eb58c59dff08e677ecbce6cf1
+workflow-type: tm+mt
+source-wordcount: '421'
+ht-degree: 87%
 
 ---
 
@@ -41,12 +41,13 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento | Actualización automática | 5 a 7 de agosto de 2024 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 19 a 21 de agosto de 2024 | Público destinatario |
-| Versión 2024.8.0 de las funcionalidades | Activación de funciones | 29 de agosto de 2024 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 2 a 4 de septiembre de 2024 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 16 a 18 de septiembre de 2024 | Público destinatario |
-| Versión 2024.9.0 de las funcionalidades | Activación de funciones | 26 de septiembre de 2024 | Público destinatario |
+
+| Versión de mantenimiento [17258](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest#release-17258)|Actualización automática|5-7 de agosto de 2024|Target|
+| Versión de mantenimiento|Actualización automática|19-21 de agosto de 2024|Target|
+| Versión de funciones 2024.8.0 |Activación de funciones|29 de agosto de 2024 |Destino|
+| Versión de mantenimiento|Actualización automática|2 y 4 de septiembre de 2024|Target|
+| Versión de mantenimiento|Actualización automática|16 y 18 de septiembre de 2024|Target|
+| Versión de funciones 2024.9.0 |Activación de funciones|26 de septiembre de 2024 |Destino|
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
