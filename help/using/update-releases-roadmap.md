@@ -3,9 +3,9 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: c03b10a8e6580a4c906cc9523a6c90688ae25dca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
