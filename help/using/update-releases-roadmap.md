@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
-workflow-type: ht
-source-wordcount: '458'
-ht-degree: 100%
+source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+workflow-type: tm+mt
+source-wordcount: '459'
+ht-degree: 92%
 
 ---
 
@@ -66,7 +66,7 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se suministran a través de
 
 >[!NOTE]
 >
-> Las fechas de lanzamiento de los Service packs de AEM 6.5 se planificarán ahora de manera individual en lugar de en ciclos trimestrales fijos como se hacía anteriormente. Manténgase informado sobre las próximas versiones de Service Pack en esta página.
+> AEM Las fechas de lanzamiento de los paquetes de servicio de 6.5 se han planificado ahora de forma individual, en lugar de hacerlo en los ciclos trimestrales fijos como se hacía anteriormente. Asegúrese de mantenerse informado sobre las próximas versiones del Service Pack en esta página.
 
 >[!NOTE]
 >
