@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dd035a73bbb70bf5067b15b39cd49472d3a34481
+source-git-commit: 60521ed99a45b4f820611accbc6e907fb17b6065
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 99%
+source-wordcount: '513'
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 > No se ejecutará ningún mantenimiento automático de AEMaaCS durante los siguientes lapsos de tiempo, a partir y hasta la medianoche (00:00) CET:
 >
 >* Del lunes 25 de noviembre, al martes 3 de diciembre de 2024.
->* El periodo de exclusión de fin de año se añadirá pronto.
+>* El lunes 16 de diciembre de 2024 hasta el viernes 3 de enero de 2025.
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
