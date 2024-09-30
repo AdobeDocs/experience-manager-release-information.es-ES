@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 0a01342f5510d13dde08e2908070278adefe8b94
 workflow-type: tm+mt
 source-wordcount: '530'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -62,7 +62,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 > No se ejecutará ningún mantenimiento automático de AEMaaCS durante los siguientes lapsos de tiempo, a partir y hasta la medianoche (00:00) CET:
 >
 >* Del lunes 25 de noviembre, al martes 3 de diciembre de 2024.
->* El lunes 16 de diciembre de 2024 hasta el viernes 3 de enero de 2025.
+>* Del lunes 16 de diciembre de 2024 hasta el viernes 3 de enero de 2025.
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
