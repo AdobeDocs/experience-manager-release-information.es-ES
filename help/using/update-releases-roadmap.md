@@ -3,9 +3,9 @@ title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 46de4fbe4ead1aaa501b162b68f38b3d90fb0789
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '532'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [17569](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Actualización automática | 2 a 4 de septiembre de 2024 | Actualizado |
 | Versión de mantenimiento [17689](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Actualización automática | 16 a 18 de septiembre de 2024 | Actualizado |
 | Versión [2024.9.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) de las funcionalidades | Activación de funciones | 26 de septiembre de 2024 | Activado |
-| Versión de mantenimiento [17964](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | Actualización automática | Del 30 de septiembre al 2 de octubre de 2024 | Actualizado |
+| Versión de mantenimiento [17964](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | Actualización automática | Del 30 de septiembre al 2 de octubre de 2024 | Actualizado |
 
 ### Próximas versiones {#upcoming}
 
