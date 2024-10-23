@@ -2,10 +2,10 @@
 title: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 description: “Hoja de ruta de versiones de [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 139cdaab2d3d0a7d47809538501a92d13ba4dfdb
+source-git-commit: 449a49c2a13c7657d606aa7c0745f995cc09beb2
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 99%
+source-wordcount: '493'
+ht-degree: 95%
 
 ---
 
@@ -27,9 +27,6 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento [16971](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Actualización automática | 8-10 de julio de 2024 | Actualizado |
-| Versión de mantenimiento [17098](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | Actualización automática | 22-24 de julio de 2024 | Actualizado |
-| Versión [2024.7.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) de las funcionalidades | Activación de funciones | 25 de julio de 2024 | Activado |
 | Versión de mantenimiento [17258](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | Actualización automática | 5 a 7 de agosto de 2024 | Actualizado |
 | Versión de mantenimiento [17465](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Actualización automática | 19 a 21 de agosto de 2024 | Actualizado |
 | Versión [2024.8.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-8-0) de las funcionalidades | Activación de funciones | 29 de agosto de 2024 | Activado |
@@ -47,7 +44,14 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión 2024.10.0 de las funcionalidades | Activación de funciones | 31 de octubre de 2024 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 11 al 13 de noviembre de 2024 | Público destinatario |
 | Versión 2024.11.0 de las funcionalidades | Activación de funciones | 21 de noviembre de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | Del 9 al 11 de diciembre de 2024 | Público destinatario |
 | Versión 2024.12.0 de las funcionalidades | Activación de funciones | 12 de diciembre de 2024 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 20-22 de enero de 2025 | Público destinatario |
+| Versión 2025.1.0 de las funcionalidades | Activación de funciones | viernes, 30 de enero de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 3-5 de febrero de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 17-19 de febrero de 2025 | Público destinatario |
+| Versión 2025.2.0 de las funcionalidades | Activación de funciones | viernes, 27 de febrero de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 3-5 de marzo de 2025 | Público destinatario |
 
 >[!CAUTION]
 >
