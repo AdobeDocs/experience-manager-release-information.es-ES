@@ -2,9 +2,9 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: db8324576d462426bddec6a90cb67d03805ac478
+source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '451'
 ht-degree: 94%
 
 ---
@@ -27,9 +27,6 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento [17569](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Actualización automática | 2 a 4 de septiembre de 2024 | Actualizado |
-| Versión de mantenimiento [17689](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Actualización automática | 16 a 18 de septiembre de 2024 | Actualizado |
-| Versión [2024.9.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-9-0) de las funcionalidades | Activación de funciones | 26 de septiembre de 2024 | Activado |
 | Versión de mantenimiento [17964](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | Actualización automática | Del 30 de septiembre al 2 de octubre de 2024 | Actualizado |
 | Versión de mantenimiento [18175](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | Actualización automática | Del 14 al 16 de octubre de 2024 | Actualizado |
 | Versión de mantenimiento [18311](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | Actualización automática | Del 28 al 30 de octubre de 2024 | Actualizado |
