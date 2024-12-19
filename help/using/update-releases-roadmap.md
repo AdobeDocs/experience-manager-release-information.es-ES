@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: d333addbba29fa670297a433ee12f8c0464b66c0
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -59,7 +59,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
-Las actualizaciones de productos en términos de nuevas funciones, mejoras y correcciones de errores para [!DNL Experience Manager] local y Managed Services compatibles se entregan a través de paquetes de servicio y paquetes de correcciones acumulativas (CFP). Permite una adopción más rápida de las actualizaciones de productos a través de lanzamientos frecuentes. La programación de próximas versiones de actualizaciones de productos es la siguiente.
+Las actualizaciones de productos en términos de nuevas funciones, mejoras y correcciones de errores para los servicios locales y administrados de [!DNL Experience Manager] admitidos se ofrecen mediante Service Packs trimestrales y Fix Packs acumulativos (CFP). Permite una adopción más rápida de las actualizaciones de productos a través de lanzamientos frecuentes. La programación de próximas versiones de actualizaciones de productos es la siguiente.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
