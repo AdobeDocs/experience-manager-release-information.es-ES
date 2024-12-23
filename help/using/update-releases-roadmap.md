@@ -3,9 +3,9 @@ title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: d333addbba29fa670297a433ee12f8c0464b66c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [18175](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | Actualización automática | Del 14 al 16 de octubre de 2024 | Actualizado |
 | Versión de mantenimiento [18311](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | Actualización automática | Del 28 al 30 de octubre de 2024 | Actualizado |
 | Versión [2024.10.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) de las funcionalidades | Activación de funciones | 31 de octubre de 2024 | Activado |
-| Versión de mantenimiento [18598](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | Actualización automática | Del 11 al 13 de noviembre de 2024 | Actualizado |
+| Versión de mantenimiento [18598](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | Actualización automática | Del 11 al 13 de noviembre de 2024 | Actualizado |
 | Versión [2024.11.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) de las funcionalidades | Activación de funciones | 21 de noviembre de 2024 | Activado |
 
 ### Próximas versiones de [!DNL Cloud Service] {#upcoming}
