@@ -3,8 +3,8 @@ title: Versiones de AEM Forms
 description: Obtenga información acerca de todas las versiones de AEM Forms y los paquetes correspondientes.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: eb67b512739390912f148199be2f082bdcaef6d5
-workflow-type: ht
+source-git-commit: 1c00252ff9c14591369cbddf0c24ef2134990c7e
+workflow-type: tm+mt
 source-wordcount: '3159'
 ht-degree: 100%
 
@@ -67,7 +67,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/es/aem.html?package=/content/software-distribution/es/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp22_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Programa de instalación de idioma español</a> </li>
       </ul> 
       </td>
-    <td><p>Programa de instalación de parches JEE para AEM Forms: 6.5.0-00891 <br/><p>Complemento Paquetes de AEM Forms: 6.0.1328 <br/></p><p>Paquete de compatibilidad de AEM Forms: 2.0.50 </td>
+    <td><p>Programa de instalación de parches JEE para AEM Forms: 6.5.0-0093 <br/><p>Complemento Paquetes de AEM Forms: 6.0.1328 <br/></p><p>Paquete de compatibilidad de AEM Forms: 2.0.50 </td>
    </tr>
   <tr>
     <td>13 de junio de 2024</td>
