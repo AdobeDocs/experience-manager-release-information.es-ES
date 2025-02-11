@@ -2,10 +2,10 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c7dfe54cbb913afbf09ea38b9dcdeb9345362b8e
+source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 99%
+source-wordcount: '442'
+ht-degree: 97%
 
 ---
 
@@ -44,17 +44,12 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento | Actualización automática | 24-26 de febrero de 2025 | Público destinatario |
 | Versión 2025.2.0 de las funcionalidades | Activación de funciones | viernes, 27 de febrero de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 10-12 de marzo de 2025 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 24-26 de marzo de 2025 | Público destinatario |
 | Versión 2025.3.0 de las funcionalidades | Activación de funciones | 27 de marzo de 2025 | Público destinatario |
-
->[!CAUTION]
->
->**Período de exclusión de mantenimiento planificado**
->
-> No se ejecutará ningún mantenimiento automático de AEMaaCS durante los siguientes lapsos de tiempo, a partir y hasta la medianoche (00:00) CET:
->
->* Del lunes 25 de noviembre, al martes 3 de diciembre de 2024.
->* Del lunes 16 de diciembre de 2024 hasta el viernes 3 de enero de 2025.
+| Versión de mantenimiento | Actualización automática | Del 31 de marzo al 2 de abril de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 14-16 de abril de 2025 | Público destinatario |
+| Versión 2025.4.0 de las funcionalidades | Activación de funciones | viernes, 24 de abril de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 28-30 de abril de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 12-14 de mayo de 2025 | Público destinatario |
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
