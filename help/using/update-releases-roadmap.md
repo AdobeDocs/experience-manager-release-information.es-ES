@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
 workflow-type: tm+mt
 source-wordcount: '442'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -32,8 +32,8 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión [2024.10.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) de las funcionalidades | Activación de funciones | 31 de octubre de 2024 | Activado |
 | Versión de mantenimiento [18598](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | Actualización automática | Del 11 al 13 de noviembre de 2024 | Actualizado |
 | Versión [2024.11.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-11-0) de las funcionalidades | Activación de funciones | 21 de noviembre de 2024 | Activado |
-| Versión de mantenimiento [18751](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Actualización automática | 13-15 de enero de 2025 | Activado |
-| Versión de mantenimiento [19149](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Actualización automática | 27-29 de enero de 2025 | Actualizado |
+| Versión de mantenimiento [18751](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Actualización automática | 13-15 de enero de 2025 | Activado |
+| Versión de mantenimiento [19149](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Actualización automática | 27-29 de enero de 2025 | Actualizado |
 | Versión [2025.1.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) de las funcionalidades | Activación de funciones | viernes, 30 de enero de 2025 | Activado |
 
 ### Próximas versiones de [!DNL Cloud Service] {#upcoming}
