@@ -2,10 +2,10 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f1d7dbd4a6ddba756ce9a438282969361a47d71d
-workflow-type: ht
-source-wordcount: '443'
-ht-degree: 100%
+source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
+workflow-type: tm+mt
+source-wordcount: '434'
+ht-degree: 97%
 
 ---
 
@@ -27,11 +27,6 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento [18175](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | Actualización automática | Del 14 al 16 de octubre de 2024 | Actualizado |
-| Versión de mantenimiento [18311](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | Actualización automática | Del 28 al 30 de octubre de 2024 | Actualizado |
-| Versión [2024.10.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) de las funcionalidades | Activación de funciones | 31 de octubre de 2024 | Activado |
-| Versión de mantenimiento [18598](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | Actualización automática | Del 11 al 13 de noviembre de 2024 | Actualizado |
-| Versión [2024.11.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-11-0) de las funcionalidades | Activación de funciones | 21 de noviembre de 2024 | Activado |
 | Versión de mantenimiento [18751](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Actualización automática | 13-15 de enero de 2025 | Activado |
 | Versión de mantenimiento [19149](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Actualización automática | 27-29 de enero de 2025 | Actualizado |
 | Versión [2025.1.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) de las funcionalidades | Activación de funciones | viernes, 30 de enero de 2025 | Activado |
@@ -45,11 +40,16 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
 | Versión 2025.3.0 de las funcionalidades | Activación de funciones | 27 de marzo de 2025 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 7-10 de abril de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 7-9 de abril de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 21-23 de abril de 2025 | Público destinatario |
 | Versión 2025.4.0 de las funcionalidades | Activación de funciones | 24 de abril de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 5 al 7 de mayo de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 19 al 21 de mayo de 2025 | Público destinatario |
+| Versión 2025.5.0 de las funcionalidades | Activación de funciones | viernes, 29 de mayo de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 2-4 de junio de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 16-18 de junio de 2025 | Público destinatario |
+| Versión 2025.6.0 de las funcionalidades | Activación de funciones | viernes, 26 de junio de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | Del 30 de junio al 2 de julio de 2025 | Público destinatario |
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
