@@ -3,9 +3,9 @@ title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -45,10 +45,10 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión 2025.4.0 de las funcionalidades | Activación de funciones | 24 de abril de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 5 al 7 de mayo de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 19 al 21 de mayo de 2025 | Público destinatario |
-| Versión 2025.5.0 de las funcionalidades | Activación de funciones | viernes, 29 de mayo de 2025 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 2-4 de junio de 2025 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 16-18 de junio de 2025 | Público destinatario |
-| Versión 2025.6.0 de las funcionalidades | Activación de funciones | viernes, 26 de junio de 2025 | Público destinatario |
+| Versión 2025.5.0 de las funcionalidades | Activación de funciones | 29 de mayo de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 2 a 4 de junio de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 16 a 18 de junio de 2025 | Público destinatario |
+| Versión 2025.6.0 de las funcionalidades | Activación de funciones | 26 de junio de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 30 de junio al 2 de julio de 2025 | Público destinatario |
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
