@@ -2,9 +2,9 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05be3351acbfa775f8af6ba5e1d409ea1d3e1d2f
+source-git-commit: 9cb73dcc651c4d66dfc0f2230b96601bc80f2b31
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '437'
 ht-degree: 99%
 
 ---
@@ -33,14 +33,14 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [19352](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | Actualización automática | 10-12 de febrero de 2025 | Actualizado |
 | Versión de mantenimiento [19687](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | Actualización automática | 24-26 de febrero de 2025 | Actualizado |
 | Versión [2025.2.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) de las funcionalidades | Activación de funciones | 4 de marzo de 2025 | Activado |
-| Versión de mantenimiento [19823](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | 10-12 de marzo de 2025 | Actualizado |
+| Versión de mantenimiento [19823](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-3-0#19823) | Actualización automática | 10-12 de marzo de 2025 | Actualizado |
 | Versión [2025.3.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) de las funcionalidades | Activación de funciones | 27 de marzo de 2025 | Activado |
 
 ### Próximas versiones de [!DNL Cloud Service] {#upcoming}
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento | Actualización automática | 7-9 de abril de 2025 | Público destinatario |
+| Versión de mantenimiento [20133](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | 7-9 de abril de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 21-23 de abril de 2025 | Público destinatario |
 | Versión 2025.4.0 de las funcionalidades | Activación de funciones | 24 de abril de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 5 al 7 de mayo de 2025 | Público destinatario |
