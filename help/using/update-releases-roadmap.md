@@ -2,7 +2,7 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9cb73dcc651c4d66dfc0f2230b96601bc80f2b31
+source-git-commit: 0b4aa3f8d20e1eacdd8c1ea47812f277fcbc092d
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 99%
@@ -41,7 +41,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
 | Versión de mantenimiento [20133](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | 7-9 de abril de 2025 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 21-23 de abril de 2025 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 22-24 de abril de 2025 | Público destinatario |
 | Versión 2025.4.0 de las funcionalidades | Activación de funciones | 24 de abril de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 5 al 7 de mayo de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 19 al 21 de mayo de 2025 | Público destinatario |
