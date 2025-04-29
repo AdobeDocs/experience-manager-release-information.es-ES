@@ -2,9 +2,9 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 65c62261b3b1d96a131cf804ab0e7d59058b1692
+source-git-commit: a955c9315d3b2a0c34f035cfae4504798463dc57
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '409'
 ht-degree: 99%
 
 ---
@@ -27,9 +27,6 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento [18751](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Actualización automática | 13-15 de enero de 2025 | Activado |
-| Versión de mantenimiento [19149](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Actualización automática | 27-29 de enero de 2025 | Actualizado |
-| Versión [2025.1.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) de las funcionalidades | Activación de funciones | viernes, 30 de enero de 2025 | Activado |
 | Versión de mantenimiento [19352](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | Actualización automática | 10-12 de febrero de 2025 | Actualizado |
 | Versión de mantenimiento [19687](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | Actualización automática | 24-26 de febrero de 2025 | Actualizado |
 | Versión [2025.2.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) de las funcionalidades | Activación de funciones | 4 de marzo de 2025 | Activado |
@@ -45,8 +42,8 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 |---|---|---|---|
 | Versión de mantenimiento | Actualización automática | Del 5 al 7 de mayo de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 19 al 21 de mayo de 2025 | Público destinatario |
-| Versión 2025.5.0 de las funcionalidades | Activación de funciones | 29 de mayo de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 2 a 4 de junio de 2025 | Público destinatario |
+| Versión 2025.5.0 de las funcionalidades | Activación de funciones | viernes, 05 de junio de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 16 a 18 de junio de 2025 | Público destinatario |
 | Versión 2025.6.0 de las funcionalidades | Activación de funciones | 26 de junio de 2025 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 30 de junio al 2 de julio de 2025 | Público destinatario |
