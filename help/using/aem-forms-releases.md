@@ -4,9 +4,9 @@ description: Obtenga información acerca de todas las versiones de AEM Forms y l
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: f513fedfecacd16322791ed90cc056cdf23b0eb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3377'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -733,7 +733,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Póngase en contacto con [Soporte de Adobe](https://experienceleague.adobe.com/es?support-solution=General&amp;support-tab=home&amp;lang=es#support) para obtener instaladores para Workbench, SDK de Rights Management, biblioteca de protección portátil (PPL) y PPL mejorada.
+`[1]` Póngase en contacto con [Soporte de Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=home&lang=es#support) para obtener instaladores para Workbench, SDK de Rights Management, biblioteca de protección portátil (PPL) y PPL mejorada.
 
 `[2]`El paquete de complementos de AEM [!DNL Forms] para macOS X no se admite en el entorno de producción y solo debe usarse para la demostración. La función PDF Generator no está disponible para el paquete de macOS X.
 
