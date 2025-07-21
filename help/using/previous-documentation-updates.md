@@ -51,7 +51,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>18 de octubre de 2019<br /> </td> 
    <td>Administración de experiencias sin encabezado<br /> </td> 
-   <td>Las características del <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Procesador de contenido remoto</a>, que se utilizan en el servidor para procesar aplicaciones de una sola página, se han documentado.<br /> </td> 
+   <td>Las características del <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Procesador de contenido remoto</a>, que se utilizan en el servidor para procesar aplicaciones de una sola página, se han documentado.<br /> </td> 
   </tr>
   <tr>
    <td>11 de octubre de 2019</td> 
