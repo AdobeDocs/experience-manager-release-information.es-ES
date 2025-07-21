@@ -3,10 +3,10 @@ title: Actualizaciones de documentación anteriores
 description: Obtenga más información acerca de cambios y actualizaciones importantes de la documentación anteriores de [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
-workflow-type: ht
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -51,7 +51,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>18 de octubre de 2019<br /> </td> 
    <td>Administración de experiencias sin encabezado<br /> </td> 
-   <td>Las características del <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">Procesador de contenido remoto</a>, que se utilizan en el servidor para procesar aplicaciones de una sola página, se han documentado.<br /> </td> 
+   <td>Las características del <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Procesador de contenido remoto</a>, que se utilizan en el servidor para procesar aplicaciones de una sola página, se han documentado.<br /> </td> 
   </tr>
   <tr>
    <td>11 de octubre de 2019</td> 
@@ -81,7 +81,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>25 de septiembre de 2019</td> 
    <td>Componentes principales</td> 
-   <td>La versión 2.7.0 de los componentes principales que presenta el componente encriptado ya está disponible junto con <a href="https://github.com/adobe/aem-core-wcm-components">los detalles del desarrollador y la descarga de proyectos disponibles en GitHub</a>.</td> 
+   <td>La versión 2.7.0 de los componentes principales que presenta el "componente incrustado" ya está disponible junto con <a href="https://github.com/adobe/aem-core-wcm-components">los detalles del desarrollador y la descarga de proyectos disponibles en GitHub</a>.</td> 
   </tr>
   <tr>
    <td>25 de septiembre de 2019</td> 
@@ -146,7 +146,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>8 de julio de 2019</td> 
    <td>Migración a la IU táctil</td> 
-   <td>La página de aterrizaje muestra información y recursos para <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/implementing/developing/introduction/touch-ui-migration">migrar a la interfaz de usuario táctil</a>.</td> 
+   <td>La página de destino muestra información y recursos para <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/implementing/developing/introduction/touch-ui-migration">migrar a la interfaz de usuario táctil</a>.</td> 
   </tr>
   <tr>
    <td>3 de julio de 2019</td> 
@@ -171,7 +171,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>3 de junio de 2019</td> 
    <td>Editor de texto enriquecido (RTE)<br /> </td> 
-   <td><p>Se ha añadido un paquete en <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">Crear un componente de varios campos</a>.<br /> </p> <p>Se ha creado una sección de <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">preguntas frecuentes sobre la resolución de problemas</a> basada en los comentarios de los clientes.</p> </td> 
+   <td><p>Se agregó un paquete en el <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">componente multicampo creado</a>.<br /> </p> <p>Se ha creado una sección de <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">preguntas frecuentes sobre la resolución de problemas</a> basada en los comentarios de los clientes.</p> </td> 
   </tr>
   <tr>
    <td>31 de mayo de 2019</td> 
