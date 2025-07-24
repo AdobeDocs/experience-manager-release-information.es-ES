@@ -4,9 +4,9 @@ description: Obtenga más información acerca de cambios y actualizaciones impor
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1172'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   </tr>
   <tr>
    <td>18 de octubre de 2019<br /> </td> 
-   <td>Administración de experiencias sin encabezado<br /> </td> 
+   <td>Gestión de las experiencias sin encabezado<br /> </td> 
    <td>Las características del <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Procesador de contenido remoto</a>, que se utilizan en el servidor para procesar aplicaciones de una sola página, se han documentado.<br /> </td> 
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>25 de septiembre de 2019</td> 
    <td>Componentes principales</td> 
-   <td>La versión 2.7.0 de los componentes principales que presenta el "componente incrustado" ya está disponible junto con <a href="https://github.com/adobe/aem-core-wcm-components">los detalles del desarrollador y la descarga de proyectos disponibles en GitHub</a>.</td> 
+   <td>La versión 2.7.0 de los componentes principales que presenta el "componente de incrustación" ya está disponible junto con <a href="https://github.com/adobe/aem-core-wcm-components">los detalles para el desarrollador y la descarga de proyectos disponibles en GitHub</a>.</td> 
   </tr>
   <tr>
    <td>25 de septiembre de 2019</td> 
@@ -171,7 +171,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>3 de junio de 2019</td> 
    <td>Editor de texto enriquecido (RTE)<br /> </td> 
-   <td><p>Se agregó un paquete en el <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">componente multicampo creado</a>.<br /> </p> <p>Se ha creado una sección de <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">preguntas frecuentes sobre la resolución de problemas</a> basada en los comentarios de los clientes.</p> </td> 
+   <td><p>Se ha añadido un paquete en el <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">componente de múltiples campos creado</a>.<br /> </p> <p>Se ha creado una sección de <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">preguntas frecuentes sobre la resolución de problemas</a> basada en los comentarios de los clientes.</p> </td> 
   </tr>
   <tr>
    <td>31 de mayo de 2019</td> 
