@@ -35,7 +35,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [21193](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | Actualización automática | 16 a 18 de junio de 2025 | Actualizado |
 | Nuevas funciones de la versión [2025.6.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activación de funciones | 26 de junio de 2025 | Activado |
 | Versión de mantenimiento [21331](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | Actualización automática | Del 30 de junio al 2 de julio de 2025 | Actualizado |
-| Versión de mantenimiento [21570](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Actualización automática | 14-16 de julio de 2025 | Actualizado |
+| Versión de mantenimiento [21570](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Actualización automática | 14-16 de julio de 2025 | Actualizado |
 
 ### Próximas versiones de [!DNL Cloud Service] {#upcoming}
 
