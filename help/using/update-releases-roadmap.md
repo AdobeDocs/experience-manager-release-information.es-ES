@@ -29,9 +29,9 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 |---|---|---|---|
 | Versión de mantenimiento [21570](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Actualización automática | 14-16 de julio de 2025 | Actualizado |
 | Versión de mantenimiento [21706](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Actualización automática | 28-30 de julio de 2025 | Actualizado |
-| Nuevas funciones de la versión [2025.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | Activación de funciones | 7 de agosto de 2025 | Activado |
+| Nuevas funciones de la versión [2025.7.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | Activación de funciones | 7 de agosto de 2025 | Activado |
 | Versión de mantenimiento [21772](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Actualización automática | 11 a 13 de agosto de 2025 | Actualizado |
-| Versión de mantenimiento [21994](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Actualización automática | 25 a 27 de agosto de 2025 | Actualizado |
+| Versión de mantenimiento [21994](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Actualización automática | 25 a 27 de agosto de 2025 | Actualizado |
 | Nuevas funciones de la versión [2025.8.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activación de funciones | 28 de agosto de 2025 | Activado |
 
 ### Próximas versiones de [!DNL Cloud Service] {#upcoming}
