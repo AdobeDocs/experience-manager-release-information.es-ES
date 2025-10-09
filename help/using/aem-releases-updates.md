@@ -31,11 +31,11 @@ Para las ofertas locales y de Managed Services, el artículo incluye la versión
 
 Las actualizaciones de producto de [!DNL Experience Manager] 6.5 se entregan mediante paquetes de servicio e incluyen nuevas funciones, mejoras y correcciones de errores.
 
-Consulte el último Feature Pack](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes) de [[!DNL Experience Manager]  6.5 para obtener más información sobre la versión actual/más reciente. Desde aquí también puede ir a los detalles de las versiones anteriores (presentadas cronológicamente).
+Consulte el último Feature Pack[&#128279;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes) de [!DNL Experience Manager]  6.5 para obtener más información sobre la versión actual/más reciente. Desde aquí también puede ir a los detalles de las versiones anteriores (presentadas cronológicamente).
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem-65-lts}
 
 Las actualizaciones de productos de [!DNL Experience Manager] 6.5 LTS se entregan mediante paquetes de servicio e incluyen nuevas funciones, mejoras y correcciones de errores.
 
-Consulte el último Feature Pack](https://experienceleague.adobe.com/es/docs/experience-manager-65-lts/content/release-notes/release-notes) de [[!DNL Experience Manager]  6.5 para obtener más información sobre la versión actual/más reciente. 
+Consulte el último Feature Pack[&#128279;](https://experienceleague.adobe.com/es/docs/experience-manager-65-lts/content/release-notes/release-notes) de [!DNL Experience Manager]  6.5 para obtener más información sobre la versión actual/más reciente. 
 
