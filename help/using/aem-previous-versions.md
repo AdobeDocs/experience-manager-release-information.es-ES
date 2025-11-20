@@ -4,9 +4,9 @@ description: Descargar paquetes de documentación de versiones anteriores de Ado
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '571'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '579'
+ht-degree: 96%
 
 ---
 
@@ -95,8 +95,8 @@ Para instalar un paquete de documentación heredado, debe tener [!DNL Experience
 
 1. En el cuadro de diálogo de confirmación, vuelva a seleccionar **[!UICONTROL Instalar]**. La instalación tarda unos minutos.
 
-1. En un explorador web, introduzca la página de la documentación para abrirla. En el ejemplo de AEM 5.6.1, la URL sería la siguiente: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. En un explorador web, introduzca la página de la documentación para abrirla. En el ejemplo de AEM 5.6.1, la dirección URL sería: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Obtener ayuda de la comunidad de [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Si tiene alguna pregunta acerca del uso de Experience Manager, Adobe le recomienda que [se ponga en contacto con nuestros expertos de la comunidad en los foros de  [!DNL Experience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=es).
+Si tiene alguna pregunta acerca del uso de Experience Manager, Adobe le recomienda que [se ponga en contacto con nuestros expertos de la comunidad en los foros de  [!DNL Experience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).

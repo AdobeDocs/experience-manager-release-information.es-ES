@@ -13,7 +13,7 @@ level: Beginner, Intermediate, Experienced
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 + [Actualizaciones de versiones de AEM](aem-releases-updates.md)
 + [Hoja de ruta de las versiones de AEM](update-releases-roadmap.md)
 + [Definiciones vehiculares de las versiones de AEM](update-release-vehicle-definitions.md)
-+ Actualizaciones de versiones anteriores {#previous-updates}
++ Actualizaciones de las versiones anteriores {#previous-updates}
    + [Versiones anteriores de AEM, CQ y CRX](aem-previous-versions.md)
 + Actualizaciones de la versión de AEM Forms {#forms-updates}
    + [Versiones de AEM Forms](aem-forms-releases.md)
