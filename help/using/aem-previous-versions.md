@@ -99,4 +99,4 @@ Para instalar un paquete de documentación heredado, debe tener [!DNL Experience
 
 ## Obtener ayuda de la comunidad de [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Si tiene alguna pregunta acerca del uso de Experience Manager, Adobe le recomienda que [se ponga en contacto con nuestros expertos de la comunidad en los foros de  [!DNL Experience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Si tiene alguna pregunta acerca del uso de Experience Manager, Adobe le recomienda que [se ponga en contacto con nuestros expertos de la comunidad en los foros de  [!DNL Experience Manager] &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
