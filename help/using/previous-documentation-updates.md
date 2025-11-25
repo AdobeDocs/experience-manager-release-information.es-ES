@@ -176,7 +176,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>31 de mayo de 2019</td> 
    <td>AEM y Adobe Commerce Integration </td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">Marco de integración de Commerce</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">Marco de integración de Commerce</a>.</td> 
   </tr>
   <tr>
    <td>24 de mayo de 2019</td> 
