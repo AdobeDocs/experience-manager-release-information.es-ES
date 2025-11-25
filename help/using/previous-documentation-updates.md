@@ -3,10 +3,10 @@ title: Actualizaciones de documentación anteriores
 description: Obtenga más información acerca de cambios y actualizaciones importantes de la documentación anteriores de [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 4789d586a9222d7f94283c56b7b71680f68726fe
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -176,7 +176,7 @@ Esta página incluye cambios y actualizaciones importantes de la documentación 
   <tr>
    <td>31 de mayo de 2019</td> 
    <td>AEM y Adobe Commerce Integration </td> 
-   <td><a href="https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Marco de integración de Commerce</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">Marco de integración de Commerce</a>.</td> 
   </tr>
   <tr>
    <td>24 de mayo de 2019</td> 
