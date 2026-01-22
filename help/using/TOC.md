@@ -10,10 +10,10 @@ feature-set: Experience Manager
 feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
+source-git-commit: 1ecab683c9f72e1077b1ca2ace9c0bcd54d5bdcc
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 94%
+source-wordcount: '63'
+ht-degree: 93%
 
 ---
 
@@ -23,12 +23,9 @@ ht-degree: 94%
 + [Página de inicio de información de la versión](home.md)
 + [Actualizaciones de versiones de AEM](aem-releases-updates.md)
 + [Hoja de ruta de las versiones de AEM](update-releases-roadmap.md)
-+ [Definiciones vehiculares de las versiones de AEM](update-release-vehicle-definitions.md)
++ [Definiciones vehiculares de las versiones actualizadas de AEM](update-release-vehicle-definitions.md)
 + Actualizaciones de las versiones anteriores {#previous-updates}
    + [Versiones anteriores de AEM, CQ y CRX](aem-previous-versions.md)
 + Actualizaciones de la versión de AEM Forms {#forms-updates}
    + [Versiones de AEM Forms](aem-forms-releases.md)
    + [Instalación de paquetes de correcciones acumulativas en AEM Forms JEE](install-cfp-aem-forms-jee.md)
-+ Actualizaciones de documentación {#doc-updates}
-   + [Actualizaciones recientes de la documentación](documentation-updates.md)
-   + [Actualizaciones de documentación anteriores](previous-documentation-updates.md)
