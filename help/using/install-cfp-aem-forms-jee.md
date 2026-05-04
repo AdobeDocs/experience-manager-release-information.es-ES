@@ -5,18 +5,18 @@ contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: ht
-source-wordcount: '904'
+source-wordcount: '932'
 ht-degree: 100%
 
 ---
 
-# Instalación de paquetes de correcciones acumulativas en AEM [!DNL  Forms] JEE {#installing-cumulative-fix-packs-on-aem-forms-jee}
+# Instalación de paquetes de correcciones acumulativas en AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## Instalación del CFP en AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
 Para instalar el Fix Pack acumulativo en AEM 6.3 [!DNL Forms JEE], realice la siguiente secuencia de pasos.
 
-1. Para obtener el programa de instalación de AEM 6.3 [!DNL Forms JEE] para CFP, póngase en contacto con [Soporte de Adobe](https://experienceleague.adobe.com/es?support-solution=General&support-tab=home&lang=es#support).
+1. Para obtener el programa de instalación de AEM 6.3 [!DNL Forms JEE] para CFP, póngase en contacto con [Soporte de Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=home&lang=es#support).
 1. Ejecute el instalador del CFP y configure AEM [!DNL Forms JEE] como se describe en [Instalar y configurar AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Instale el último CFP de AEM 6.3.3.x
 1. Instale el paquete de complemento de [!DNL Forms] para el CFP de AEM [6.3.3.x](aem-forms-releases.md)
@@ -42,7 +42,7 @@ Si utiliza el servidor AEM 6.3 [!DNL Forms JEE] con base de datos de Oracle, con
 
 Para instalar el Fix Pack acumulativo en AEM 6.2 [!DNL Forms JEE], realice la siguiente secuencia de pasos.
 
-1. Para obtener el programa de instalación de AEM 6.2 [!DNL Forms JEE] para CFP, póngase en contacto con [Soporte de Adobe](https://experienceleague.adobe.com/es?support-solution=General&support-tab=home&lang=es#support).
+1. Para obtener el programa de instalación de AEM 6.2 [!DNL Forms JEE] para CFP, póngase en contacto con [Soporte de Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=home&lang=es#support).
 1. Ejecute el instalador del CFP y configure AEM [!DNL Forms JEE] como se describe en [Instalar y configurar AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Instale la revisión 12785 de AEM versión 7.0.
 1. Instale el paquete de servicio 1 de AEM 6.2.
@@ -67,7 +67,7 @@ También puede cambiar los tiempos de espera en el nivel de componente utilizand
 
 1. `adobe.all-component.timeout`: sobrescribe los tiempos de espera de todos los servicios del producto.
 1. `adobe.<serviceName>.timeout`: sobrescribe el tiempo de espera solo para el servicio (&lt;serviceName>) mencionado en la clave. Si se establece el valor en el nivel de servicio, el uso de este comando solo sobrescribe el valor de tiempo de espera del servicio especificado si se establece en el nivel de aplicación.
-1. `adobe.<serviceName>.<operationName>.timeout`: solo sobrescribe el tiempo de espera para la operación del servicio específico(&lt;serviceName>.&lt;operationName>) mencionado en la clave. Si el valor se establece en el nivel Operación, el uso de este comando solo sobrescribe el valor de tiempo de espera del servicio especificado si se establece en el nivel de aplicación o nivel de servicio.
+1. `adobe.<serviceName>.<operationName>.timeout`: solo sobrescribe el tiempo de espera para la operación del servicio específico (&lt;serviceName>.&lt;operationName>) que se menciona en la clave. Si el valor se establece en el nivel Operación, el uso de este comando solo sobrescribe el valor de tiempo de espera del servicio especificado si se establece en el nivel de aplicación o nivel de servicio.
 
 **Ejemplos:**
 
@@ -119,9 +119,9 @@ Utilice los siguientes comandos para establecer el tiempo de espera en el nivel 
 
    Desde un símbolo del sistema, escriba:
 
-   * ./aemforms63_cfp_install.bin (**AEM [!DNL Forms] 6.3**)
-   * ./aemforms62_cfp_install.bin (**AEM [!DNL Forms] 6.2**)
-   * ./aemforms61_cfp_install.bin (**AEM [!DNL Forms] 6.1**)
+   * ./aemforms63_cfp_install.bin (**AEM [!DNL Forms] 6.3**)
+   * ./aemforms62_cfp_install.bin (**AEM [!DNL Forms] 6.2**)
+   * ./aemforms61_cfp_install.bin (**AEM [!DNL Forms] 6.1**)
 
    Se inicia el asistente de instalación para guiarle a través de la instalación.
 

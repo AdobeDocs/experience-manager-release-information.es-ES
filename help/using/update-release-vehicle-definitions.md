@@ -5,12 +5,12 @@ contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: ht
-source-wordcount: '740'
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
 
-# Actualizar definiciones vehiculares de versiones de [!DNL Experience Manager]  {#update-release-vehicle-definitions}
+# Actualizar definiciones vehiculares de versiones de [!DNL Experience Manager] {#update-release-vehicle-definitions}
 
 Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL Adobe Experience Manager], incluidas versiones completas, paquetes de funciones y paquetes de servicio que [!DNL Adobe] ofrece a sus clientes.
 
@@ -36,7 +36,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 |-----|-----|
 | Definición | <ul> <li> Versión programada </li> <li> Actualmente, no se puede revertir </li> </ul> |
 | Nombre | <ul> <li> El número de revisión es un número de un solo dígito </li> <li> Después de la instalación, aumentará el dígito del parche del número de versión instalado, según la fórmula X.Y.Z.SPx </li> </ul> Si X es el número de versión principal, Y es el número de versión secundario y Z el número de parche. x es el número del paquete de servicio. |
-| Inclusiones | <ul> <li> Nuevas funciones</li> <li>  Mejoras </li> <li> Corrección de errores </li> <li> Paquetes de funciones de interés común (si los hay) </li> </ul> |
+| Inclusiones | <ul> <li> Nuevas funciones</li> <li>  Mejoras </li> <li> Correcciones de errores </li> <li> Paquetes de funciones de interés común (si los hay) </li> </ul> |
 | Documentación | <ul> <li> Las notas de la versión están disponibles en el portal de documentación </li> <li> Documentación sobre funciones, mejoras y correcciones de errores en el portal de documentación </li> </ul> |
 | Cadencia | Trimestral |
 | Disponibilidad e instalación | <ul> <li> Entregado como paquete </li> <li> Disponible en distribución de software</li> <li>  Requiere una instalación funcional existente </li> </ul> |
