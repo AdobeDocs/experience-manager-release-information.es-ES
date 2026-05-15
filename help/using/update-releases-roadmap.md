@@ -98,7 +98,7 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se suministran a través de
 >  Cada Service Pack es compatible durante un máximo de 18 meses desde su lanzamiento, hasta el 28/2/2027.
 >* La compatibilidad con AEM 6.5 para los clientes de **Adobe Managed Service** finaliza el 31 de agosto de 2026.
 >* Actualmente, la compatibilidad principal con AEM 6.5 para los clientes de **On Prem** está planificada para febrero de 2027.
->* La compatibilidad con AEM 6.5 se continúa a través de AEM 6.5 LTS. Eche un vistazo a las [Preguntas más frecuentes de AEM 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
+>* La compatibilidad con AEM 6.5 se continúa a través de AEM 6.5 LTS. Eche un vistazo a las [Preguntas más frecuentes de AEM 6.5 LTS](https://experienceleague.adobe.com/es/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
