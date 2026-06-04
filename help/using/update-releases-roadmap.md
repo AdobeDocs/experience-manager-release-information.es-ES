@@ -2,9 +2,9 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c3c283bccc7c4569fa7143a8f08b3592c4940ff5
+source-git-commit: 6fceee5f78f67af56b67b867b9487c912bd710c1
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: '1237'
 ht-degree: 75%
 
 ---
@@ -87,7 +87,7 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se suministran a través de
 | [Service Pack 21 de &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) [!DNL Experience Manager] 6.5 | 6.5.21.0 | Service Pack | 6 de junio de 2024 | Activado |
 | [Service Pack 22 de &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) [!DNL Experience Manager] 6.5 | 6.5.22.0 | Service Pack | 21 de noviembre de 2024 | Activado |
 | [Service Pack 23 &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) [!DNL Experience Manager] 6.5 | 6.5.23.0 | Service Pack | 22 de mayo de 2025 | Activado |
-| [Service Pack 24 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6.5.24) [!DNL Experience Manager] 6.5 | 6.5.24.0 | Service Pack | jueves, 26 de noviembre de 2025 | Activado |
+| [Service Pack 24 &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) [!DNL Experience Manager] 6.5 | 6.5.24.0 | Service Pack | jueves, 26 de noviembre de 2025 | Activado |
 | [!DNL Experience Manager] paquete de servicio 25[&#128279;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes) de 6.5  | 6.5.25.0 | Service Pack | 21 de mayo de 2026 | Activado |
 | [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | Service Pack | 19 de noviembre de 2026 | Público destinatario |
 
