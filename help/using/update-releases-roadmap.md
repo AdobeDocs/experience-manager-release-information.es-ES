@@ -85,9 +85,9 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se suministran a través de
 | Versión | Versión | Tipo | Programación | Estado |
 |---|---|---|---|---|
 | [Service Pack 21 de &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) [!DNL Experience Manager] 6.5 | 6.5.21.0 | Service Pack | 6 de junio de 2024 | Activado |
-| [Service Pack 22 de &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) [!DNL Experience Manager] 6.5 | 6.5.22.0 | Service Pack | 21 de noviembre de 2024 | Activado |
+| [Service Pack 22 de &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) [!DNL Experience Manager] 6.5 | 6.5.22.0 | Service Pack | 21 de noviembre de 2024 | Activado |
 | [Service Pack 23 &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) [!DNL Experience Manager] 6.5 | 6.5.23.0 | Service Pack | 22 de mayo de 2025 | Activado |
-| [Service Pack 24 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) [!DNL Experience Manager] 6.5 | 6.5.24.0 | Service Pack | jueves, 26 de noviembre de 2025 | Activado |
+| [Service Pack 24 &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) [!DNL Experience Manager] 6.5 | 6.5.24.0 | Service Pack | jueves, 26 de noviembre de 2025 | Activado |
 | [!DNL Experience Manager] paquete de servicio 25[&#128279;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes) de 6.5  | 6.5.25.0 | Service Pack | 21 de mayo de 2026 | Activado |
 | [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | Service Pack | 19 de noviembre de 2026 | Público destinatario |
 
@@ -99,7 +99,7 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se suministran a través de
 >  Cada paquete de servicio es compatible durante un máximo de 18 meses desde su lanzamiento, hasta el 28/2/2027.
 >* La compatibilidad con AEM 6.5 para los clientes de **Adobe Managed Service** finaliza el 31 de agosto de 2026.
 >* Actualmente, la compatibilidad principal con AEM 6.5 para los clientes de **On Prem** está planificada para febrero de 2027.
->* La compatibilidad con AEM 6.5 se continúa a través de AEM 6.5 LTS. Consulte las [Preguntas más frecuentes de AEM 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
+>* La compatibilidad con AEM 6.5 se continúa a través de AEM 6.5 LTS. Consulte las [Preguntas más frecuentes de AEM 6.5 LTS](https://experienceleague.adobe.com/es/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
