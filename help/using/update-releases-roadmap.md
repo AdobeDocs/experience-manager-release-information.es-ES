@@ -2,7 +2,7 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7243d26f051b19264dc1f75c130801c87f59f9a0
+source-git-commit: 33ca32932338f46f5e25ac6e51ebda0ddc796a1c
 workflow-type: tm+mt
 source-wordcount: '1256'
 ht-degree: 73%
@@ -58,7 +58,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento [26635](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | Del 22 al 24 de junio de 2026 | Público destinatario |
+| Versión de mantenimiento [26773](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | Del 22 al 24 de junio de 2026 | Público destinatario |
 | Nuevas funciones de la versión 2026.6.0 | Activación de funciones | 25 de junio de 2026 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 6-8 de julio de 2026 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 20-22 de julio de 2026 | Target |
