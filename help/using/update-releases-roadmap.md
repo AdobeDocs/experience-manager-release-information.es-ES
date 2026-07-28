@@ -2,10 +2,10 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: af8a6e57c31622c80eb0b5db724bbd3909f4935b
+source-git-commit: 9ecd3a4535aa5784aa0857c4680a66ea38fb6e9f
 workflow-type: tm+mt
-source-wordcount: '1314'
-ht-degree: 64%
+source-wordcount: '1317'
+ht-degree: 61%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 64%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-Las nuevas funciones de [!DNL Experience Manager] as a [!DNL Cloud Service] se incluyen en la [activación de funcionalidades mensual](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), mientras que las mejoras y correcciones de errores se incluyen en las [versiones de mantenimiento](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) dos veces al mes.
-Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service] están planificadas del siguiente modo:
+[!DNL Experience Manager] as a [!DNL Cloud Service] se entregan nuevas características a través de una [activación de características mensual](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), mientras que las mejoras y correcciones de errores se entregan dos veces al mes a través de [versiones de mantenimiento](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest).
+Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service] están planificadas de la siguiente manera:
 
 >[!IMPORTANT]
 >
@@ -51,14 +51,14 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [26773](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | Actualización automática | 22-24 de junio de 2026 | Actualizado |
 | Versión de característica [2026.6.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activación de funciones | 25 de junio de 2026 | Activado |
 | Versión de mantenimiento [26908](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908) | Actualización automática | 6-8 de julio de 2026 | Actualizado |
-| Versión de mantenimiento [27083](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | 20-22 de julio de 2026 | Público destinatario |
+| Versión de mantenimiento [27083](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) | Actualización automática | 20-22 de julio de 2026 | Actualizado |
 
 ### Próximas versiones de [!DNL Cloud Service] {#upcoming}
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de funciones 2026.7.0 | Activación de funciones | 30 de julio de 2026 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | 3-5 de agosto de 2026 | Público destinatario |
+| Versión de funciones 2026.7.0 | Activación de funciones | 30 de julio de 2026 | Objetivo |
+| Versión de mantenimiento [27293](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | 3-5 de agosto de 2026 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | 17-19 de agosto de 2026 | Público destinatario |
 | Versión de funciones 2026.8.0 | Activación de funciones | 27 de agosto de 2026 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 31 de agosto al 2 de septiembre de 2026 | Público destinatario |
