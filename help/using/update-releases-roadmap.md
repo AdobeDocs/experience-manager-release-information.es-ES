@@ -2,10 +2,10 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: fd0dd21e6ee33a54eac0c028521f38cab458e198
+source-git-commit: e9efc525560e748137d4884ad4ec6b6e288bc732
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 52%
+source-wordcount: '1143'
+ht-degree: 53%
 
 ---
 
@@ -34,9 +34,6 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento [25892](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Actualización automática | Del 11 al 13 de mayo de 2026 | Actualizado |
-| Versión de mantenimiento [26309](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | Actualización automática | 25-27 de mayo de 2026 | Actualizado |
-| Versión de característica [2026.5.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | Activación de funciones | 28 de mayo de 2026 | Activado |
 | Versión de mantenimiento [26353](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | Actualización automática | Del 8 al 10 de junio de 2026 | Actualizado |
 | Versión de mantenimiento [26773](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | Actualización automática | 22-24 de junio de 2026 | Actualizado |
 | Versión de característica [2026.6.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-6-0) | Activación de funciones | 25 de junio de 2026 | Activado |
@@ -46,15 +43,28 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [27293](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293) | Actualización automática | 3-5 de agosto de 2026 | Actualizado |
 | Versión de mantenimiento [27673](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | Actualización automática | 17-19 de agosto de 2026 | Actualizado |
 | Versión de característica [2026.8.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activación de funciones | 27 de agosto de 2026 | Activado |
+| Versión de mantenimiento [27830](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | Del 31 de agosto al 2 de septiembre de 2026 | Actualizado |
 
 ### Próximas versiones de [!DNL Cloud Service] {#upcoming}
 
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
-| Versión de mantenimiento [27830](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | Del 31 de agosto al 2 de septiembre de 2026 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 14 al 16 de septiembre de 2026 | Público destinatario |
 | Versión de funciones 2026.9.0 | Activación de funciones | 24 de septiembre de 2026 | Público destinatario |
-| Versión de mantenimiento | Actualización automática | Del 28 al 30 de septiembre de 2026 | Objetivo |
+| Versión de mantenimiento | Actualización automática | Del 28 al 30 de septiembre de 2026 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | Del 12 al 14 de octubre de 2026 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | 26-28 de octubre de 2026 | Público destinatario |
+| Versión de funciones 2026.10.0 | Activación de funciones | 29 de octubre de 2026 | Público destinatario |
+| Versión de mantenimiento | Actualización automática | Del 9 al 11 de noviembre de 2026 | Público destinatario |
+
+>[!CAUTION]
+>
+>**Período de exclusión de mantenimiento planificado**
+>
+> No se ejecutará ningún mantenimiento automático de AEMaaCS durante los siguientes períodos de tiempo, a partir y hasta la medianoche (00:00) CET:
+>
+>* El lunes 23 de noviembre de 2026 hasta el martes 1 de diciembre de 2026.
+>* El lunes 14 de diciembre de 2026 hasta el domingo 3 de enero de 2027.
 
 ## [!DNL Experience Manager] On-Premise y Managed Services {#aem-on-prem-managed-services}
 
