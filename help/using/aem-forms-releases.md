@@ -4,9 +4,9 @@ description: Obtenga información acerca de todas las versiones de AEM Forms y l
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
-workflow-type: tm+mt
-source-wordcount: '16071'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '16241'
+ht-degree: 100%
 
 ---
 
@@ -57,16 +57,16 @@ Este artículo proporciona información para:
         </a>
       </td>
       <td>
-        <strong style="display:block; margin:10px 0;">Instaladores WLP del paquete de servicio 2 de AEM Forms 6.5 LTS (perfil IBM WebSphere Liberty)</strong>
+        <strong style="display:block; margin:10px 0;">Instaladores WLP (IBM WebSphere Liberty Profile) de AEM Forms 6.5 LTS Service Pack 2</strong>
         <ul>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_win.zip">
-              Programa de instalación de WLP (IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS Service Pack 2 para Microsoft Windows
+              Instalador WLP (IBM WebSphere Liberty Profile) de AEM Forms 6.5 LTS Service Pack 2 para Microsoft Windows
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
-              Programa de instalación de WLP (IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS Service Pack 2 para Linux
+              Instalador WLP (IBM WebSphere Liberty Profile) de AEM Forms 6.5 LTS Service Pack 2 para Linux
             </a>
           </li>
         </ul>
@@ -96,7 +96,7 @@ Este artículo proporciona información para:
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">Complemento de AEM Forms 6.5 LTS SP2 para macOS X</a></li>
         </ul>
       </td>
-      <td>Paquetes de complemento del SP2 de AEM Forms 6.5 LTS: 6.1.206
+      <td>Paquetes de complemento de AEM Forms 6.5 LTS SP2: 6.1.206
       </td>
      </tr>
      <tr>
@@ -194,7 +194,7 @@ Este artículo proporciona información para:
       <td>10 de junio de 2026</td>
       <td>
         <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes">
-          Paquete de complemento del paquete de servicio 25 de AEM 6.5 Forms para Forms para AEM 6.5.25.0
+          Paquete de complementos de formularios de AEM 6.5 Forms Service Pack 25 para AEM 6.5.25.0
         </a>
       </td>
       <td>
@@ -233,14 +233,14 @@ Este artículo proporciona información para:
         </ul>
       </td>
       <td>
-        <p>Programa de instalación de parches de AEM Forms OSGI: 6.0.1482<br/><p>Programa de instalación de parches de AEM Forms JEE: 6-5-0-127 <br/></p></td>
+        <p>Instalador de parches de AEM Forms OSGI: 6.0.1482<br/><p>Instalador de parches de AEM Forms JEE: 6-5-0-127 <br/></p></td>
     </tr>
     <tr>
       <td>28 de enero de 2026</td>
       <td>
         <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes">
-          Paquete de complementos de formularios de AEM 6.5 Forms Service Pack 24 para AEM 6.5.24.0
-        </a>
+          Paquete de complementos de AEM 6.5 Forms Service Pack 24 Forms para AEM 6.5.24.0
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes">
@@ -284,8 +284,8 @@ Este artículo proporciona información para:
       <td>6 de junio de 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes">
-          Paquete de complementos de formularios de AEM 6.5 Forms Service Pack 23 para AEM 6.5.23.0
-        </a>
+          Paquete de complementos de AEM 6.5 Forms Service Pack 23 Forms para AEM 6.5.23.0
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes">
