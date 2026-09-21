@@ -3,10 +3,10 @@ title: Versiones de AEM Forms
 description: Obtenga información acerca de todas las versiones de AEM Forms y los paquetes correspondientes.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 71e0cf1e14117e9e7b6e09501af6140b1fbc8482
+source-git-commit: c78532eaa6c54e4a6472467f0ea9f079ee784188
 workflow-type: tm+mt
-source-wordcount: '16443'
-ht-degree: 100%
+source-wordcount: '16479'
+ht-degree: 99%
 ---
 # Versiones de AEM [!DNL Forms] {#aem-forms-releases}
 
@@ -251,6 +251,10 @@ Este artículo proporciona información para:
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/weblogic/adobe-aem-forms-jee-service-pack-6.5.25.0-linux-weblogic.tar.gz">WebLogic Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-windows-websphere.zip">WebSphere® Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-linux-websphere.tar.gz">WebSphere® Linux®</a>      </li>
+        </ul>
+        <b style="display:block; margin:10px 0;">Programa de instalación de Workbench</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">Programa de instalación de Workbench de AEM Forms</a>       </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
