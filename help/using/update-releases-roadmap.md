@@ -2,7 +2,7 @@
 title: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 description: Programa de actualizaciones de [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 47f3272a359a58f3020675c038aa2bbcfec6788e
+source-git-commit: aaad21bcbc053d4d2a587b371f0d7b01befbe64d
 workflow-type: tm+mt
 source-wordcount: '1153'
 ht-degree: 98%
@@ -48,7 +48,7 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión | Evento | Programación | Estado |
 |---|---|---|---|
 | Nuevas funciones de la versión 2026.9.0 | Activación de funciones | 24 de septiembre de 2026 | Público destinatario |
-| Versión de mantenimiento [28187](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | 28-30 de septiembre de 2026 | Público destinatario |
+| Versión de mantenimiento [28386](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Actualización automática | 28-30 de septiembre de 2026 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 12 al 14 de octubre de 2026 | Público destinatario |
 | Versión de mantenimiento | Actualización automática | Del 26 al 28 de octubre de 2026 | Público destinatario |
 | Nuevas funciones de la versión 2026.10.0 | Activación de funciones | 29 de octubre de 2026 | Público destinatario |
@@ -83,10 +83,10 @@ Las actualizaciones de [!DNL Experience Manager] 6.5 se suministran a través de
 
 | Versión | Versión | Tipo | Programación | Estado |
 |---|---|---|---|---|
-| [Service Pack 21 de &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) [!DNL Experience Manager] 6.5 | 6.5.21.0 | Service Pack | 6 de junio de 2024 | Activado |
-| [Service Pack 22 de &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) [!DNL Experience Manager] 6.5 | 6.5.22.0 | Service Pack | 21 de noviembre de 2024 | Activado |
-| [Service Pack 23 &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) [!DNL Experience Manager] 6.5 | 6.5.23.0 | Service Pack | 22 de mayo de 2025 | Activado |
-| [Service Pack 24 &#x200B;](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) [!DNL Experience Manager] 6.5 | 6.5.24.0 | Service Pack | jueves, 26 de noviembre de 2025 | Activado |
+| [Service Pack 21 de ](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) [!DNL Experience Manager] 6.5 | 6.5.21.0 | Service Pack | 6 de junio de 2024 | Activado |
+| [Service Pack 22 de ](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) [!DNL Experience Manager] 6.5 | 6.5.22.0 | Service Pack | 21 de noviembre de 2024 | Activado |
+| [Service Pack 23 ](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) [!DNL Experience Manager] 6.5 | 6.5.23.0 | Service Pack | 22 de mayo de 2025 | Activado |
+| [Service Pack 24 ](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) [!DNL Experience Manager] 6.5 | 6.5.24.0 | Service Pack | jueves, 26 de noviembre de 2025 | Activado |
 | [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | Service Pack | 21 de mayo de 2026 | Activado |
 | [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | Service Pack | 19 de noviembre de 2026 | Público destinatario |
 
