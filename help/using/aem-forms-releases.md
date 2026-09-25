@@ -69,7 +69,7 @@ Este artículo proporciona información para:
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.238.zip">
-              Complemento del Service Pack para AEM Forms 6.5 LTS para macOS
+              Complemento del Service Pack 3 para AEM Forms 6.5 LTS para macOS
             </a>
           </li>
         </ul>
