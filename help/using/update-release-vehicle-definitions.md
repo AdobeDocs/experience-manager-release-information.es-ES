@@ -1,15 +1,32 @@
 ---
 title: Actualizar definiciones vehiculares de versiones
-description: En este artículo se detallan los distintos tipos de versiones de  [!DNL Experience Manager] , incluidas las versiones completas, los paquetes de funciones y los Service Pack.
+description: Este artículo detalla los distintos tipos de versiones de [!DNL Experience Manager], incluidas las versiones completas, los paquetes de funciones y los paquetes de servicio.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
 workflow-type: tm+mt
-source-wordcount: '743'
-ht-degree: 100%
-
+source-wordcount: '744'
+ht-degree: 97%
 ---
-
 # Actualizar definiciones vehiculares de versiones de [!DNL Experience Manager] {#update-release-vehicle-definitions}
 
 Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL Adobe Experience Manager], incluidas versiones completas, paquetes de funciones y paquetes de servicio que [!DNL Adobe] ofrece a sus clientes.
