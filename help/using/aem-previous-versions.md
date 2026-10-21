@@ -54,7 +54,7 @@ Antes de descargar el paquete, defina quién consume el contenido. Esta decisió
 
 Se requiere un Adobe ID válido:
 
-* Si no tiene un Adobe ID, puede crear uno en https://www.adobe.com/
+* Si no tiene un Adobe ID, puede crear uno en https://www.adobe.com/es/
 Si necesita ayuda para crear o administrar su Adobe ID, [consulte esta guía](https://helpx.adobe.com/es/manage-account.html)
 
 | Versión de [!DNL Experience Manager] | Vínculo de distribución de software |
@@ -116,4 +116,4 @@ Para instalar un paquete de documentación heredado, debe tener [!DNL Experience
 
 ## Obtener ayuda de la comunidad de [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Si tiene alguna pregunta acerca del uso de Experience Manager, Adobe le recomienda que [se ponga en contacto con nuestros expertos de la comunidad en los foros de  [!DNL Experience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Si tiene alguna pregunta acerca del uso de Experience Manager, Adobe le recomienda que [se ponga en contacto con nuestros expertos de la comunidad en los foros de  [!DNL Experience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=es).
