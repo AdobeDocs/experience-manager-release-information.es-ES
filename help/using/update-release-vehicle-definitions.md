@@ -1,6 +1,6 @@
 ---
 title: Actualizar definiciones vehiculares de versiones
-description: Este artículo detalla los distintos tipos de versiones de [!DNL Experience Manager], incluidas las versiones completas, los paquetes de funciones y los paquetes de servicio.
+description: En este artículo se detallan los distintos tipos de versiones de [!DNL Experience Manager], incluidas las versiones completas, los paquetes de funciones y los Service Packs.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '744'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # Actualizar definiciones vehiculares de versiones de [!DNL Experience Manager] {#update-release-vehicle-definitions}
 
@@ -33,7 +33,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 
 >[!NOTE]
 >
->Para consultar la programación de versiones de actualización de [!DNL Experience Manager], consulte el programa de actualizaciones de [[!DNL Experience Manager] &#x200B;](update-releases-roadmap.md)
+>Para consultar la programación de versiones de actualización de [!DNL Experience Manager], consulte el programa de actualizaciones de [[!DNL Experience Manager] ](update-releases-roadmap.md)
 
 ## Versión completa {#full-release}
 
@@ -44,7 +44,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 | Inclusiones | <ul> <li> Nuevas funciones </li> <li>  Mejoras </li> <li>  Corrección de errores </li> </ul> |
 | Documentación | <ul> <li> Las notas de la versión están disponibles en el portal de documentación </li> <li> La documentación sobre funciones, mejoras y correcciones de errores está disponible en el portal de documentación </li> </ul> |
 | Cadencia | Anual |
-| Disponibilidad e instalación | <ul> <li> Se entrega como un instalador de producto independiente </li> <li>  Disponible en el sitio web de licencias y Servicios administrados </li> <li> El sitio web de licencias puede requerir la migración del repositorio de contenido </li> </ul> |
+| Disponibilidad e instalación | <ul> <li> Se entrega como un instalador de producto independiente </li> <li>  Disponible en el sitio web de licencias y Managed Services </li> <li> El sitio web de licencias puede requerir la migración del repositorio de contenido </li> </ul> |
 | Nivel de prueba | Totalmente validado por el control de calidad |
 
 ## Service Pack {#service-pack}
@@ -86,7 +86,7 @@ Este documento incluye detalles sobre los distintos tipos de versiones de [!DNL 
 
 | Elementos | Detalles |
 |--------|-----|
-| Definición | <ul> <li>Los Feature Packs son funcionalidades adicionales y se suministran mediante paquetes de servicios. Si una versión de [!DNL Experience Manager] ha lanzado su último Service Pack, Adobe no proporcionará ningún Feature Pack para ella en el futuro. </li> <li> Los programas configurados contienen mejoras del producto, programadas para una versión posterior del producto, pero entregadas con antelación según la decisión de la administración de productos de [!DNL Adobe's].</li> <li>  Las funciones siempre se combinan con la siguiente versión principal. A continuación, se transfieren a la versión de [!DNL Experience Manager] requerida por el cliente </li> <li>  Los paquetes de funciones de Interés común y GA se combinan en el siguiente paquete de servicio  </li> </ul> |
+| Definición | <ul> <li>Los Feature Packs son funcionalidades adicionales y se suministran mediante paquetes de servicios. Si una versión de [!DNL Experience Manager] ha lanzado su último Service Pack, Adobe no proporcionará ningún Feature Pack para ella en el futuro. </li> <li> Los paquetes de funcionalidades contienen mejoras del producto, programadas para una versión posterior del producto, pero entregadas con antelación según la decisión de la administración de productos de [!DNL Adobe's].</li> <li>  Las funciones siempre se combinan con la siguiente versión principal. A continuación, se transfieren a la versión de [!DNL Experience Manager] requerida por el cliente </li> <li>  Los paquetes de funciones de Interés común y GA se combinan en el siguiente paquete de servicio  </li> </ul> |
 | Nombre | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Inclusiones | <ul> <li> Nuevas funciones </li> <li> Mejoras </li> <li> Correcciones de errores (actualizaciones de productos incrementales) </li> </ul> |
 | Documentación | La documentación está disponible en adobe.com. |
