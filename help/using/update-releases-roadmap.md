@@ -59,8 +59,8 @@ Las próximas versiones para [!DNL Experience Manager] as a [!DNL Cloud Service]
 | Versión de mantenimiento [28386](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Actualización automática | 28-30 de septiembre de 2026 | Actualizado |
 | Versión de mantenimiento [28871](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | Actualización automática | Del 12 al 14 de octubre de 2026 | Actualizado |
 | Versión de mantenimiento [29023](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | Actualización automática | Del 26 al 28 de octubre de 2026 | Actualizado |
-| Nuevas funciones de la versión [2026.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | Activación de funciones | 29 de octubre de 2026 | Activado |
-| Versión de mantenimiento [29251](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251) | Actualización automática | Del 9 al 11 de noviembre de 2026 | Actualizado |
+| Nuevas funciones de la versión [2026.10.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | Activación de funciones | 29 de octubre de 2026 | Activado |
+| Versión de mantenimiento [29251](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251) | Actualización automática | Del 9 al 11 de noviembre de 2026 | Actualizado |
 | Versión de característica [2026.11.0](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Activación de funciones | 19 de noviembre de 2026 | Activado |
 
 ### Próximas versiones de [!DNL Cloud Service] {#upcoming}
