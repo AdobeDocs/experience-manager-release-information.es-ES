@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 3d6fb57a76993b1acc466b266957ba6f3ed55d94
+source-git-commit: 1ad2d335425f6b3b89073449ff17d50dec880e19
 workflow-type: tm+mt
-source-wordcount: '1300'
-ht-degree: 88%
+source-wordcount: '1325'
+ht-degree: 86%
 ---
 # [!DNL Experience Manager] Hoja de ruta de versiones {#aem-releases-roadmap}
 
@@ -105,7 +105,9 @@ Las actualizaciones del producto de [!DNL Experience Manager] 6.5 LTS se suminis
 
 >[!NOTE]
 >
-> Las correcciones de seguridad solo estarán disponibles en el último Service Pack publicado.
+> Adobe recomienda adoptar cada paquete de servicio AEM 6.5 LTS a medida que esté disponible. Planifique actualizaciones trimestrales para beneficiarse de las últimas funciones, mejoras y correcciones de errores.
+> 
+> Las correcciones de seguridad solo están disponibles para el Service Pack más reciente.
 
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
